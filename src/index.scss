@@ -1,1 +1,10 @@
 @import '~bootstrap/scss/bootstrap';
+
+
+$theme-colors: (
+  'primary': #a7bc5b,
+  'secondary': #8da242,
+  'header': rgba(255, 255, 255, .9)
+);
+
+@import '~bootstrap/scss/bootstrap';
