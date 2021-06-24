@@ -18,8 +18,8 @@ class MainImage extends React.Component {
             <Container style={{ paddingTop: '35rem', paddingBottom: '5rem' }}>
               <Row className="d-flex flex-column bannerfont" >
                 <Col lg={5} md={12} sm={12} xl={5}>
-                  <h1 className="mb-0 banner-heading" style={{ textShadow: '-2px 2px 8px #000' }}>1234 Hickory Grove</h1>
-                  <p className="mt-0 banner-subheading" style={{ textShadow: '-2px 2px 8px #000' }}>Short Term Rental</p>
+                  <h1 className="mb-0 banner-heading bannerfont" style={{ textShadow: '-2px 2px 8px #000' }}>1234 Hickory Grove</h1>
+                  <p className="mt-0 banner-subheading bannerfont" style={{ textShadow: '-2px 2px 8px #000' }}>Short Term Rental</p>
                 </Col>
               </Row>
             </Container>
