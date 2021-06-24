@@ -10,14 +10,20 @@ class MainImage extends React.Component {
   }
   render () {
     return (
-      <Container fluid class="bg-image" style={{ backgroundImage: `url(${TheImage})`, height: '100vh', backgroundSize: 'cover', backgroundPosition: 'center' }}>
-        <Container style={{ paddingTop: '62vh' }}>
-          <Row className="d-flex flex-column bannerfont">
-            <Col lg={5}>
-              <h1 className="mb-0" style={{ fontSize: '4.25rem' }}>1234 Hickory Grove</h1>
-              <p className="mt-0" style={{ fontSize: '1.8rem', textAlign: 'center' }}>Short Term Rental</p>
-            </Col>
-          </Row>
+      <Container fluid >
+        <Container fluid className="blur" style={{ backgroundImage: `url(${TheImage})` }}>
+        </Container>
+        <Container fluid className="bg-image" style={{ backgroundImage: `url(${TheImage})`, maxWidth: '1600px', maxHeight: '800px', backgroundPositionX: 'center', backgroundSize: 'cover', backgroundRepeat: 'no-repeat' }}>
+          <Container>
+            <Container style={{ paddingTop: '35rem', paddingBottom: '5rem' }}>
+              <Row className="d-flex flex-column bannerfont" >
+                <Col lg={5} md={12} sm={12} xl={5}>
+                  <h1 className="mb-0 banner-heading" style={{ textShadow: '-2px 2px 8px #000' }}>1234 Hickory Grove</h1>
+                  <p className="mt-0 banner-subheading" style={{ textShadow: '-2px 2px 8px #000' }}>Short Term Rental</p>
+                </Col>
+              </Row>
+            </Container>
+          </Container>
         </Container>
       </Container>
     )

@@ -15,7 +15,64 @@ $theme-colors: (
 .bannerfont {
   font-family: 'Bebas Neue', cursive;
   color: #fff;
+  text-align: center;
 }
+
+.banner-heading {
+  font-size: 2.5rem;
+}
+
+.banner-subheading {
+  font-size: 1.5rem;
+}
+
+@media (min-width: 1200px) {
+.banner-heading {
+  font-size: 3.5rem;
+  }
+.banner-subheading {
+  font-size: 2rem;
+  }
+}
+
+@media (min-width: 900px) {
+  .banner-heading {
+    font-size: 3.2rem;
+    }
+  .banner-subheading {
+    font-size: 2rem;
+    }
+  }
+
+  .blur {
+    position: absolute;
+    width: 100vw;
+    height: 800px;
+    top: 0;
+    left: 0;
+    overflow-y: hidden;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position-x: center;
+    background-size: cover;
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    -moz-filter: blur(8px);
+    -o-filter: blur(8px);
+    -ms-filter: blur(8px);
+    z-index: -1;
+  }
+
+  .container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+
+  .no-padding {
+    padding-left: 1px !important;
+    padding-right: 1px !important;
+  }
+
 
 .navbar-nav .nav-link {
   font-family: 'Bebas Neue', cursive;

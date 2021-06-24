@@ -8,7 +8,7 @@ class Section2 extends React.Component {
   }
   render () {
     return (
-      <Container fluid class="bg-image" style={{ backgroundImage: `url(${TheImage})`, height: '100vh' }}>
+      <Container fluid class="bg-image" style={{ backgroundImage: `url(${TheImage})`, height: '100vh', overflowY: 'hidden' }}>
         <p>fuckhole</p>
       </Container>
     )
