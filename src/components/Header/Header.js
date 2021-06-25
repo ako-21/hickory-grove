@@ -29,7 +29,7 @@ const alwaysOptions = (
       The Space
     </Nav.Link>
     <Nav.Link>
-      <Button variant="ghost" style={{ borderWidth: '2px', borderStyle: 'solid', borderColor: '#212529' }} className="pr-4 pl-4">
+      <Button variant="ghost" style={{ borderWidth: '2px', borderStyle: 'solid', borderColor: '#212529' }} className="pr-4 pl-4 button-hover">
         Book Now
       </Button>
     </Nav.Link>

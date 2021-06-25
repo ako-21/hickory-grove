@@ -13,7 +13,7 @@ class MainImage extends React.Component {
       <Container fluid >
         <Container fluid className="blur" style={{ backgroundImage: `url(${TheImage})` }}>
         </Container>
-        <Container fluid className="bg-image" style={{ backgroundImage: `url(${TheImage})`, maxWidth: '1600px', maxHeight: '800px', backgroundPositionX: 'center', backgroundSize: 'cover', backgroundRepeat: 'no-repeat' }}>
+        <Container fluid className="bg-image" style={{ backgroundImage: `url(${TheImage})`, maxWidth: '1600px', maxHeight: '800px', backgroundPositionX: 'center', backgroundSize: 'cover', backgroundRepeat: 'no-repeat', borderBottom: '2px solid #2f4f4f' }}>
           <Container>
             <Container style={{ paddingTop: '35rem', paddingBottom: '5rem' }}>
               <Row className="d-flex flex-column bannerfont" >
