@@ -59,8 +59,10 @@ $theme-colors: (
   background-image: url('./images/image4.png')
 }
 
-[type=button] {
-  -webkit-appearance: none;
+[type=button],
+[type=reset],
+[type=submit] {
+  -webkit-appearance: none !important;
 }
 
 @media (min-width: 100px) {
