@@ -59,6 +59,9 @@ $theme-colors: (
   background-image: url('./images/image4.png')
 }
 
+[type=button] {
+  -webkit-appearance: none;
+}
 
 @media (min-width: 100px) {
   .list-area-margins-top {

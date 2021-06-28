@@ -16,7 +16,7 @@ class Section3 extends React.Component {
           <h1 className="font3" style={{ color: '#214d67', fontWeight: 'bold' }}>Booking Options</h1>
           <p className="mt-3 mb-5 font2" style={{ color: '#214d67', fontWeight: 'bold', letterSpacing: '3px' }}>A Reservation Type Available Regardless of Party Size</p>
           <ListGroup className="mt-5">
-            <ListGroup.Item className="mb-4">
+            <ListGroup.Item type="button" className="mb-4">
               <Row>
                 <Col lg={4} xl={4} md={12} className="d-flex list-image">
                   <BsHouseDoor className="mr-4" size={80}></BsHouseDoor>
