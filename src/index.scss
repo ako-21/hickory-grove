@@ -51,12 +51,7 @@ $theme-colors: (
   border: 1px solid #214d67 !important;
 }
 
-.list-group-item:hover {
-  border-color: #2f4f4f;
-  border-width: 2px;
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .35);
-  background-image: url('./images/image4.png')
-}
+
 
 
 @media (min-width: 100px) {
@@ -73,20 +68,7 @@ $theme-colors: (
     display: flex;
     flex-direction: column;
   }
-  .list-group-item {
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
-    -webkit-border-top-left-radius: 0 !important;
-    -webkit-border-top-right-radius: 0 !important;
-  }
-  .list-group-item:hover {
-    border-color: #2f4f4f;
-    border-width: 2px;
-    box-shadow: none;
-    background-image: none;
-    background-color: white;
-    -webkit-background-color: white;
-  }
+
 }
 
 @media (min-width: 576px) {
@@ -102,20 +84,6 @@ $theme-colors: (
   .list-area-row {
     display: flex;
     flex-direction: row;
-  }
-  .list-group-item {
-    border-top-left-radius: 0 !important;
-    border-top-right-radius: 0 !important;
-    -webkit-border-top-left-radius: 0 !important;
-    -webkit-border-top-right-radius: 0 !important;
-  }
-  .list-group-item:hover {
-    border-color: #2f4f4f;
-    border-width: 2px;
-    box-shadow: none;
-    background-image: none;
-    background-color: white;
-    -webkit-background-color: white;
   }
 }
 
