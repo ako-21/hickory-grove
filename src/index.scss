@@ -69,6 +69,10 @@ $theme-colors: (
   .list-image {
     justify-content: center;
   }
+  .list-area-row {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 @media (min-width: 576px) {
@@ -80,6 +84,10 @@ $theme-colors: (
   }
   .list-image {
     justify-content: center;
+  }
+  .list-area-row {
+    display: flex;
+    flex-direction: row;
   }
 }
 
