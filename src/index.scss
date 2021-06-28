@@ -58,6 +58,11 @@ $theme-colors: (
   background-image: url('./images/image4.png')
 }
 
+.list-group-item:first-child {
+  border-top-left-radius: 0rem !important;
+  border-top-right-radius: 0rem !important;
+}
+
 @media (min-width: 100px) {
   .list-area-margins-top {
     margin-top: 20px;
