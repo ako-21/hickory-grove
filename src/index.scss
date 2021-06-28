@@ -103,6 +103,20 @@ $theme-colors: (
     display: flex;
     flex-direction: row;
   }
+  .list-group-item {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    -webkit-border-top-left-radius: 0 !important;
+    -webkit-border-top-right-radius: 0 !important;
+  }
+  .list-group-item:hover {
+    border-color: #2f4f4f;
+    border-width: 2px;
+    box-shadow: none;
+    background-image: none;
+    background-color: white;
+    -webkit-background-color: white;
+  }
 }
 
 
