@@ -24,7 +24,9 @@ class Section3 extends React.Component {
                 </Col>
                 <Col className="d-flex align-items-center list-area-margins-top" style={{ justifyContent: 'space-evenly' }} lg={7} xl={7} md={12}>
                   <p className="d-flex mb-0 font3" >Entire House</p>
+                  <p className="d-flex mb-0 font3">|</p>
                   <p className="d-flex mb-0 font3">3 beds / 2.5 baths</p>
+                  <p className="d-flex mb-0 font3">|</p>
                   <p className="d-flex mb-0 font3">1800 SQFT</p>
                 </Col>
                 <Col className="d-flex align-items-center justify-content-center list-area-margins-top list-area-margins-bottom" lg={1} xl={1} md={12}>
