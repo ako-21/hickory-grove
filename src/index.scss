@@ -12,6 +12,7 @@ $theme-colors: (
  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .35);
 }
 
+
 .bannerfont {
   font-family: 'Bebas Neue', cursive;
   color: #fff;
@@ -79,7 +80,19 @@ $theme-colors: (
     display: flex;
     flex-direction: column;
   }
-
+  .nav-link {
+    font-size: 12px !important;
+  }
+  .button-hover {
+    font-size: 12px !important;
+  }
+  .nav-button-one {
+    display: inline-block !important;
+    margin-left: 20vw;
+  }
+  .nav-button-two {
+    display: none !important;
+  }
 }
 
 @media (min-width: 576px) {
@@ -96,8 +109,25 @@ $theme-colors: (
     display: flex;
     flex-direction: row;
   }
+  .nav-link {
+    font-size: 1.25rem !important;
+  }
+  .button-hover {
+    font-size: 1rem !important;
+  }
+  .nav-button-one {
+    margin-left: 24vw;
+  }
 }
 
+@media (min-width: 768px) {
+  .nav-button-one {
+    display: none !important;
+  }
+  .nav-button-two {
+    display: inline-block !important;
+  }
+}
 
 @media (min-width: 900px) {
   .banner-heading {
@@ -163,6 +193,13 @@ $theme-colors: (
 
 
 .navbar-nav .nav-link {
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 0.011811rem;
+  font-weight: normal;
+  font-size: 1.25rem;
+}
+
+.nav-text-style {
   font-family: 'Bebas Neue', cursive;
   letter-spacing: 0.011811rem;
   font-weight: normal;
