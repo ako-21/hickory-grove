@@ -58,12 +58,27 @@ $theme-colors: (
   background-image: url('./images/image4.png')
 }
 
-@media (min-width: 1200px) {
-.banner-heading {
-  font-size: 3.5rem;
+@media (min-width: 100px) {
+  .list-area-margins-top {
+    margin-top: 20px;
   }
-.banner-subheading {
-  font-size: 2rem;
+  .list-area-margins-bottom {
+    margin-bottom: 20px;
+  }
+  .list-image {
+    justify-content: center;
+  }
+}
+
+@media (min-width: 576px) {
+  .list-area-margins-top {
+    margin-top: 20px;
+  }
+  .list-area-margins-bottom {
+    margin-bottom: 20px;
+  }
+  .list-image {
+    justify-content: center;
   }
 }
 
@@ -81,7 +96,25 @@ $theme-colors: (
     .section2-img {
       display: block;
     }  
+    .list-area-margins-top {
+      margin-top: 0px;
+    }
+    .list-area-margins-bottom {
+      margin-bottom: 0px;
+    }
+    .list-image {
+      justify-content: flex-start;
+    }
   }
+
+  @media (min-width: 1200px) {
+    .banner-heading {
+      font-size: 3.5rem;
+      }
+    .banner-subheading {
+      font-size: 2rem;
+      }
+    }
 
   .blur {
     position: absolute;

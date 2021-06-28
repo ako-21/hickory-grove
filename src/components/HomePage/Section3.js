@@ -18,56 +18,64 @@ class Section3 extends React.Component {
           <ListGroup className="mt-5">
             <ListGroup.Item type="button" className="mb-4">
               <Row>
-                <Col lg={4} xl={4} className="d-flex flex-row">
+                <Col lg={4} xl={4} md={12} className="d-flex list-image">
                   <BsHouseDoor className="mr-4" size={80}></BsHouseDoor>
-                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>ROOM 1</p>
+                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>The 1234</p>
                 </Col>
-                <Col className="d-flex align-items-center" style={{ justifyContent: 'space-evenly' }} lg={8} xl={8}>
-                  <p className="d-flex mb-0 font3" >specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
+                <Col className="d-flex align-items-center list-area-margins-top" style={{ justifyContent: 'space-evenly' }} lg={7} xl={7} md={12}>
+                  <p className="d-flex mb-0 font3" >Entire House</p>
+                  <p className="d-flex mb-0 font3">3 beds / 2.5 baths</p>
+                  <p className="d-flex mb-0 font3">1800 SQFT</p>
+                </Col>
+                <Col className="d-flex align-items-center justify-content-center list-area-margins-top list-area-margins-bottom" lg={1} xl={1} md={12}>
                   <Button variant="ghost" className="font button-hover" style={{ borderWidth: '1px', borderStyle: 'solid', borderColor: '#fcba08', color: '#214d67' }}>Images</Button>
                 </Col>
               </Row>
             </ListGroup.Item>
             <ListGroup.Item type="button" className="mb-4">
               <Row>
-                <Col lg={4} xl={4} className="d-flex flex-row">
+                <Col lg={4} xl={4} md={12} className="d-flex list-image">
                   <BsHouseDoor className="mr-4" size={80}></BsHouseDoor>
-                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>ROOM 1</p>
+                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>The Suite</p>
                 </Col>
-                <Col className="d-flex align-items-center" style={{ justifyContent: 'space-evenly' }} lg={8} xl={8}>
-                  <p className="d-flex mb-0 font3" >specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
+                <Col className="d-flex align-items-center list-area-margins-top" style={{ justifyContent: 'space-evenly' }} lg={7} xl={7} md={12}>
+                  <p className="d-flex mb-0 font3" >Master Bedroom</p>
+                  <p className="d-flex mb-0 font3">Private bath w/ tub</p>
+                  <p className="d-flex mb-0 font3">400 SQFT</p>
+                </Col>
+                <Col className="d-flex align-items-center justify-content-center list-area-margins-top list-area-margins-bottom" lg={1} xl={1} md={12}>
                   <Button variant="ghost" className="font button-hover" style={{ borderWidth: '1px', borderStyle: 'solid', borderColor: '#fcba08', color: '#214d67' }}>Images</Button>
                 </Col>
               </Row>
             </ListGroup.Item>
             <ListGroup.Item type="button" className="mb-4">
               <Row>
-                <Col lg={4} xl={4} className="d-flex flex-row">
+                <Col lg={4} xl={4} md={12} className="d-flex list-image">
                   <BsHouseDoor className="mr-4" size={80}></BsHouseDoor>
-                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>ROOM 1</p>
+                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>The Roommate</p>
                 </Col>
-                <Col className="d-flex align-items-center" style={{ justifyContent: 'space-evenly' }} lg={8} xl={8}>
-                  <p className="d-flex mb-0 font3" >specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
+                <Col className="d-flex align-items-center" style={{ justifyContent: 'space-evenly' }} lg={7} xl={7} md={12}>
+                  <p className="d-flex mb-0 font3" >Bedroom</p>
+                  <p className="d-flex mb-0 font3">Shared Bathroom</p>
+                  <p className="d-flex mb-0 font3">200 SQFT</p>
+                </Col>
+                <Col className="d-flex align-items-center justify-content-center list-area-margins-top list-area-margins-bottom" lg={1} xl={1} md={12}>
                   <Button variant="ghost" className="font button-hover" style={{ borderWidth: '1px', borderStyle: 'solid', borderColor: '#fcba08', color: '#214d67' }}>Images</Button>
                 </Col>
               </Row>
             </ListGroup.Item>
             <ListGroup.Item type="button">
               <Row>
-                <Col lg={4} xl={4} className="d-flex flex-row">
+                <Col lg={4} xl={4} md={12} className="d-flex list-image">
                   <BsHouseDoor className="mr-4" size={80}></BsHouseDoor>
-                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>ROOM 1</p>
+                  <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>The Nomad</p>
                 </Col>
-                <Col className="d-flex align-items-center" style={{ justifyContent: 'space-evenly' }} lg={8} xl={8}>
-                  <p className="d-flex mb-0 font3" >specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
-                  <p className="d-flex mb-0 font3">specification</p>
+                <Col className="d-flex align-items-center" style={{ justifyContent: 'space-evenly' }} lg={7} xl={7} md={12}>
+                  <p className="d-flex mb-0 font3" >Shared Space</p>
+                  <p className="d-flex mb-0 font3">Shared Bathroom</p>
+                  <p className="d-flex mb-0 font3">200 SQFT</p>
+                </Col>
+                <Col className="d-flex align-items-center justify-content-center list-area-margins-top list-area-margins-bottom" lg={1} xl={1} md={12}>
                   <Button variant="ghost" className="font button-hover" style={{ borderWidth: '1px', borderStyle: 'solid', borderColor: '#fcba08', color: '#214d67' }}>Images</Button>
                 </Col>
               </Row>
