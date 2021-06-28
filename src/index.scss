@@ -88,10 +88,20 @@ $theme-colors: (
   }
   .nav-button-one {
     display: inline-block !important;
-    margin-left: 20vw;
   }
   .nav-button-two {
     display: none !important;
+  }
+  .humburger-button {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+}
+
+@media (min-width: 500px) {
+  .humburger-button {
+    width: auto;
   }
 }
 
@@ -114,9 +124,6 @@ $theme-colors: (
   }
   .button-hover {
     font-size: 1rem !important;
-  }
-  .nav-button-one {
-    margin-left: 24vw;
   }
 }
 

@@ -42,12 +42,12 @@ const Header = ({ user }) => (
         <BiBuildingHouse size={60}></BiBuildingHouse>
         HickoryGrove
       </Navbar.Brand>
-      <div className="nav-text-style">
-        <Button variant="ghost" style={{ borderWidth: '2px', borderStyle: 'solid', borderColor: '#212529' }} className="pr-4 pl-4 button-hover nav-button-one">
+      <div className="nav-text-style humburger-button">
+        <Button variant="ghost" style={{ borderWidth: '2px', borderStyle: 'solid', borderColor: '#212529' }} className="pr-4 pl-4 button-hover nav-button-one mr-2">
           Book Now
         </Button>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
       </div>
-      <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ml-auto flex-row align-items-center justify-content-end ">
           { user && <span className="navbar-text mr-2">Welcome, {user.email}</span>}
