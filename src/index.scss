@@ -97,6 +97,9 @@ $theme-colors: (
     display: flex;
     justify-content: flex-end;
   }
+  .resp-img {
+    height: 248px;
+  }
 }
 
 @media (min-width: 500px) {
@@ -157,6 +160,9 @@ $theme-colors: (
     }
     .list-image {
       justify-content: flex-start;
+    }
+    .resp-img {
+      height: 400px;
     }
   }
 
