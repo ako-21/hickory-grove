@@ -5,6 +5,7 @@ import { v4 as uuid } from 'uuid'
 import AuthenticatedRoute from './components/AuthenticatedRoute/AuthenticatedRoute'
 import AutoDismissAlert from './components/AutoDismissAlert/AutoDismissAlert'
 import Header from './components/Header/Header'
+import Header2 from './components/Header/Header2'
 import Main from './components/HomePage/1Main'
 import SignUp from './components/SignUp/SignUp'
 import SignIn from './components/SignIn/SignIn'
@@ -43,6 +44,7 @@ class App extends Component {
     return (
       <Fragment>
         <Header user={user} />
+        <Header2 />
         <Main />
         {msgAlerts.map(msgAlert => (
           <AutoDismissAlert

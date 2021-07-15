@@ -4,6 +4,7 @@
 $theme-colors: (
   'primary': #a7bc5b,
   'secondary': #8da242,
+  'ternary': rgb(240, 235, 225),
   'header': rgba(255, 255, 255, .7),
   'ghost': #fff
 );
@@ -49,9 +50,25 @@ $theme-colors: (
   display: none;
 }
 
+#imgsect5 {
+  width: 350px;
+  height:155px;
+}
+
+.lexus-col{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
 .button-hover:hover {
   background-color: #fcba08 !important;
   color: white !important;
+}
+
+.smooth {
+  scroll-behavior: smooth;
 }
 
 .list-group-item {
@@ -100,6 +117,7 @@ $theme-colors: (
   .resp-img {
     height: 248px;
   }
+  
 }
 
 @media (min-width: 500px) {
@@ -128,6 +146,10 @@ $theme-colors: (
   .button-hover {
     font-size: 1rem !important;
   }
+  #imgsect5 {
+    width: 450px;
+    height:225px;
+}
 }
 
 @media (min-width: 768px) {
@@ -138,6 +160,8 @@ $theme-colors: (
     display: inline-block !important;
   }
 }
+
+
 
 @media (min-width: 900px) {
   .banner-heading {
@@ -163,6 +187,15 @@ $theme-colors: (
     }
     .resp-img {
       height: 400px;
+    }
+    #imgsect5 {
+      width: 700px;
+      height:350px;
+    }
+    .lexus-col{
+      display: block;
+      margin-top: 0px;
+      margin-bottom: 0px;
     }
   }
 
@@ -217,6 +250,18 @@ $theme-colors: (
   letter-spacing: 0.011811rem;
   font-weight: normal;
   font-size: 1.25rem;
+}
+
+.nav2-text-style {
+  font-family: 'Nunito Sans', sans-serif;
+  letter-spacing: 0.011811rem;
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: #2f4f4f !important;
+}
+
+.nav2-text-style:hover {
+  color: white !important;
 }
 
 .navbar-light .navbar-nav  .nav-link {
