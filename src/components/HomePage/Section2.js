@@ -14,22 +14,24 @@ class Section2 extends React.Component {
         <Container>
           <Row className="d-flex justify-content-between">
             <Col xl={6} lg={6} md={12} sm={12}>
-              <h1 className="bannerfont mb-0" style={{ color: '#214d67', textAlign: 'left', fontSize: '28px' }}>Choose from 3 rooms, or rent the entire space!</h1>
+              <h1 className="bannerfont mb-0" style={{ color: '#214d67', textAlign: 'left', fontSize: '28px' }}>Comfortable Space, Great Location, Great Amenities!</h1>
+              <p className="font2 mb-1" style={{ color: '#214d67', fontWeight: 'bold', letterSpacing: '3px' }}>Fully Furnished</p>
               <p className="font2 mb-3" style={{ color: '#214d67', fontWeight: 'bold', letterSpacing: '3px' }}>Subject to Availability</p>
               <h1 className="font3" style={{ color: '#214d67', fontWeight: 'bold' }}>THE SPACE</h1>
-              <p className="mt-3" style={{ fontSize: '14px' }}>Located in Kennesaw, GA <span style={{ fontWeight: 'bold', color: '#214d67' }}>1234 Hickory Grove</span> is a renovated 3 bedroom, 2 bathroom house with a two car garage nested in a quiet family friendly subdivision. This house will accomodate guests looking for a single room, or a family looking for an entire house. A short distance from the famed &quot;battery&quot;, guest can enjoy various shopping, dining, and entertainment experiences, including dropping in on a Braves game. The house is close to Kennesaw State University, Go Owls! And, if you love the outdoors, Kennesaw Mountain is just a few minutes away. Below are a couple of amenities to make your stay more comfortable.</p>
+              <p className="mt-3" style={{ fontSize: '14px' }}>Located in Kennesaw, GA <span style={{ fontWeight: 'bold', color: '#214d67' }}>1234 Hickory Grove</span> is a renovated 3 bedroom, 2 bathroom house with a two car garage nested in a quiet family friendly subdivision. This house will accommodate tenants looking for a coliving experience, where each occupant has a private lodge but shares some areas of the house. A short distance from the famed &quot;battery&quot;, tenants can enjoy various shopping, dining, and entertainment experiences. The house is close to Kennesaw State University, Go Owls! And, if you love the outdoors, Kennesaw Mountain is just a few minutes away. Below are a couple of amenities to make your stay more comfortable.</p>
               <div className="d-flex flex-row">
                 <Col>
                   <ul style={{ fontSize: '14px' }}>
-                    <li>Amenity</li>
-                    <li>Amenity</li>
-                    <li>Amenity</li>
+                    <li>Fully Furnished</li>
+                    <li>Free WIFI</li>
+                    <li>Utilities Included</li>
                   </ul>
                 </Col>
                 <Col>
                   <ul style={{ fontSize: '14px' }}>
-                    <li>Amenity</li>
-                    <li>Amenity</li>
+                    <li>Study Room</li>
+                    <li>Washer and Dryer Available</li>
+                    <li>Pet Friendly</li>
                   </ul>
                 </Col>
               </div>

@@ -10,16 +10,16 @@ import Carousel from 'react-bootstrap/Carousel'
 import Bathroom from './../../images/bathroom.jpg'
 import Bedroom from './../../images/bedroom.jpg'
 import Kitchen from './../../images/kitchen.jpg'
+import ToggleButton from './SmallComponents/ToggleButton'
 
 class Section3 extends React.Component {
   state = {
     show: false,
+    showAvailable: false,
     currentTitle: '',
     listArray: [
-      { image: '', title: 'The 1234', space: 'Entire House', feature: '3 beds / 2.5 baths', sqft: '1800 SQFT' },
-      { image: '', title: 'The Suite', space: 'Master Bedroom', feature: 'Private bath w/ tub', sqft: '400 SQFT' },
-      { image: '', title: 'The Roommate', space: 'Bedroom', feature: 'Shared Bathroom', sqft: '200 SQFT' },
-      { image: '', title: 'The Nomad', space: 'Shared Space', feature: 'Shared Bathroom', sqft: '200 SQFT' }
+      { image: '', price: 'from $950', title: 'The Suite', space: 'Master Bedroom', feature: 'Private bath w/ tub', sqft: '400 SQFT', available: true },
+      { image: '', price: 'from $785', title: 'The Roommate', space: 'Bedroom', feature: 'Shared Bathroom', sqft: '200 SQFT', available: false }
     ]
   }
   handleClose = () => {
@@ -30,21 +30,39 @@ class Section3 extends React.Component {
     this.setState({ currentTitle: event.target.dataset.name })
     this.setState({ show: true })
   }
+  toggleAvailable = () => {
+    this.setState({ showAvailable: !this.state.showAvailable })
+  }
+  AvailabilityArray = this.state.listArray.filter(item => {
+    return item.available === true
+  })
   render () {
+    let arrayToMap
+    if (!this.state.showAvailable) {
+      arrayToMap = this.state.listArray
+    } else {
+      arrayToMap = this.AvailabilityArray
+    }
     return (
       <Container className="mb-5">
         <Container className="pt-5">
-          <h1 className="font3" style={{ color: '#214d67', fontWeight: 'bold' }}>Booking Options</h1>
-          <p className="mt-3 mb-5 font2" style={{ color: '#214d67', fontWeight: 'bold', letterSpacing: '3px' }}>A Reservation Type Available Regardless of Party Size</p>
+          <h1 className="font3" style={{ color: '#214d67', fontWeight: 'bold' }}>Leasing Options</h1>
+          <p className="mt-3 mb-2 font2" style={{ color: '#214d67', fontWeight: 'bold', letterSpacing: '3px' }}>Subject to Availability</p>
+          <p style={{ fontWeight: 'bold' }}>*All leases include access to shared spaces such as the kitchen, laundry room, entertainment room, study, etc.</p>
+          <div className="d-flex justify-content-end">
+            <span className="font2 d-flex justify-content-center align-items-center mr-3" style={{ color: '#214d67', fontWeight: 'bold' }}>Available Now</span>
+            <ToggleButton onClick={this.toggleAvailable} {...this.state}></ToggleButton>
+          </div>
           <ListGroup className="mt-5">
-            {this.state.listArray.map(item =>
+            {arrayToMap.map(item =>
               <ListGroup.Item key={item.title} type="button" className="mb-4">
                 <Row>
                   <Col lg={4} xl={4} md={12} className="d-flex list-image">
-                    <BsHouseDoor className="mr-4" size={80}></BsHouseDoor>
+                    <BsHouseDoor className="mr-3" size={80}></BsHouseDoor>
                     <p className="font2" style={{ fontWeight: '900', fontSize: '26px' }}>{item.title}</p>
                   </Col>
                   <Col className="d-flex align-items-center list-area-margins-top list-area-row" style={{ justifyContent: 'space-evenly' }} lg={7} xl={7} md={12}>
+                    <p className="d-flex mb-0 font3" style={{ fontWeight: 'bold' }} >{item.price}</p>
                     <p className="d-flex mb-0 font3" >{item.space}</p>
                     <p className="d-flex mb-0 font3">{item.feature}</p>
                     <p className="d-flex mb-0 font3">{item.sqft}</p>

@@ -5,7 +5,9 @@ import Button from 'react-bootstrap/Button'
 import Container from 'react-bootstrap/Container'
 // import Logo from './../../images/logoplaceholder.png'
 import { BiBuildingHouse } from 'react-icons/bi'
-
+import { BsPeopleCircle } from 'react-icons/bs'
+import { IconContext } from 'react-icons'
+import Header2Links from './Header2Links'
 // const authenticatedOptions = (
 //   <Fragment>
 //     <Nav.Link href="#change-password">Change Password</Nav.Link>
@@ -21,15 +23,22 @@ import { BiBuildingHouse } from 'react-icons/bi'
 // )
 
 const alwaysOptions = (
-  <Fragment className="flex-row align-items-center nav-text-style">
-    <Nav.Link className="mr-3" href="#/">770.123.4567</Nav.Link>
-    <Nav.Link className="mr-3" href="#/">
-      <BiBuildingHouse></BiBuildingHouse>
-      The Space
-    </Nav.Link>
+  <Fragment>
+    <div className="d-flex justify-content-center nav-text-style">
+      <Nav.Link className="mr-3" href="#/">678.404.2001</Nav.Link>
+      <Nav.Link className="mr-3" href="#/">
+        <IconContext.Provider value={{ color: 'rgb(33, 77, 103)' }}>
+          <BsPeopleCircle />
+        </IconContext.Provider>
+        <span className="ml-1">Residents</span>
+      </Nav.Link>
+    </div>
+    <div className="extra-nav-links hide-nav2-links">
+      <Header2Links></Header2Links>
+    </div>
     <Nav.Link>
       <Button variant="ghost" style={{ borderWidth: '2px', borderStyle: 'solid', borderColor: '#212529' }} className="pr-4 pl-4 button-hover nav-button-two">
-          Book Now
+          Apply Now
       </Button>
     </Nav.Link>
   </Fragment>
@@ -79,12 +88,12 @@ function Header ({ user }) {
         </Navbar.Brand>
         <div className="nav-text-style humburger-button">
           <Button variant="ghost" style={{ borderWidth: '2px', borderStyle: 'solid', borderColor: '#212529' }} className="pr-4 pl-4 button-hover nav-button-one mr-2">
-            Book Now
+            Apply Now
           </Button>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
         </div>
         <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="ml-auto flex-row align-items-center justify-content-end ">
+          <Nav className="responsive-nav">
             { user && <span className="navbar-text mr-2">Welcome, {user.email}</span>}
             { alwaysOptions }
             {/* { user ? authenticatedOptions : unauthenticatedOptions } */}

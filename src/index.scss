@@ -16,8 +16,8 @@ $theme-colors: (
 
 .navbar-transparent {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .35);
-  background-color: rgba(255, 255, 255, .7);
-}
+  background-color: #fff;
+ }
 
 
 .bannerfont {
@@ -81,6 +81,31 @@ $theme-colors: (
   border-width: 2px;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .35);
   background-image: url('./images/image4.png')
+}
+
+.section4 {
+  display: none;
+}
+
+.hide-nav2-links {
+  display: block;
+}
+
+.extra-nav-links {
+  margin-top: 0;
+}
+
+.responsive-nav {
+  margin-top: 0;
+}
+
+.scroll-to-top {
+  display: none;
+}
+
+.nav2-link-position {
+  display: flex;
+  justify-content: flex-end;
 }
 
 [type=button],
@@ -158,6 +183,37 @@ $theme-colors: (
   }
   .nav-button-two {
     display: inline-block !important;
+  }
+  .section4 {
+    display: block;
+  }
+  .extra-nav-links {
+    display: flex !important;
+    justify-content: space-between !important;
+    flex: 0 0 83.3333%;
+    max-width: 83.3333%;
+    margin-top: 0;
+  }
+  .hide-nav2-links {
+    display: none !important;
+  }
+  .responsive-nav {
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+  }
+  .scroll-to-top {
+    display: block;
+  }
+  .nav2-link-position {
+    display: flex;
+    justify-content: space-between;
+  }
+  .navbar-transparent {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .35);
+    background-color: rgba(255, 255, 255, .7);
   }
 }
 
