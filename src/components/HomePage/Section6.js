@@ -16,7 +16,7 @@ class Section6 extends React.Component {
           <h1 className="font3" style={{ color: '#214d67', fontWeight: 'bold' }}>See What&apos;s Around</h1>
         </Container>
         <div style={{ width: 'auto', height: '100vh' }}>
-          <WrappedMap googleMapURL={'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places&key=AIzaSyAgpqpSV2IOBzCEbB-qJRe1KCHKNGF-blw'}
+          <WrappedMap googleMapURL={'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places'}
             loadingElement={<div style={{ height: '100%' }} />}
             containerElement={<div style={{ height: '100%' }} />}
             mapElement={<div style={{ height: '100%' }} />}
