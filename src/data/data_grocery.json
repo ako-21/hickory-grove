@@ -1,0 +1,1115 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "Aap_uEAB0vbcNp83RRQQy1vpJ8s6ZAA79WvMbcKQmUa4jUbgOfqIHO-VVj_L3si1LzPQhxDivzbnN4fVfsdugMgt3BigikM-JiaMMkERn3m28ectg4a9QeaVsmLfnhsxe8X80fKBz1kzSf4RM7XIuQr-17JOnrWlTEmp41qc3Ei_aWdRCSYkHyumR3QH8gvRH4x6Z0zkMocLVsXZWklc7vpiJzWUB27fCOudtpY2V24Voe73ua4vzvbwhKyYAXtPqixqN8xZ65lHcepJZXmasmFsvb4LPkBssAdFPcWFkeS0VraPoSX2Hxhko1TEgTRMvL-FHSlvghMHmUMAuaM1K03qwfS7a6j8skdXqKWESiAmwQeIw_m_YQXebQGUvOjzefHpEUwCeV1xdJlGhA0wMAfoeVYf0qWR-wHGvGCbPSdhi48n6gl2xHD3Xkqd0aa6",
+    "results" : [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0303182,
+                "lng" : -84.65067069999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.03156213029149,
+                   "lng" : -84.64912536970849
+                },
+                "southwest" : {
+                   "lat" : 34.0288641697085,
+                   "lng" : -84.65182333029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "ALDI",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1080,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118045232044871838870\"\u003eMatt McCaffrey\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDwE9FgTEDUScyPBM7_nIAfrbUOv1aU2WYG20jlHMKuueRA8pvF6r-2rPxmtiKyXlhaKtgXLIQB2LIzj6vMYcSjk4RelrtJXMq0-sjVCEVWn1J14H_NjUJ8F33iSwiLYFDiSGVzbPyBDCW9qC7pkH1HIu71xTD2Xw1Sx6TL4g-5fj6y",
+                "width" : 1920
+             }
+          ],
+          "place_id" : "ChIJV2rmHHk_9YgRJ1-FQ7pNtH0",
+          "plus_code" : {
+             "compound_code" : "28JX+4P Kennesaw, GA, USA",
+             "global_code" : "866Q28JX+4P"
+          },
+          "price_level" : 1,
+          "rating" : 4.5,
+          "reference" : "ChIJV2rmHHk_9YgRJ1-FQ7pNtH0",
+          "scope" : "GOOGLE",
+          "types" : [
+             "grocery_or_supermarket",
+             "supermarket",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 951,
+          "vicinity" : "3076 Cobb Parkway Northwest, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0167337,
+                "lng" : -84.54934589999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0178951802915,
+                   "lng" : -84.54807981970849
+                },
+                "southwest" : {
+                   "lat" : 34.0151972197085,
+                   "lng" : -84.5507777802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Towne Center Prado",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106005146632178262807\"\u003eJason Kilpatrick\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAmhyznhNr5GEE8mpofTqGnbsgnBD17-BnpQbU4WWQx6xuUktQ-WzNBX2FKh9HOKOwNtDsC7L7isE08BNEuJB-xz6UNKCI_gSNsHVDciwJMvGvXZ7LPMGT4kkQMGXYMjbAfUP-DGs5l5LD6fDUA3heCJYckOUovL6iQlsGQ0rDuuFpW",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJ21Q8gMMU9YgRaUt_zNdlTQ8",
+          "plus_code" : {
+             "compound_code" : "2F82+M7 Marietta, GA, USA",
+             "global_code" : "866Q2F82+M7"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJ21Q8gMMU9YgRaUt_zNdlTQ8",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 504,
+          "vicinity" : "50 Barrett Pkwy Ste 1000, Marietta"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0891417,
+                "lng" : -84.5804167
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0902430302915,
+                   "lng" : -84.5790412197085
+                },
+                "southwest" : {
+                   "lat" : 34.0875450697085,
+                   "lng" : -84.58173918029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Supermercado La Villa",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117329730749264547851\"\u003eJunior Junior\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEC23RKRxb5paRFDxd8zzv_-euyF6nXPPAHp8lk0mGKiWDwcO1zJRBZ1w8kE_J8mIkXpxODXg3LeXTjEr2uo1ppOSbFpX93H-kSLyNyKlHNd_cXoVmfKEitc2NaLKU3Sm05kEt2njGGggg21RRc8SAZPcp_1ruVto6qS7mOK4Mk-5mw",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJGaOCplxq9YgR9LkdEeUjhiI",
+          "plus_code" : {
+             "compound_code" : "3CQ9+MR Acworth, GA, USA",
+             "global_code" : "866Q3CQ9+MR"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJGaOCplxq9YgR9LkdEeUjhiI",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "bakery",
+             "grocery_or_supermarket",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 122,
+          "vicinity" : "6501 Highway 92 #100, Acworth"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.11322129999999,
+                "lng" : -84.5671626
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.1146770302915,
+                   "lng" : -84.56591441970849
+                },
+                "southwest" : {
+                   "lat" : 34.1119790697085,
+                   "lng" : -84.56861238029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "ALDI",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102659796345257102074\"\u003eJacob\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBlj_84c0uuuZqYUUKsFwa_n4y7NvbPMjPzQm7laqgrCQmeuW-lrICOI5UTmWGY7nbG-EvepMHNS5grBdnpkJqStFbK4YLlY-tTu_0aWbrtJcIbOXbvKKPo9Nw67OdlOo7Bs3FPd5L17ILfisWHqBE5l-MjdQii37wX71PPHz6ILAQW",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ_0AGqS1q9YgRviPuUDOSlqc",
+          "plus_code" : {
+             "compound_code" : "4C7M+74 Woodstock, GA, USA",
+             "global_code" : "866Q4C7M+74"
+          },
+          "price_level" : 1,
+          "rating" : 4.6,
+          "reference" : "ChIJ_0AGqS1q9YgRviPuUDOSlqc",
+          "scope" : "GOOGLE",
+          "types" : [
+             "grocery_or_supermarket",
+             "supermarket",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 645,
+          "vicinity" : "2014 Eagle Drive, Woodstock"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.07491470000001,
+                "lng" : -84.65174680000001
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0762427302915,
+                   "lng" : -84.65044666970849
+                },
+                "southwest" : {
+                   "lat" : 34.0735447697085,
+                   "lng" : -84.65314463029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Acworth",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110408553051434415928\"\u003eIsaac Oguji\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEB2P0tfXGzUHJwMDJkBAOheae1ZHYrxNOQlAAu-c2e4EQQ_fHAlsAAmDOl62H9NyTN0g8fVRBBukjZJXgEXSOKdAieTAhzJU5EQOB0yDjfjLzrl4RnFq5cCwp6ubXLXZTaEcJVpE5To5Kq2Iq47EFX8pR-26CJWpPJ0OXgiiZ7-Re3N",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJGY6gavlA9YgR8iQF8X4KWng",
+          "plus_code" : {
+             "compound_code" : "38FX+X8 Acworth, GA, USA",
+             "global_code" : "866Q38FX+X8"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJGY6gavlA9YgR8iQF8X4KWng",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 655,
+          "vicinity" : "3507 Baker Road Ste 300, Acworth"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.106113,
+                "lng" : -84.54021499999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.1074024302915,
+                   "lng" : -84.53885886970849
+                },
+                "southwest" : {
+                   "lat" : 34.1047044697085,
+                   "lng" : -84.5415568302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Sprouts Farmers Market",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/108800682120359534967\"\u003eAlexandria Zelazoski\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEAFbpG-La2EDai6MB0dYWLKLYeQUDKVRn7h1aPxcNqptoMILe5kCMsu5K686ecA_cJj3g2p1V6drIS5CSIdk32uk4S4068MmwrDm9YdbDcoT_iuymavnChB2G7LJ8X8r7M1qdaHRVaoIcwFHjzgtF39Ise1IuBHgX87Jm3hSjmp6W0i",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJb-zNoOlr9YgR4YIUi8tspXU",
+          "plus_code" : {
+             "compound_code" : "4F45+CW Woodstock, GA, USA",
+             "global_code" : "866Q4F45+CW"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJb-zNoOlr9YgR4YIUi8tspXU",
+          "scope" : "GOOGLE",
+          "types" : [
+             "grocery_or_supermarket",
+             "supermarket",
+             "food",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 329,
+          "vicinity" : "1430 Towne Lake Parkway, Woodstock"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0495464,
+                "lng" : -84.6102999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0507651302915,
+                   "lng" : -84.60904206970849
+                },
+                "southwest" : {
+                   "lat" : 34.0480671697085,
+                   "lng" : -84.6117400302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Kennesaw Walk",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 5312,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101518608670049088077\"\u003eTom Arnett\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECtvwsRrDeoXueORQhqqQ1DRranmnD8WkJUf3tX2sTMQHhAk9BxG9PiBzUSTKHUVoz0XfKGqihN55WOp5UPKgOwql9j4QAk09yKBd9pt4wADhWZNYqDKi5LtEQ4VqrSldnXvzGqUhJ6UyL_YjOyzjqNlcJLekFeMv7n3GNr1WEiGT2L",
+                "width" : 2988
+             }
+          ],
+          "place_id" : "ChIJly9aYBxA9YgR4WRP5LdmU9o",
+          "plus_code" : {
+             "compound_code" : "29XQ+RV Kennesaw, GA, USA",
+             "global_code" : "866Q29XQ+RV"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJly9aYBxA9YgR4WRP5LdmU9o",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 427,
+          "vicinity" : "2090 Baker Road NW, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.02342799999999,
+                "lng" : -84.6236267
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.02462328029149,
+                   "lng" : -84.62261091970849
+                },
+                "southwest" : {
+                   "lat" : 34.02192531970849,
+                   "lng" : -84.62530888029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Cobb Parkway",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111467078352505072847\"\u003eAsta John\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBL6F5hyLDzv6jgGTZRBxeh3vcCcwZIOaxLTer5ad7_1ZKaJv-rkx8kPGzoSq1dhkpIvufWk6txgNI7q3J8Jh_jf4EYCfhOUx1StlieF7pEnPJHNZEwnsHyArsSsLSpEoVlNmI8f_lU5HXZyTvj1r6sKUkgiQuXYGCPD3IMn05OJvkf",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJc7dqL-0_9YgR6StShGf2a-Q",
+          "plus_code" : {
+             "compound_code" : "29FG+9G Kennesaw, GA, USA",
+             "global_code" : "866Q29FG+9G"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJc7dqL-0_9YgR6StShGf2a-Q",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 583,
+          "vicinity" : "2774 Cobb Parkway Northwest Ste 201, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0551242,
+                "lng" : -84.5536707
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.05650243029149,
+                   "lng" : -84.55251381970851
+                },
+                "southwest" : {
+                   "lat" : 34.0538044697085,
+                   "lng" : -84.55521178029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Orchard Square Shopping Center",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2448,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113689633991616994485\"\u003eM.R. Davis\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECNnklx9lh1owwnEc6aj85Kv9ckjDsnSt6cKfkdZ5dcY1DDuqP2fAzp2H9IxKkrRsp-1Y7aMvIF7ngI0Kh7i47yfisZTdLyAQa6MhU0G-sZ3DZy-vJP9fuKNwvahNN_uPq1qNMT6BdekeqC6RhxArxKT4IHYHg69LUPhQUNk4iQ4bV5",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJ2WKnBRhr9YgRSdh0jMNQnVQ",
+          "plus_code" : {
+             "compound_code" : "3C4W+2G Kennesaw, GA, USA",
+             "global_code" : "866Q3C4W+2G"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJ2WKnBRhr9YgRSdh0jMNQnVQ",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 370,
+          "vicinity" : "4290 Bells Ferry Road, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 33.99822040000001,
+                "lng" : -84.5901231
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 33.99941448029151,
+                   "lng" : -84.58844826970849
+                },
+                "southwest" : {
+                   "lat" : 33.99671651970851,
+                   "lng" : -84.5911462302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Whole Foods Market",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111442831246738293825\"\u003eFrankie Gunnz\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEB98FYtGlc83j2PzCx1rVpTfHeimeTSkKbhhXwCS_JsxwH542g14cSDowVhbDixKibh8eZ7oxuUOUBnxl5JKxjPUtcHaH1DHt-RHMQ5joPoXkmP0SCd58VpUbOEos-LxD40WcVgajmKKPYrabbkq2qWOlUhPKlc5AjIwr8c0cO-ej1p",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJBzQv0nMV9YgRfrEOZtM6whg",
+          "plus_code" : {
+             "compound_code" : "XCX5+7X Kennesaw, GA, USA",
+             "global_code" : "865QXCX5+7X"
+          },
+          "price_level" : 3,
+          "rating" : 4.4,
+          "reference" : "ChIJBzQv0nMV9YgRfrEOZtM6whg",
+          "scope" : "GOOGLE",
+          "types" : [
+             "grocery_or_supermarket",
+             "supermarket",
+             "food",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 1398,
+          "vicinity" : "1300 Ernest W Barrett Parkway Northwest, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.086138,
+                "lng" : -84.57409299999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0876653802915,
+                   "lng" : -84.57284741970848
+                },
+                "southwest" : {
+                   "lat" : 34.08496741970851,
+                   "lng" : -84.57554538029149
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Food Depot",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106071187977530514381\"\u003eMark Robinson\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBWOhoj9d9_S3PMgPiedCltsU0BQtji4-4g7jd5FZrN4ZmF2UZABpLN3kRJIP0WYfF4rG8jAUzhzUJxcf6b3lmiX67PpeZaQiMokOg5jo4nGYTmRfKXv8oJu10JaZDe8q2lZIZhNSvMbqh6Jb4_LR8kVzd5UH6Gu9wCyRtGtIs_2-W9",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJzaicg1Bq9YgRmCwQRWy8tl4",
+          "plus_code" : {
+             "compound_code" : "3CPG+F9 Acworth, GA, USA",
+             "global_code" : "866Q3CPG+F9"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJzaicg1Bq9YgRmCwQRWy8tl4",
+          "scope" : "GOOGLE",
+          "types" : [
+             "grocery_or_supermarket",
+             "supermarket",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 790,
+          "vicinity" : "5530 Bells Ferry Road, Acworth"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.06168889999999,
+                "lng" : -84.5904085
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.06297608029149,
+                   "lng" : -84.58928666970849
+                },
+                "southwest" : {
+                   "lat" : 34.06027811970849,
+                   "lng" : -84.59198463029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Wade Green Village",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106071187977530514381\"\u003eMark Robinson\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDNpGHAqkqEF_HdmgAdvLQZT_0qcHHQG3vUwAi9OtnI2fOGUKDou-2dfiNxgnfrLvpU7bnuUzWg9d6MScMJ6fK7mEV3sh4iDEvzpYkBnFKIgXxZ7RjryEPb4rMJNRlV2jUUjsEPdTUnXbPaeoVY1W-julE5DRkCgDNv-TlhFvkT_9hh",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJuYI5sJZq9YgRM4WwghQyX0k",
+          "plus_code" : {
+             "compound_code" : "3C65+MR Kennesaw, GA, USA",
+             "global_code" : "866Q3C65+MR"
+          },
+          "price_level" : 2,
+          "rating" : 4.4,
+          "reference" : "ChIJuYI5sJZq9YgRM4WwghQyX0k",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 529,
+          "vicinity" : "4430 Wade Green Road Northwest #100, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0771822,
+                "lng" : -84.67811159999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0785071802915,
+                   "lng" : -84.67674081970848
+                },
+                "southwest" : {
+                   "lat" : 34.0758092197085,
+                   "lng" : -84.67943878029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Ingles Market",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 5312,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109415566056574136488\"\u003eCrypto Cliff notes\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDKUl53O2Ux7HGHuVGvtm6rDtOk0K8oCKonG00f5MjB1E0VYYqKWVcqy33yo5mdqYqll6450HrFyFJZCQVK51c2K6LKBMT9sTxHZg6896ZaFBDm-RKigPCwY4ZcaW8rVMDHnL-4RYjCYSgoyNqRnhltH_uhJ95py8p8ZuR1cNZZyxk",
+                "width" : 2988
+             }
+          ],
+          "place_id" : "ChIJK2OqHdpA9YgR2rEwbYJQfUo",
+          "plus_code" : {
+             "compound_code" : "38GC+VQ Acworth, GA, USA",
+             "global_code" : "866Q38GC+VQ"
+          },
+          "price_level" : 2,
+          "rating" : 4.3,
+          "reference" : "ChIJK2OqHdpA9YgR2rEwbYJQfUo",
+          "scope" : "GOOGLE",
+          "types" : [
+             "grocery_or_supermarket",
+             "pharmacy",
+             "bakery",
+             "supermarket",
+             "food",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 1155,
+          "vicinity" : "5055 Cherokee Street, Acworth"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0864504,
+                "lng" : -84.5739286
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.08788183029149,
+                   "lng" : -84.57272011970849
+                },
+                "southwest" : {
+                   "lat" : 34.08518386970849,
+                   "lng" : -84.5754180802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+          "name" : "Family Dollar",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2988,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEA6tWgqnUUik_B_FtP6U2QxZT7mjJ8yeobFFFliT3_pv0-Swoftol0v-L_6cdNJI9lrKeB4X45--WRGvT-ZbyTywB8KoF4cWCYbz1xecYaUhBP_0jTjrFQaPBppVzUJ63HDiqagdX1VFtTC8Y4pcL0mtucvBx74c_2XbTh8pgZmeGaq",
+                "width" : 5312
+             }
+          ],
+          "place_id" : "ChIJWZmU8Fpq9YgR2UuqDmECNqA",
+          "plus_code" : {
+             "compound_code" : "3CPG+HC Acworth, GA, USA",
+             "global_code" : "866Q3CPG+HC"
+          },
+          "price_level" : 1,
+          "rating" : 3.9,
+          "reference" : "ChIJWZmU8Fpq9YgR2UuqDmECNqA",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "grocery_or_supermarket",
+             "food",
+             "point_of_interest",
+             "clothing_store",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 46,
+          "vicinity" : "5540 Bells Ferry Road, Acworth"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 33.9938727,
+                "lng" : -84.5994683
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 33.9950909802915,
+                   "lng" : -84.5979766197085
+                },
+                "southwest" : {
+                   "lat" : 33.9923930197085,
+                   "lng" : -84.60067458029151
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Barrett Parkway",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117556203191894480840\"\u003eKarl Shrouder\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEA8la0Ml25yHxbVqsQfmJljsrTHpnSqbx556BzHMmtlTBX09nyg9ANkOXWCHjMG3kFWgKbbR91QIwKPUXK_XsQC65MqWuC_VcGSLpJyWfKKAYVe44F22KlrIVzOndNyXoZUpsoXzMHlO5-jf7DVXdkuBtTO2VzHpquWhceIc87uIk3K",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJQZejlp0V9YgRZBBNaZ_p6j8",
+          "plus_code" : {
+             "compound_code" : "XCV2+G6 Kennesaw, GA, USA",
+             "global_code" : "865QXCV2+G6"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJQZejlp0V9YgRZBBNaZ_p6j8",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 446,
+          "vicinity" : "1635 Old 41 Highway Northwest, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.1269719,
+                "lng" : -84.5711529
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.1283785802915,
+                   "lng" : -84.56980586970849
+                },
+                "southwest" : {
+                   "lat" : 34.1256806197085,
+                   "lng" : -84.5725038302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Publix Super Market at Rose Creek Shopping Center",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107308039349128331259\"\u003erobertobiero\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEDITWYFhwNF1oWlnv8IjkO2im4z56f4JT7_7kv24zCLRULWpj5zvks1WS5T4tsdwjQq02mnM6Boq1KVN4IkFhEA28ryxleMPg9W9lANPvNboM1ySpOHKegnJ6A1Q54eEsbnbXyd2X5qo8UnKnP_FY75idaN0zaUCod-kvix-LSEkCDi",
+                "width" : 2448
+             }
+          ],
+          "place_id" : "ChIJQwD0OI9p9YgRrnkqoXOwAjo",
+          "plus_code" : {
+             "compound_code" : "4CGH+QG Woodstock, GA, USA",
+             "global_code" : "866Q4CGH+QG"
+          },
+          "price_level" : 2,
+          "rating" : 4.5,
+          "reference" : "ChIJQwD0OI9p9YgRrnkqoXOwAjo",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "florist",
+             "bakery",
+             "grocery_or_supermarket",
+             "liquor_store",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 374,
+          "vicinity" : "4403 Towne Lake Parkway, Woodstock"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0762327,
+                "lng" : -84.6506098
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0774583302915,
+                   "lng" : -84.6492690697085
+                },
+                "southwest" : {
+                   "lat" : 34.0747603697085,
+                   "lng" : -84.6519670302915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+          "name" : "Family Dollar",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2304,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109575102389353305029\"\u003eCharles Durham\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uEBDNnj2FSmXrxnUkuS1SiaVmbo_j_qMwkzadloIt8q77x-RdWQxdXbYTvKha-znDnoeNinMyy9HtyVt_Aq1aDJPg2JZADjz1T4ZrMrHESP8fi6BDOFw2As_g02NVHvsbjYaI6K5UwM7_uCntkYfkWuZhRWd7qGJwvPpjpuA4uthDG8_",
+                "width" : 4096
+             }
+          ],
+          "place_id" : "ChIJIXk62P5A9YgRmbo-UF9MbNg",
+          "plus_code" : {
+             "compound_code" : "38GX+FQ Acworth, GA, USA",
+             "global_code" : "866Q38GX+FQ"
+          },
+          "price_level" : 1,
+          "rating" : 4.3,
+          "reference" : "ChIJIXk62P5A9YgRmbo-UF9MbNg",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "grocery_or_supermarket",
+             "food",
+             "point_of_interest",
+             "clothing_store",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 105,
+          "vicinity" : "3454 Baker Road, Acworth"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0464566,
+                "lng" : -84.6146167
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.04768113029149,
+                   "lng" : -84.61337251970849
+                },
+                "southwest" : {
+                   "lat" : 34.04498316970849,
+                   "lng" : -84.6160704802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "KES Science & Technology Inc",
+          "opening_hours" : {
+             "open_now" : false
+          },
+          "place_id" : "ChIJl9M7MgVA9YgRQ8zrUlCBSnY",
+          "plus_code" : {
+             "compound_code" : "29WP+H5 Kennesaw, GA, USA",
+             "global_code" : "866Q29WP+H5"
+          },
+          "rating" : 5,
+          "reference" : "ChIJl9M7MgVA9YgRQ8zrUlCBSnY",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "grocery_or_supermarket",
+             "food",
+             "health",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 1,
+          "vicinity" : "3625 Kennesaw North Industrial Parkway, Kennesaw"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0878429,
+                "lng" : -84.5868249
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.0892853302915,
+                   "lng" : -84.58543311970851
+                },
+                "southwest" : {
+                   "lat" : 34.0865873697085,
+                   "lng" : -84.58813108029152
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+          "name" : "Supermercado La Villa",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 834,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+                ],
+                "photo_reference" : "Aap_uECvQ0gbuXj7aciaO0L0uf91QauU1GFrFRoK7HMMO2s_QEqSxzsQEomAjUTdkTb_oq6BbfIVURe64Wk0vU5V_LsW1eGCQubAVSijVh_66ioUInLB70gpyGCZZCRdxdaEUbONFToEIkC71pnDcAylKAP77eBy26nMtjWn1fY2juGTnVM4",
+                "width" : 1482
+             }
+          ],
+          "place_id" : "ChIJwfxgvGdq9YgRgJcFFN51WmA",
+          "plus_code" : {
+             "compound_code" : "3CQ7+47 Acworth, GA, USA",
+             "global_code" : "866Q3CQ7+47"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJwfxgvGdq9YgRgJcFFN51WmA",
+          "scope" : "GOOGLE",
+          "types" : [
+             "supermarket",
+             "grocery_or_supermarket",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 207,
+          "vicinity" : "6158 Highway 92, Acworth"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : {
+             "location" : {
+                "lat" : 34.0399513,
+                "lng" : -84.5670121
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 34.04126718029151,
+                   "lng" : -84.56548111970849
+                },
+                "southwest" : {
+                   "lat" : 34.03856921970851,
+                   "lng" : -84.5681790802915
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+          "name" : "Pre Paid Convenience",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "place_id" : "ChIJCbEnidZq9YgRW2U--mMgAHw",
+          "plus_code" : {
+             "compound_code" : "2CQM+X5 Kennesaw, GA, USA",
+             "global_code" : "866Q2CQM+X5"
+          },
+          "reference" : "ChIJCbEnidZq9YgRW2U--mMgAHw",
+          "scope" : "GOOGLE",
+          "types" : [
+             "convenience_store",
+             "supermarket",
+             "grocery_or_supermarket",
+             "food",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "vicinity" : "125 Townpark Drive, Kennesaw"
+       }
+    ],
+    "status" : "OK"
+ }
