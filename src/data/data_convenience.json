@@ -1,0 +1,435 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEC0-AdEyZReYHhlWdyqWKfdRSXHnNojLTbduLkXZB4VPbeejxmvIqMWlT1fegf91wz9-P_ObBchCt2t23_DOQvVjrI78dnVxuy1lDUtyFduDaW4ohH-LD0i5tOuUXvMei9Ws7ytaY4QrHAuiPEhKPWk_wwcVSxFSFJkf5ZolmhGDr50shPplu1m8ZD947tDUjBci_2UyV3HdNzL5B44QJJ3QnKxGYOfzX7u_dn-WFvk8KL5qP8Ye0NXdyRZbWlVf6JhUh8jckmFUiHu2nBn2Sg6mvTqNc5cdXu5qMXCW2n_8dvUs4YtlpPDJBPh-5wIt8Jn44uPL29opouJfgl173d6UzRlgrwQNy9XGVv_Xl3C03hiN_xZ4upNmrPHFMJ2BC-CI0fBUnlxMZjndxsWHj6crzPm6RPyhDMwf57LHJFI9JYZn0fX1L3Gvgz_GgisQvdp",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0566649,
+              "lng" : -84.5935913
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.05800028029149,
+                 "lng" : -84.59232831970849
+              },
+              "southwest" : {
+                 "lat" : 34.0553023197085,
+                 "lng" : -84.59502628029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name" : "BP",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106704762591248685053\"\u003eAmanda Black\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECk5PZ1QEsjThESqScw1VXtqNTs133f1Pb0pzO8wAyCfz8BG5XHdUIvrkQPHlX_rYAWFpvQHHKa9gDfGII9FPjsvTfnmfVekbFYxpBF_IVSKtKmHUR5iJih86Lhv-PTU6zdE_J2Kzufw5WZwago26MAm4QC1qsa_t2GB8rZj_cA-I4v",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJfcdQZL1q9YgRTC83qGI-iPg",
+        "plus_code" : {
+           "compound_code" : "3C44+MH Kennesaw, GA, USA",
+           "global_code" : "866Q3C44+MH"
+        },
+        "rating" : 3.2,
+        "reference" : "ChIJfcdQZL1q9YgRTC83qGI-iPg",
+        "scope" : "GOOGLE",
+        "types" : [
+           "gas_station",
+           "atm",
+           "convenience_store",
+           "finance",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 12,
+        "vicinity" : "4225 Wade Green Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0480896,
+              "lng" : -84.61547139999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04945608029149,
+                 "lng" : -84.61420521970848
+              },
+              "southwest" : {
+                 "lat" : 34.04675811970849,
+                 "lng" : -84.6169031802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name" : "Texaco",
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104414896893599521567\"\u003eLower48 Traveling\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDXd8wFG_hZKvU7AXm-1VXgpRsWHbD6uSR1mc2d4yOkrSSjVNnB8pEmC8lLY3MRUQfM9CxW5bFHlGlg9hpDhF0jc4yFgcCY7FcFsIYSIvb9Hhj_hHOJ5mjLiZFqj--yJuLNoVLcbJhURoZEwYPuMCmggtae6vQg9hLxo5U-rSjAmkXR",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJyb8GlhpA9YgR1a63cVu7cNc",
+        "plus_code" : {
+           "compound_code" : "29XM+6R Kennesaw, GA, USA",
+           "global_code" : "866Q29XM+6R"
+        },
+        "rating" : 5,
+        "reference" : "ChIJyb8GlhpA9YgR1a63cVu7cNc",
+        "scope" : "GOOGLE",
+        "types" : [
+           "gas_station",
+           "convenience_store",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 2,
+        "vicinity" : "3870 Moon Station Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0611022,
+              "lng" : -84.59355219999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0624409302915,
+                 "lng" : -84.59228126970848
+              },
+              "southwest" : {
+                 "lat" : 34.05974296970851,
+                 "lng" : -84.5949792302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name" : "QuikTrip",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113012979380564947426\"\u003eKing Trucker GA\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA0FNDXRQbH8VSybQqQBPSMgNiHgzRD6onqNTGmPTFot7jKTjqHUIFOCLAqSsoIWlOefRAqAjcb8cgWCPMjJZnvK6XFMyJsHG9pAbHMrd_CFXrAf2KGk-3h-tMv94hYo9rjiEc7-jBzIecnbhtFJUN9bY-4lc6KLQ31_fmnDfOX5qun",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJcZrV_JZq9YgRMc-p2uXAODc",
+        "plus_code" : {
+           "compound_code" : "3C64+CH Kennesaw, GA, USA",
+           "global_code" : "866Q3C64+CH"
+        },
+        "price_level" : 1,
+        "rating" : 4.1,
+        "reference" : "ChIJcZrV_JZq9YgRMc-p2uXAODc",
+        "scope" : "GOOGLE",
+        "types" : [
+           "gas_station",
+           "convenience_store",
+           "meal_takeaway",
+           "liquor_store",
+           "restaurant",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 33,
+        "vicinity" : "4433 Wade Green Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.059013,
+              "lng" : -84.591995
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0603665302915,
+                 "lng" : -84.59068761970849
+              },
+              "southwest" : {
+                 "lat" : 34.0576685697085,
+                 "lng" : -84.5933855802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name" : "RaceTrac",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 608,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115913371505773721725\"\u003eRaceTrac\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECwVPA8d1Ukp4WL91LcslhAFKhay4o4zL18dLtSfcTJsBc6aK1886aVrhZbNRlLxSiBn1f9RCzMMOmo0E3uyxm4ZOO3q14cjoMU95MYEv66vHy896TUu8smEWvr6_kSe-hNlAtfZd-mWCZjRE609ZQVno5m5Rqfm19C3GV5Tpv6yb7A",
+              "width" : 1080
+           }
+        ],
+        "place_id" : "ChIJrzBiWZZq9YgRtE3SCHtiAow",
+        "plus_code" : {
+           "compound_code" : "3C55+J6 Kennesaw, GA, USA",
+           "global_code" : "866Q3C55+J6"
+        },
+        "price_level" : 1,
+        "rating" : 2.9,
+        "reference" : "ChIJrzBiWZZq9YgRtE3SCHtiAow",
+        "scope" : "GOOGLE",
+        "types" : [
+           "gas_station",
+           "atm",
+           "convenience_store",
+           "finance",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 42,
+        "vicinity" : "4350 Wade Green Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0651526,
+              "lng" : -84.6256042
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0665390302915,
+                 "lng" : -84.62427621970848
+              },
+              "southwest" : {
+                 "lat" : 34.0638410697085,
+                 "lng" : -84.6269741802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name" : "Shell",
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/112572944214225569422\"\u003eJoe Pearson\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBlaIFFGUquhx-TH30y5WseT7U6gzHXe2lmu_jKOUCV2q-StA9zXB5V3vZUp4hfJY0_f5nsa6DI_Wf_KLfGLWP4-tMcfyPb0bz3yAhfRK9k3QhjtZUBQk772hIjMXeVPZpCP_2LcV30MPJPTi3DuoRAat8GcYFGCj8a2dP2V0a6NXHI",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJ2-YewDhA9YgRHRygr78agsw",
+        "plus_code" : {
+           "compound_code" : "398F+3Q Acworth, GA, USA",
+           "global_code" : "866Q398F+3Q"
+        },
+        "price_level" : 2,
+        "rating" : 3.5,
+        "reference" : "ChIJ2-YewDhA9YgRHRygr78agsw",
+        "scope" : "GOOGLE",
+        "types" : [
+           "gas_station",
+           "atm",
+           "convenience_store",
+           "finance",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 57,
+        "vicinity" : "2557 Baker Road NW, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0427005,
+              "lng" : -84.60289539999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0440171802915,
+                 "lng" : -84.6014537197085
+              },
+              "southwest" : {
+                 "lat" : 34.0413192197085,
+                 "lng" : -84.60415168029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name" : "Citgo",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJK_QZC6lq9YgRZHOThONMNBU",
+        "plus_code" : {
+           "compound_code" : "29VW+3R Kennesaw, GA, USA",
+           "global_code" : "866Q29VW+3R"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJK_QZC6lq9YgRZHOThONMNBU",
+        "scope" : "GOOGLE",
+        "types" : [
+           "gas_station",
+           "convenience_store",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 9,
+        "vicinity" : "3655 Cherokee Street Northwest Suite 1, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.042107,
+              "lng" : -84.603337
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0434490802915,
+                 "lng" : -84.60188861970849
+              },
+              "southwest" : {
+                 "lat" : 34.0407511197085,
+                 "lng" : -84.6045865802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+        "name" : "Quik Stop",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113548150370487304288\"\u003eAhmad Manadilak\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC-yiLlqZ39I5Nkaz8ckkoRDPkMcB8qJkSSJV_US5JJZCpE1mdTZpxdC1sYT-1ZnaLEpGrkk5DE0028L7prmQPqlKFOrVFu_TzLoGQxPZAKicjVoEmlXA0x-G3N1Dhea4DjtxF98TO__BsJqW0GNh3mdV7jRJ2lR9M6RdGN2uVZ4Vny",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJqw-SD6lq9YgR77xOmzry_ko",
+        "plus_code" : {
+           "compound_code" : "29RW+RM Kennesaw, GA, USA",
+           "global_code" : "866Q29RW+RM"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJqw-SD6lq9YgR77xOmzry_ko",
+        "scope" : "GOOGLE",
+        "types" : [
+           "convenience_store",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 12,
+        "vicinity" : "3655 Cherokee Street Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.046759,
+              "lng" : -84.58136639999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04795418029151,
+                 "lng" : -84.58002681970851
+              },
+              "southwest" : {
+                 "lat" : 34.04525621970851,
+                 "lng" : -84.58272478029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/gas_station-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/gas_pinlet",
+        "name" : "Chevron",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2269,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104969011443980267088\"\u003eChevron\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECMNSsddFfEgkVndM2JBTQMVA8wQhS0UEKULneFCg6IoVD4MsI02LIknKYx0epsjTtxGlG7JIx-M_KDeQqIu1L8Lf9kgZWKxxWJTuPJ_f0vnlpCGV23C5fy-z-ohmhIsNn6XKksof5rfFqEcs8Ec-4J2sHIu4D6FnWvQ-dxgz05vao",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ9fCeRsZq9YgRGHAVyLbkPMo",
+        "plus_code" : {
+           "compound_code" : "2CW9+PF Kennesaw, GA, USA",
+           "global_code" : "866Q2CW9+PF"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJ9fCeRsZq9YgRGHAVyLbkPMo",
+        "scope" : "GOOGLE",
+        "types" : [
+           "gas_station",
+           "convenience_store",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 25,
+        "vicinity" : "3930 George Busbee Parkway Northwest, Kennesaw"
+     }
+  ],
+  "status" : "OK"
+}

@@ -1,0 +1,762 @@
+{
+  "html_attributions" : [],
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0093179,
+              "lng" : -84.57639619999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0106742302915,
+                 "lng" : -84.57496346970849
+              },
+              "southwest" : {
+                 "lat" : 34.0079762697085,
+                 "lng" : -84.5776614302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Petland Kennesaw",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117469445266952262039\"\u003eCresta Christensen\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECRVoUY77VbSekiRPJSyVsGRs486qjZY9rp_hQJHeShEr_BmCnZP5AbXcbUw_vE6fjNAX3YU7qPFr0GQQBSi-zMvKhXGO9zUNwIl59bSxgUlvn5dVcZpn8flCXDM59WFUSMRPMMRYc5rcHbiQ-OzXdaV9hu3W-IvOFbWjxcMPZfJMee",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJY1xk7ygV9YgRedeQxWR1oEo",
+        "plus_code" : {
+           "compound_code" : "2C5F+PC Kennesaw, GA, USA",
+           "global_code" : "866Q2C5F+PC"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJY1xk7ygV9YgRedeQxWR1oEo",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 1867,
+        "vicinity" : "840 Ernest W Barrett Parkway Northwest #494, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.085774,
+              "lng" : -84.5527262
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0870129302915,
+                 "lng" : -84.55140651970848
+              },
+              "southwest" : {
+                 "lat" : 34.08431496970851,
+                 "lng" : -84.5541044802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Creation Pet",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2592,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108352942212977449746\"\u003eTonni Taylor\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECnL-_a0VHFepBwCG3lbIWDf8M7VUvIBZtSgj8bUaK8scn-NapeGdKzRbowreU9rlHz4n0pLddHQXlD4FCbox3FvtEBg-wT11S0PFuPpyGY7zJOe7v2zESRZKY2fv7ETQq6TyaGS1LxJpW3RMVDNYw23wmQd-pDLc1FGXaRpopx1K9h",
+              "width" : 1944
+           }
+        ],
+        "place_id" : "ChIJ7_Ncn6Vr9YgRicD5Do1nNTE",
+        "plus_code" : {
+           "compound_code" : "3CPW+8W Woodstock, GA, USA",
+           "global_code" : "866Q3CPW+8W"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJ7_Ncn6Vr9YgRicD5Do1nNTE",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 363,
+        "vicinity" : "8265 Highway 92, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.01617289999999,
+              "lng" : -84.55129339999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0173878302915,
+                 "lng" : -84.5499575197085
+              },
+              "southwest" : {
+                 "lat" : 34.0146898697085,
+                 "lng" : -84.55265548029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Petco",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3120,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104628900113607701469\"\u003eDavid Strain\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAy1aJ6wgyiMvm_bArGy78lebmWsC5TXpJdWhVtqe4E2oBL38dmjjGQFO_nzrpXIOm_L7ygBa1pbSf-VbutLD6YAWKW8CMBhvQRmt7Z949VNRAqz9EARZ0XK7DeRdm3jnvHf_IjAkjKWrhybid-sslusht4Ek7tIWziyqsCAV67LlJw",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJ21Q8gMMU9YgRc35m5FI8twU",
+        "plus_code" : {
+           "compound_code" : "2C8X+FF Marietta, GA, USA",
+           "global_code" : "866Q2C8X+FF"
+        },
+        "price_level" : 2,
+        "rating" : 4.3,
+        "reference" : "ChIJ21Q8gMMU9YgRc35m5FI8twU",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 393,
+        "vicinity" : "50 Ernest W Barrett Parkway Northwest #500, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1153504,
+              "lng" : -84.58327199999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1167249302915,
+                 "lng" : -84.58173116970849
+              },
+              "southwest" : {
+                 "lat" : 34.1140269697085,
+                 "lng" : -84.5844291302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Animal Atlanta",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116540992358532529313\"\u003eNatasha Mandich\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBxx-ZyJk4-J7cdi2HjLevkDNcGFA17gsZCMUplcVrM0VQ76uLIrdRR6agTWfQMDv-SbEQLSLysLyguLNaF4Y0G3ERNo3S3B5OyJN9TDRwyC11kUmWl5KFb9cLQ1kV7UzcTDJmw6pyN6kOwZ-peYx1TuFSttpFZ6V39fllnyL4H28kp",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJoaYkRSJq9YgR-M1y3jiMscc",
+        "plus_code" : {
+           "compound_code" : "4C88+4M Woodstock, GA, USA",
+           "global_code" : "866Q4C88+4M"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJoaYkRSJq9YgR-M1y3jiMscc",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 553,
+        "vicinity" : "6449 Bells Ferry Road, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.009545,
+              "lng" : -84.5747478
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01083193029149,
+                 "lng" : -84.57338551970849
+              },
+              "southwest" : {
+                 "lat" : 34.0081339697085,
+                 "lng" : -84.5760834802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Optimum Aquarium",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3456,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114284832629807619421\"\u003eOptimum Aquarium\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDbgxsGwknbfkApZ6Uv9QKLuVD_IdsHqzmSEFvQbTIFL2XQDGtnBsL3lvnPR7OxRVyu2P7XZAtYMiSVTyI4zOpl1pNgGN691L8KjMPm-R-gPndhGD1TmcFunfsiFsW0fY61ICG1fd39JGBhUnslyG5wOWFFjMDC3iXk4MbzVuRjUJua",
+              "width" : 5184
+           }
+        ],
+        "place_id" : "ChIJQaUZiRcV9YgRd4IHYGwXKa4",
+        "plus_code" : {
+           "compound_code" : "2C5G+R4 Kennesaw, GA, USA",
+           "global_code" : "866Q2C5G+R4"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJQaUZiRcV9YgRd4IHYGwXKa4",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 445,
+        "vicinity" : "840 Ernest W Barrett Parkway Northwest #700, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1059002,
+              "lng" : -84.5392149
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1071622302915,
+                 "lng" : -84.5379321197085
+              },
+              "southwest" : {
+                 "lat" : 34.1044642697085,
+                 "lng" : -84.54063008029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Pet Supermarket",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3264,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102528931470776897404\"\u003eJennifer Evans\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBvcsSLavXiQKR1gk24VBHFm1G29JHtEbnJd8M7_hvu9tL8kUl7kha-yKG-IxI_HO8jcawm-WR0tYJ5Fsf-etecfYQ-TYJMpO12OPWk5OqA_Ugq21TVCaV_FCV5EN8iz6ZMxwHeF66A5ZI7LDYCngSNEfWM9FYCTypVTD5G3_0I4CpE",
+              "width" : 2448
+           }
+        ],
+        "place_id" : "ChIJJWizP-lr9YgRIW5otnEYgL4",
+        "plus_code" : {
+           "compound_code" : "4F46+98 Woodstock, GA, USA",
+           "global_code" : "866Q4F46+98"
+        },
+        "price_level" : 2,
+        "rating" : 4.4,
+        "reference" : "ChIJJWizP-lr9YgRIW5otnEYgL4",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 204,
+        "vicinity" : "1428 Towne Lake Parkway Ste 100, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 33.9988651,
+              "lng" : -84.59189139999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0002756302915,
+                 "lng" : -84.59038191970849
+              },
+              "southwest" : {
+                 "lat" : 33.9975776697085,
+                 "lng" : -84.5930798802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Petco",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2448,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104280047247783590121\"\u003eJuMBLe MaN\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDyqPLlFOnZq5SqRjjHGZTsRQorsqiD9gO9UbL_--Y-ETp8j6HXHV9Gl_9YroO5L-FcajVSd9EXw-8tLm-8vJeLF1uXJMfk8Jfa8izXeDD4UqysJq5feH1FrkVTC7nFBIgCLJDrOaJ3HTpNJT3d6J6LN9Oig7W35Jo3kCrf0Fp4msou",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJhYavJ3IV9YgRcFjKzbB0MHA",
+        "plus_code" : {
+           "compound_code" : "XCX5+G6 Kennesaw, GA, USA",
+           "global_code" : "865QXCX5+G6"
+        },
+        "price_level" : 2,
+        "rating" : 4.3,
+        "reference" : "ChIJhYavJ3IV9YgRcFjKzbB0MHA",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "food", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 461,
+        "vicinity" : "1570 Crater Lake Drive Ste 300, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0643231,
+              "lng" : -84.67394609999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0657153302915,
+                 "lng" : -84.6726026197085
+              },
+              "southwest" : {
+                 "lat" : 34.0630173697085,
+                 "lng" : -84.67530058029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Shad Stocking",
+        "place_id" : "ChIJqUEdNcFA9YgR2zsg9m6X9Mk",
+        "plus_code" : {
+           "compound_code" : "387G+PC Acworth, GA, USA",
+           "global_code" : "866Q387G+PC"
+        },
+        "reference" : "ChIJqUEdNcFA9YgR2zsg9m6X9Mk",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "vicinity" : "4705 South Main Street, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.057867,
+              "lng" : -84.5904666
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0593204802915,
+                 "lng" : -84.58931601970849
+              },
+              "southwest" : {
+                 "lat" : 34.0566225197085,
+                 "lng" : -84.59201398029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "The Good Dog Shoppe",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103860417003983038353\"\u003eAneasha C\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECJNA0tVLKVlfjPhdcpX5D9geVRdUNoPuvKuMYzaZRE8PW3QpEUYwj_wmKGXn-6Hj1ZJdNaQL6aDmSVLZPovN370CAG9XUECd4wIQlgK9GvUtYScsV3J0lG2PlAXC1XVt4RReU4uc0QRf_ni6gqJtVRYb44cL9ftmcFSvP8BP3paazC",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJVY45DpZq9YgRLFoB9d46LKQ",
+        "plus_code" : {
+           "compound_code" : "3C55+4R Kennesaw, GA, USA",
+           "global_code" : "866Q3C55+4R"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJVY45DpZq9YgRLFoB9d46LKQ",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 231,
+        "vicinity" : "4200 Wade Green Road Northwest #5, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.06866,
+              "lng" : -84.620131
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0698996802915,
+                 "lng" : -84.61883946970849
+              },
+              "southwest" : {
+                 "lat" : 34.0672017197085,
+                 "lng" : -84.62153743029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Loving Touch Pet Sitting",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJAabgczpA9YgRUuM-xdi6uqQ",
+        "plus_code" : {
+           "compound_code" : "399H+FW Acworth, GA, USA",
+           "global_code" : "866Q399H+FW"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJAabgczpA9YgRUuM-xdi6uqQ",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "2474 Arcadia Drive Northwest, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.03911989999999,
+              "lng" : -84.59747999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0405617802915,
+                 "lng" : -84.59605016970849
+              },
+              "southwest" : {
+                 "lat" : 34.0378638197085,
+                 "lng" : -84.5987481302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "The Pet Step shop",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJobfMx61q9YgRfNenBkG2K_g",
+        "plus_code" : {
+           "compound_code" : "2CQ3+J2 Kennesaw, GA, USA",
+           "global_code" : "866Q2CQ3+J2"
+        },
+        "reference" : "ChIJobfMx61q9YgRfNenBkG2K_g",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "vicinity" : "1150 Country Club Place, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0437629,
+              "lng" : -84.6211649
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0451105802915,
+                 "lng" : -84.61966011970848
+              },
+              "southwest" : {
+                 "lat" : 34.0424126197085,
+                 "lng" : -84.62235808029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Easy Reef Systems",
+        "place_id" : "ChIJS4npMD9B9YgRtSUrIow5fbE",
+        "plus_code" : {
+           "compound_code" : "29VH+GG Kennesaw, GA, USA",
+           "global_code" : "866Q29VH+GG"
+        },
+        "reference" : "ChIJS4npMD9B9YgRtSUrIow5fbE",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "vicinity" : "3669 Regent Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.09024549999999,
+              "lng" : -84.5859983
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.09154693029149,
+                 "lng" : -84.58465421970851
+              },
+              "southwest" : {
+                 "lat" : 34.08884896970849,
+                 "lng" : -84.58735218029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Pet Supplies Plus",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116326631393500224994\"\u003eMarina Frolova White\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBfvL0sk-WgyvL04G0k1XZs0WnPMzwmZ8U0Y0D_S77e0bz4dEX2pycDjFWhUiGlRMZmRD7UHtGszT0sDP9xmPnGMWxlhmgLs4kEaTyqRBAUsN3kABSQz0VxBS-m2Nr3IyngEnmOeZDTzjZigodHt0ncegp1T_zhujSWBnQSSbyT0hXE",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJgeqODmhq9YgRvzD_LQkp3lE",
+        "plus_code" : {
+           "compound_code" : "3CR7+3J Acworth, GA, USA",
+           "global_code" : "866Q3CR7+3J"
+        },
+        "price_level" : 1,
+        "rating" : 4.6,
+        "reference" : "ChIJgeqODmhq9YgRvzD_LQkp3lE",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 385,
+        "vicinity" : "6199 Highway 92 #160, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0133352,
+              "lng" : -84.56722689999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0146367802915,
+                 "lng" : -84.5657900697085
+              },
+              "southwest" : {
+                 "lat" : 34.0119388197085,
+                 "lng" : -84.5684880302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Bird Watcher Supply Company",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1512,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111941854758037632336\"\u003eBird Watcher Supply Company\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB6pWrph4cblWz1preGcGYR6ru4P-E9lQkpZ4W8c0Zv3lFyYZQbFqQRXIqut3J19Kst1ZY2M0j1v8I5pd9DkqYGtGqWdQU6yatnQrFiQSBrH2v_NcXTEuv_cPk8L_Kqi4AdShkaxExA3KzEOazKooeNBNeAkaggZ0pVqJiEEw-RHhRn",
+              "width" : 2016
+           }
+        ],
+        "place_id" : "ChIJ636PACEV9YgRbX6v7tHcAHQ",
+        "plus_code" : {
+           "compound_code" : "2C7M+84 Kennesaw, GA, USA",
+           "global_code" : "866Q2C7M+84"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJ636PACEV9YgRbX6v7tHcAHQ",
+        "scope" : "GOOGLE",
+        "types" : [
+           "jewelry_store",
+           "pet_store",
+           "home_goods_store",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 55,
+        "vicinity" : "2615 George Busbee Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.066361,
+              "lng" : -84.64554299999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0676180802915,
+                 "lng" : -84.64413546970847
+              },
+              "southwest" : {
+                 "lat" : 34.0649201197085,
+                 "lng" : -84.64683343029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Kindness Matters Ferret Rescue",
+        "photos" : [
+           {
+              "height" : 768,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103190094386863092043\"\u003eKindness Matters Ferret Rescue\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECb7v67DVmoqnZPsJJtBNYCjjFH9dRn_xSQ5ZlRkyLCvw-XJuscEqvas0-O1qeVNpBn6nPAXeSpUGU3GcbR7cy2AWkDMVXKVMNwC1rPMoeDX6nHxqJ-taYIPQQKa2MD69xgHcBMl2M55EC3r6q-rRFOZwP21ffg6OQIWfFKTpQp0fvM",
+              "width" : 1024
+           }
+        ],
+        "place_id" : "ChIJe_5d4VhA9YgRcwGdlt-K-2o",
+        "plus_code" : {
+           "compound_code" : "3983+GQ Acworth, GA, USA",
+           "global_code" : "866Q3983+GQ"
+        },
+        "rating" : 4.9,
+        "reference" : "ChIJe_5d4VhA9YgRcwGdlt-K-2o",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 175,
+        "vicinity" : "4233 Zephyrhills Drive, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1131051,
+              "lng" : -84.55516299999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1145106302915,
+                 "lng" : -84.55366926970849
+              },
+              "southwest" : {
+                 "lat" : 34.1118126697085,
+                 "lng" : -84.5563672302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Hollywood Feed",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2988,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDqY8AmHGlWHDgibqXMa5iELMkckJB7MGrDFpo9BffSRmCoOki2ksjJ1SMAVlph7OUhPWNBrEoBuLb-lrZYMag__MfaASXVEccP_OAocL7onCMiQreiBsq5cm8oxecYaXDIeoAnq4N89LcztChCV5_c88Ud3NdxqBazjGWFqpw9ryaT",
+              "width" : 5312
+           }
+        ],
+        "place_id" : "ChIJF4fc5GBr9YgRf775SwTGSX4",
+        "plus_code" : {
+           "compound_code" : "4C7V+6W Woodstock, GA, USA",
+           "global_code" : "866Q4C7V+6W"
+        },
+        "rating" : 4.9,
+        "reference" : "ChIJF4fc5GBr9YgRf775SwTGSX4",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 30,
+        "vicinity" : "2295 Towne Lake Parkway Suite 140, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0751682,
+              "lng" : -84.6765286
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0765383802915,
+                 "lng" : -84.67517666970849
+              },
+              "southwest" : {
+                 "lat" : 34.0738404197085,
+                 "lng" : -84.6778746302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "North Georgia Exotics",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1365,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101803939927501209637\"\u003eNorth Georgia Exotics\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDDfLjntxonDokL_6DYJxz_FSdHXeyO54auLZPUEA7UL9U_TwSLstZTIAXw0MKjnXutii_WhgxCvtU4ncVXpQH1mNseZe5CSfl1Ced0fJPSI3Rsv7tbYgymKPYQ0DdVNe8lsM2bhR20krX9veV1z8Q2k_XSuSG1qIKt83VvYVWSijI",
+              "width" : 2048
+           }
+        ],
+        "place_id" : "ChIJFwcbOL1B9YgRMwB-mWSjBYU",
+        "plus_code" : {
+           "compound_code" : "38GF+39 Acworth, GA, USA",
+           "global_code" : "866Q38GF+39"
+        },
+        "rating" : 4.9,
+        "reference" : "ChIJFwcbOL1B9YgRMwB-mWSjBYU",
+        "scope" : "GOOGLE",
+        "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 40,
+        "vicinity" : "5054 Cherokee Street, Acworth"
+     }
+  ],
+  "status" : "OK"
+}

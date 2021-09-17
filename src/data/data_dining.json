@@ -1,0 +1,784 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEBIjGxXWz6tbmVWzgPiN_X6YulMAEkaqPlIcMnhGJ-MAmjzoUeU6TzgEXIZkbAy9zx1JHlqluRytFbnFSl84WJ5S-MLgxATIsPXSaLx-Ro-G3FF4Mf8hFdYNY6qNhymVge0r405kIXTBhMj2aaNLIxzOM9AhyD-3Kud_V698Ed9v8UrmLlByomhtcSJj8uU4JU-CivaL4w7_3XPHl4Fnb4qEDtZplKRDhIrf-pkzoHIswMu-WNlCGgv9dEZVrasI3ir1cdsJtzgJx9u0fYkDeSV3kgX4XHZivz8RSL4pyYQN2jBNETPRwkGqC8tLaxyjAeZxyYSqoFk44wtEMuqEhTTQxou5njkjvmoNfsV_8bEyV7l3BeRqjoyrUFfKowN9er6mIRmPR_MtjDbQM_9nkMmkhX7Wo0aRkRWPVClDBOiCJ0Jq7ISaw",
+  "results" : [
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.050138,
+              "lng" : -84.597212
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0514733302915,
+                "lng" : -84.59578251970849
+              },
+              "southwest" : {
+                "lat" : 34.0487753697085,
+                "lng" : -84.5984804802915
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name" : "Starbucks",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 3024,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/113409862252778920216\"\u003eLane Lareau\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA5-yEPanLy4hVgJrFH45Uz8hwuoE1aNGtFRdSoepy9kdF1Z1PiFeFi0txi0FnXHQF1PBka6ujvvTxuqDaUdQ4j8U-P8IGYr4aeVHG1IR2oEV82ccLSWix8ZwTn9YItqJs6wswK3wPUhwIDHXRIQdKgiZ3ga2HK1xCqRJ--Sq8r1opR",
+              "width" : 4032
+          }
+        ],
+        "place_id" : "ChIJx9Ngk6Rq9YgRmlRUUY2gu8s",
+        "plus_code" : {
+          "compound_code" : "3C23+34 Kennesaw, GA, USA",
+          "global_code" : "866Q3C23+34"
+        },
+        "price_level" : 2,
+        "rating" : 4.2,
+        "reference" : "ChIJx9Ngk6Rq9YgRmlRUUY2gu8s",
+        "scope" : "GOOGLE",
+        "types" : [
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total" : 691,
+        "vicinity" : "4069 Cherokee Street Northwest, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.0496593,
+              "lng" : -84.6114657
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0509555302915,
+                "lng" : -84.61007661970848
+              },
+              "southwest" : {
+                "lat" : 34.0482575697085,
+                "lng" : -84.6127745802915
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Big Pie In the Sky Pizzeria",
+        "opening_hours" : {
+          "open_now" : true
+        },
+        "photos" : [
+          {
+              "height" : 3024,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/108180246874850668062\"\u003eTaka Torimoto\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBrNw0BePjc6jkSQJLrmhJFkCwuvCOdHZ0zfRHk46jxhqt-xRdPuNICSUrGp31KoKpsfnj-TRCmpgNUUqMlrTOjpkhe_oKGbnhkUEiyrhfX3fo_cbmh-tmSQTeVXaZKwYW3GJ-l-orNVczCv69Fv5qD6MOJSUR9c6OcPBrc6aq_khej",
+              "width" : 4032
+          }
+        ],
+        "place_id" : "ChIJly9aYBxA9YgRtB7t2yJqhoc",
+        "plus_code" : {
+          "compound_code" : "29XQ+VC Kennesaw, GA, USA",
+          "global_code" : "866Q29XQ+VC"
+        },
+        "price_level" : 1,
+        "rating" : 4.4,
+        "reference" : "ChIJly9aYBxA9YgRtB7t2yJqhoc",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1847,
+        "vicinity" : "2090 Baker Road Suite A-103, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.04943799999999,
+              "lng" : -84.622348
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0507224802915,
+                "lng" : -84.62101361970849
+              },
+              "southwest" : {
+                "lat" : 34.04802451970851,
+                "lng" : -84.62371158029151
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Mango Tree Raw Juice & Smoothies",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 2304,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/113337691918690766607\"\u003eMango Tree Raw Juice &amp; Smoothies\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED5AGK8qyRxHE23IQogWqi7vlaOdtjGR0FDtPv-XmCAX2fcNxk2rL-Ng-lxri-qf0xZ4K4UEj1MBJ09qdVzlWc_1BbnqfhJa6yxYiyuWN5z1Gm3A2zFhDOE3sSmXf_e6J5EEevDdSM3jJUJWd_ilgFOVSFYRTs4LFDJpvvQZU1ZaAeO",
+              "width" : 3185
+          }
+        ],
+        "place_id" : "ChIJB37pPBJA9YgRRMBnjxgBiVg",
+        "plus_code" : {
+          "compound_code" : "29XH+Q3 Kennesaw, GA, USA",
+          "global_code" : "866Q29XH+Q3"
+        },
+        "price_level" : 2,
+        "rating" : 4.6,
+        "reference" : "ChIJB37pPBJA9YgRRMBnjxgBiVg",
+        "scope" : "GOOGLE",
+        "types" : [ "cafe", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 117,
+        "vicinity" : "D-200, 3900 Legacy Park Blvd, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.03814589999999,
+              "lng" : -84.649159
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0394081802915,
+                "lng" : -84.64786551970849
+              },
+              "southwest" : {
+                "lat" : 34.0367102197085,
+                "lng" : -84.65056348029151
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Gourmet Sweet Eats",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 2988,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/117313631053938032743\"\u003eErika Anderson\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAosoJjq4wcg3GhdX1mmNrv9CRbb3h8PDgixT2_qIjATRNb4-6dzCLWPVw6ouWj_WNrUuJfdv4LVxf900gXRFAsdaeUB-2Q-_ZTW8NTsUUTS2GMWgxIWfeS9TinICYRZ01TfqQV_hWlrlESSv01h9UNmCuuG-qDkb09dRZVs4wQVEze",
+              "width" : 5312
+          }
+        ],
+        "place_id" : "ChIJR_IzFoBA9YgRjPwOHN7f7f0",
+        "plus_code" : {
+          "compound_code" : "29Q2+78 Kennesaw, GA, USA",
+          "global_code" : "866Q29Q2+78"
+        },
+        "reference" : "ChIJR_IzFoBA9YgRjPwOHN7f7f0",
+        "scope" : "GOOGLE",
+        "types" : [ "bakery", "food", "point_of_interest", "store", "establishment" ],
+        "vicinity" : "3540 Clear Creek Crossing Northwest, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.0244494,
+              "lng" : -84.6247271
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0257459802915,
+                "lng" : -84.62317626970851
+              },
+              "southwest" : {
+                "lat" : 34.0230480197085,
+                "lng" : -84.62587423029152
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Paul's Pot Pies",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 312,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/106916005694887611794\"\u003ePaul&#39;s Pot Pies\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBg6nOAvkSL2ro2ghrhKo_a0wVkO9Z_6Odz9_IRUYIHd8aeuzbAg8MAZnzgCf6os_67CmcCVElQeOP48osFEyJfRes4DqhBvPk7xdkGLokMQuPkf_XB8egU7-21jbrdVIAXamfyU_jD5Itz3K25rsYM4k2wSfytcaA957BcZpPvY2aV",
+              "width" : 820
+          }
+        ],
+        "place_id" : "ChIJGQxige0_9YgRZJE1l5AMruU",
+        "plus_code" : {
+          "compound_code" : "29FG+Q4 Kennesaw, GA, USA",
+          "global_code" : "866Q29FG+Q4"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJGQxige0_9YgRZJE1l5AMruU",
+        "scope" : "GOOGLE",
+        "types" : [
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total" : 54,
+        "vicinity" : "2750 Jiles Road, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.0659805,
+              "lng" : -84.6777941
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0674226802915,
+                "lng" : -84.6763568197085
+              },
+              "southwest" : {
+                "lat" : 34.0647247197085,
+                "lng" : -84.67905478029151
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Henry's Louisiana Grill",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 2268,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/116676417725908146465\"\u003eNick Lewis\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED3kK8AGqdTCXGHk7qL5CSFTITjpXdjhqSGZmdY96VeiXYEfrFGmOIbla2QmjmPjzZD7EVVw5Aq6gMaAsuZEn9spDirJpR8zVpB8wZn52AUQgkA4y5kUNlVByJ1elerYZW925cOnIjSudzbAryzRINiARF8YOEgMugBxgpppFJQ9JHW",
+              "width" : 4032
+          }
+        ],
+        "place_id" : "ChIJKdyidcZA9YgRtKIkEdL2PrM",
+        "plus_code" : {
+          "compound_code" : "388C+9V Acworth, GA, USA",
+          "global_code" : "866Q388C+9V"
+        },
+        "price_level" : 2,
+        "rating" : 4.7,
+        "reference" : "ChIJKdyidcZA9YgRtKIkEdL2PrM",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 4224,
+        "vicinity" : "4835 North Main Street, Acworth"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.106626,
+              "lng" : -84.542863
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.10805353029151,
+                "lng" : -84.54142606970849
+              },
+              "southwest" : {
+                "lat" : 34.10535556970851,
+                "lng" : -84.5441240302915
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Tuscany Italian Restaurant",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 3116,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/100885414796370375634\"\u003eTuscany Italian Restaurant\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAuQJvdQtRo1U9OkfI9zqcZJfM2vwua_dSg1d-yPUeDFHDcS5fBkvc9uhDQJQogGDHmWNr57Ulg2HFmvP75NmgcrvTG5zlUAUUQ_mP3jvT9C8VoGiHpPRw9hiBMBZvXPU4rP5s3H7BcR99a9AA-zNVk43hacK0yK9kPzRTGIOn6lcO3",
+              "width" : 5446
+          }
+        ],
+        "place_id" : "ChIJlW1H2Olr9YgRw_R8TDkwxkI",
+        "plus_code" : {
+          "compound_code" : "4F44+MV Woodstock, GA, USA",
+          "global_code" : "866Q4F44+MV"
+        },
+        "price_level" : 2,
+        "rating" : 4.4,
+        "reference" : "ChIJlW1H2Olr9YgRw_R8TDkwxkI",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 938,
+        "vicinity" : "250 Cinema View, Woodstock"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.012755,
+              "lng" : -84.5645018
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0140134302915,
+                "lng" : -84.5630856697085
+              },
+              "southwest" : {
+                "lat" : 34.0113154697085,
+                "lng" : -84.56578363029151
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "The Honey Baked Ham Company",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 776,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC-FVJh8P56zmAMG8Q2xcpc-Vz_IG6vaoUMY-vc8wDf7z9LHfl_wPFNRYSrcsLePhOo-k3vuF9O7py9orLFkFBFRFvRlk7jyQ3H7y15gbmAoMNcusYt-7eI9pue6vtV2Mle8miCx5n2gcG8DObUOHcoaIyx7HrFL8PzBsvDXOE4PGdP",
+              "width" : 1354
+          }
+        ],
+        "place_id" : "ChIJTXiZnN8U9YgR5xVTahQq8IE",
+        "plus_code" : {
+          "compound_code" : "2C7P+45 Kennesaw, GA, USA",
+          "global_code" : "866Q2C7P+45"
+        },
+        "price_level" : 2,
+        "rating" : 4.5,
+        "reference" : "ChIJTXiZnN8U9YgR5xVTahQq8IE",
+        "scope" : "GOOGLE",
+        "types" : [
+          "meal_takeaway",
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total" : 132,
+        "vicinity" : "440 Ernest W Barrett Parkway Northwest, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.009237,
+              "lng" : -84.57016299999999
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0105257302915,
+                "lng" : -84.56892746970848
+              },
+              "southwest" : {
+                "lat" : 34.0078277697085,
+                "lng" : -84.5716254302915
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "TGI Fridays",
+        "opening_hours" : {
+          "open_now" : true
+        },
+        "photos" : [
+          {
+              "height" : 4032,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/106704762591248685053\"\u003eAmanda Black\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAB71PJXbI_Shxm3wldcVubmurFfUH3VWiKQVgi4qVmuy6__PiK7FTHZD90qZTCVBfYVHyOPr-R9dl-JVHkxNdw33dAyTQ5qBuiDFqiWbhvlgIiEgjlTzZs64TMgFwE_8tyCHZooHLuqMsHhKV7GOEKI1wcxTX0_gtOO9Ew1S_xyqOo",
+              "width" : 3024
+          }
+        ],
+        "place_id" : "ChIJTQyokBgV9YgRp5GBrpwHNF8",
+        "plus_code" : {
+          "compound_code" : "2C5H+MW Kennesaw, GA, USA",
+          "global_code" : "866Q2C5H+MW"
+        },
+        "price_level" : 2,
+        "rating" : 3.7,
+        "reference" : "ChIJTQyokBgV9YgRp5GBrpwHNF8",
+        "scope" : "GOOGLE",
+        "types" : [
+          "restaurant",
+          "meal_takeaway",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total" : 1447,
+        "vicinity" : "840 Cobb Place Boulevard Northwest, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.0014012,
+              "lng" : -84.58342209999999
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.00265168029149,
+                "lng" : -84.5820058197085
+              },
+              "southwest" : {
+                "lat" : 33.9999537197085,
+                "lng" : -84.58470378029151
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Carrabba's Italian Grill",
+        "opening_hours" : {
+          "open_now" : true
+        },
+        "photos" : [
+          {
+              "height" : 3024,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/103260352591704484910\"\u003eJosh Pickard\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDP-BNQgnzrzg1AabuRBB1s1Gh2IxY5A6ZbhhI6lT0XOq3FxZ0kkzx9OqsbKwXpNDi06AfXI0hewl5mhuf1pa8rNr4lWcCuUwdNHlAr02wGr1h0iWLs4sUO1H5Vb6Ho1x7ZLlrGM_8NOZM80hAinCyA1U6zzPIBOIWnBLS0NX1Z9r1C",
+              "width" : 4032
+          }
+        ],
+        "place_id" : "ChIJ6VpmiBIV9YgRiwBv23Rle8w",
+        "plus_code" : {
+          "compound_code" : "2C28+HJ Kennesaw, GA, USA",
+          "global_code" : "866Q2C28+HJ"
+        },
+        "price_level" : 2,
+        "rating" : 4.4,
+        "reference" : "ChIJ6VpmiBIV9YgRiwBv23Rle8w",
+        "scope" : "GOOGLE",
+        "types" : [
+          "meal_takeaway",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total" : 1559,
+        "vicinity" : "1160 Ernest W Barrett Parkway Northwest, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.01805480000001,
+              "lng" : -84.5646689
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0195960802915,
+                "lng" : -84.5632278197085
+              },
+              "southwest" : {
+                "lat" : 34.0168981197085,
+                "lng" : -84.56592578029151
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Little Tokyo Restaurant",
+        "opening_hours" : {
+          "open_now" : false
+        },
+        "photos" : [
+          {
+              "height" : 1369,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/110848316572053166598\"\u003eSkip Daniel\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEARCbdfRp7fupm8X8cK31cXhhDTXop5YjRAy-3JVU3DdJOqtXzIX0S2Ws5twBkQdAjThK6feKzVDh72nnM-NH8Nv7zOFwSs0ePCn1nG2fl6tmd7Psr70jXjj0PruvUZBIDopMWxREsdQEBRrf-JC_0FJNPaz3Ax5RMukJFxYRILIGXP",
+              "width" : 1889
+          }
+        ],
+        "place_id" : "ChIJcc9ohtgU9YgRgHH3AKqwy_E",
+        "plus_code" : {
+          "compound_code" : "2C9P+64 Kennesaw, GA, USA",
+          "global_code" : "866Q2C9P+64"
+        },
+        "price_level" : 1,
+        "rating" : 3,
+        "reference" : "ChIJcc9ohtgU9YgRgHH3AKqwy_E",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 26,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest # 122, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.0373557,
+              "lng" : -84.5683598
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0386273802915,
+                "lng" : -84.5669346697085
+              },
+              "southwest" : {
+                "lat" : 34.0359294197085,
+                "lng" : -84.56963263029152
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Taco Mac Kennesaw",
+        "opening_hours" : {
+          "open_now" : true
+        },
+        "photos" : [
+          {
+              "height" : 2592,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/107658832974404496387\"\u003eTaco Mac Kennesaw\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAlR3wL9sKa9lfKEOiGYkp7GH2wrA4fAQDGtP2KNv6MbojMHri3fUAb6LAeN8-Ht8ciZtrq1nY_ZwFdJ3hGibzr5sf7RZ3C-HN8kR99hYE7FEQrRigdXMLGYv2TYhGpJC7wuhgyEP3WJk_i5GRMupGSBNprjl1odpxeQE3jG6fjdPUC",
+              "width" : 4608
+          }
+        ],
+        "place_id" : "ChIJgem-RdRq9YgRl49q4dN58ng",
+        "plus_code" : {
+          "compound_code" : "2CPJ+WM Kennesaw, GA, USA",
+          "global_code" : "866Q2CPJ+WM"
+        },
+        "price_level" : 2,
+        "rating" : 4.1,
+        "reference" : "ChIJgem-RdRq9YgRl49q4dN58ng",
+        "scope" : "GOOGLE",
+        "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 2144,
+        "vicinity" : "600 Chastain Road Ste 310, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.00777590000001,
+              "lng" : -84.57499079999999
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0090434802915,
+                "lng" : -84.57366031970849
+              },
+              "southwest" : {
+                "lat" : 34.0063455197085,
+                "lng" : -84.5763582802915
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Outback Steakhouse",
+        "opening_hours" : {
+          "open_now" : true
+        },
+        "photos" : [
+          {
+              "height" : 1667,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAEtEzmgvT7_qhDc-EZw4XjltFmEV_KFMMJXrkNnBa3eXL-1_bUwEN902IlXv9C05HlIlS28g4UkfIZ8KROqCgl6dsFBlah6EgB5xXzTP_n5r6cTyTx_p_DLyikOsPoZUuy6FtzDpXcc4jj55kjO9knwwwHVPeY1gsvJtqgjfXHlWoG",
+              "width" : 2963
+          }
+        ],
+        "place_id" : "ChIJm7sNZBcV9YgRDuP5tvMhGH8",
+        "plus_code" : {
+          "compound_code" : "2C5G+42 Kennesaw, GA, USA",
+          "global_code" : "866Q2C5G+42"
+        },
+        "price_level" : 2,
+        "rating" : 4.1,
+        "reference" : "ChIJm7sNZBcV9YgRDuP5tvMhGH8",
+        "scope" : "GOOGLE",
+        "types" : [
+          "meal_takeaway",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total" : 1712,
+        "vicinity" : "810 Ernest W Barrett Parkway Northwest, Kennesaw"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.08536539999999,
+              "lng" : -84.5319872
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.08690833029149,
+                "lng" : -84.5306883197085
+              },
+              "southwest" : {
+                "lat" : 34.08421036970849,
+                "lng" : -84.53338628029151
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name" : "Krispy Kreme",
+        "opening_hours" : {
+          "open_now" : true
+        },
+        "photos" : [
+          {
+              "height" : 1080,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/115372386933445086287\"\u003eDavid Bare\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC9GBbJXGA8GVhxzYQjkArGRiPdPINNuDB0AEWCwtihvjAbT0eEWD0-yA4IizoN8XUYfGQ4_gBfbMiBI3BuIO_a2ug6MxLGgsKpVXkvn02YXAbdPVEms_Udnmsh63AHknom3npAhyGoYxGVRKehK6XLot2thHXsRrF-Lr9odhJ-J-Xr",
+              "width" : 1920
+          }
+        ],
+        "place_id" : "ChIJb-KrOoVr9YgRqmkV-Efhx6g",
+        "plus_code" : {
+          "compound_code" : "3FP9+46 Woodstock, GA, USA",
+          "global_code" : "866Q3FP9+46"
+        },
+        "price_level" : 1,
+        "rating" : 4.4,
+        "reference" : "ChIJb-KrOoVr9YgRqmkV-Efhx6g",
+        "scope" : "GOOGLE",
+        "types" : [
+          "bakery",
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total" : 1183,
+        "vicinity" : "9420 Highway 92, Woodstock"
+      },
+      {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+          "location" : {
+              "lat" : 34.035988,
+              "lng" : -84.572107
+          },
+          "viewport" : {
+              "northeast" : {
+                "lat" : 34.0374025302915,
+                "lng" : -84.5708027197085
+              },
+              "southwest" : {
+                "lat" : 34.03470456970851,
+                "lng" : -84.5735006802915
+              }
+          }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color" : "#FF9E67",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "name" : "Dunkin'",
+        "opening_hours" : {
+          "open_now" : true
+        },
+        "photos" : [
+          {
+              "height" : 2620,
+              "html_attributions" : [
+                "\u003ca href=\"https://maps.google.com/maps/contrib/113248164546665719520\"\u003eEd Bonza\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECgOXd_OjUHN_abUCALyK7Hi-n2EG8yOeoboYE0HJIq8ZW5UiVvF5Zk4w1E9iNSmlnM1HcXNTor1bXs6ub-3wXnOjvbzjuW-odcOmXMaGCH2-tnk-KdipOgxhA0wet8yaZTsEZ35Ju5gQerccra8wnp-v-DUBZ7u-xA21vYOJIWeWUs",
+              "width" : 4656
+          }
+        ],
+        "place_id" : "ChIJH4Vh_NJq9YgRIeYqEfFvHyE",
+        "plus_code" : {
+          "compound_code" : "2CPH+95 Kennesaw, GA, USA",
+          "global_code" : "866Q2CPH+95"
+        },
+        "price_level" : 1,
+        "rating" : 3.9,
+        "reference" : "ChIJH4Vh_NJq9YgRIeYqEfFvHyE",
+        "scope" : "GOOGLE",
+        "types" : [
+          "bakery",
+          "meal_takeaway",
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total" : 463,
+        "vicinity" : "741 Townpark Lane NW, Kennesaw"
+      }
+],
+"status" : "OK"
+}

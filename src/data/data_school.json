@@ -1,0 +1,382 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEA6pKHlXPzEMPPsWtGEXWPXaI9V_t6Nadt1y1tAw55TvcElNY1fY5jqB64mQkkwVkqqxmeMcGvLCfZxcNWphIrbFgWT0R_NUo1uCH62kzi-UQBDIzoPeQxAG36bwaj9vNeOQf1DPnVAmyxkmN7LcJuTPwmYfDigLKrktpkv_ymCEm7iK8meJ9BXoQ_U-LJionkQRzgIRN9Pc8dTmcZmZkWZxtmr0LJL1nkqIEQtxh5bpZiCvNX-w-1hUDpLFt8Mu328HbIuM7zS3bSF91ySg9YJwLuZlQ5-ZhZeLhu6mOEFxPpWnvbF253eejGUz3KAyLwN1R3rZQs6kBF0L2y4LUf9V5pzAXgf_5enpIztjfUYhg_m0x9YjLISe22aEkENijjaNwMx_zN-Czuccc19SFmCctCbuJdcbxqQ7puzl5_clcfQXUNuDw",
+  "results" : [
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0401304,
+        "lng" : -84.64859829999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.04118809999999,
+           "lng" : -84.64518145000004
+        },
+        "southwest" : {
+           "lat" : 34.03789489999999,
+           "lng" : -84.65002884999998
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "North Cobb High School",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 2340,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/102123878554807918820\"\u003eValeria Pugliesi Washington\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEAwx2hqgwmAyqRmpDkBIeh0fkWQf0MLTSXT_sLR3uXac_sTApA10lZfIFvlHFZt2wFbvCTft6xuxp6dVll_V3dOn3W6mo69Bk--i4BhD59BoXnKYvXHMM7dseEjhQQrkzu4LO6dGH-3l8dZULwQ1L-nGiAw2TvNFfsRyliO7_GPuyJY",
+        "width" : 4160
+     }
+  ],
+  "place_id" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+  "plus_code" : {
+     "compound_code" : "29R2+3H Kennesaw, GA, USA",
+     "global_code" : "866Q29R2+3H"
+  },
+  "rating" : 3.7,
+  "reference" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+  "scope" : "GOOGLE",
+  "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 47,
+  "vicinity" : "3400 Old 41 Highway Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0445382,
+        "lng" : -84.6599724
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0459341802915,
+           "lng" : -84.65869376970848
+        },
+        "southwest" : {
+           "lat" : 34.0432362197085,
+           "lng" : -84.66139173029148
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "North Cobb Christian School",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 1920,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/103950444433559688705\"\u003eNorth Cobb Christian School\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEDE-90lEc6QAKOcsCzO3asKcQfXR8kR0sW-yIWCYlfaYo_UEXpyT1bocfXr3DZRclDEULAAiTo6BGltr-acHRCW-TFPFkEjeUmkZ-gZckl57hsUHFw4w40PBtKT79DRysDucGrZbrdhk-TSep1asKcbcAArBe8fIRYa1AHr89VnCyy7",
+        "width" : 2880
+     }
+  ],
+  "place_id" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+  "plus_code" : {
+     "compound_code" : "28VR+R2 Kennesaw, GA, USA",
+     "global_code" : "866Q28VR+R2"
+  },
+  "rating" : 4.6,
+  "reference" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+  "scope" : "GOOGLE",
+  "types" : [
+     "primary_school",
+     "secondary_school",
+     "school",
+     "point_of_interest",
+     "establishment"
+  ],
+  "user_ratings_total" : 18,
+  "vicinity" : "4500 Eagle Drive, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0519394,
+        "lng" : -84.56878420000001
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0530510302915,
+           "lng" : -84.5676025197085
+        },
+        "southwest" : {
+           "lat" : 34.0503530697085,
+           "lng" : -84.57030048029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Palmer Middle School",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 3264,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/104612879310665758920\"\u003eJaden James\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBKmsDmW3WTLc538VoozNnjMIq9r9linuYzQYrlBwwIsrsRfIY0i5Iiy7vyywu4Ct89TsFZ5s8-XMvwaqmxowamkfc1t7hPZU0BYWtH5wTOLCDUrj7CHgwxNho-877O3PhQbJVbOVbjac5rGiLnRLOSg_dMx-AcS_ipBS72SgIupITJ",
+        "width" : 2448
+     }
+  ],
+  "place_id" : "ChIJsd_w_9tq9YgREI0TT2j9U18",
+  "plus_code" : {
+     "compound_code" : "3C2J+QF Kennesaw, GA, USA",
+     "global_code" : "866Q3C2J+QF"
+  },
+  "rating" : 2.9,
+  "reference" : "ChIJsd_w_9tq9YgREI0TT2j9U18",
+  "scope" : "GOOGLE",
+  "types" : [ "school", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 40,
+  "vicinity" : "690 North Booth Road Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0580424,
+        "lng" : -84.6234245
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0595226302915,
+           "lng" : -84.6219488697085
+        },
+        "southwest" : {
+           "lat" : 34.0568246697085,
+           "lng" : -84.62464683029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Baker Elementary School",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 3024,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/118270094445133999660\"\u003eChristopher Jarmal\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECpbPVV-wsUHOOXBNjCPEahr9iIe8ZGSY0wqfxTP5C9ngZtCdazHebJ8rVTziR8OsQotgh-udah3QJoz4yo_Y81loMc2Ff_HmlpuLMwpBNaS3xJfcMwccgemlPm2q0Za_x-PKczR65JnNUca5Mk7OIYe86cXAo6DrgcC4XGcBClJQl7",
+        "width" : 4032
+     }
+  ],
+  "place_id" : "ChIJhZjTPxZA9YgRdajc7J6VoAI",
+  "plus_code" : {
+     "compound_code" : "395G+6J Acworth, GA, USA",
+     "global_code" : "866Q395G+6J"
+  },
+  "rating" : 4,
+  "reference" : "ChIJhZjTPxZA9YgRdajc7J6VoAI",
+  "scope" : "GOOGLE",
+  "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 15,
+  "vicinity" : "2361 Baker Road, Acworth"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0884946,
+        "lng" : -84.5988739
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0898245302915,
+           "lng" : -84.5974178197085
+        },
+        "southwest" : {
+           "lat" : 34.0871265697085,
+           "lng" : -84.60011578029152
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Furtah Preparatory School",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "place_id" : "ChIJVacrXnpq9YgRrBcFduAGXps",
+  "plus_code" : {
+     "compound_code" : "3CQ2+9F Acworth, GA, USA",
+     "global_code" : "866Q3CQ2+9F"
+  },
+  "rating" : 4.5,
+  "reference" : "ChIJVacrXnpq9YgRrBcFduAGXps",
+  "scope" : "GOOGLE",
+  "types" : [ "school", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 2,
+  "vicinity" : "5496 Highway 92, Acworth"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0278606,
+        "lng" : -84.60033519999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0291589802915,
+           "lng" : -84.59872731970849
+        },
+        "southwest" : {
+           "lat" : 34.0264610197085,
+           "lng" : -84.60142528029149
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "St Catherine of Siena Catholic School",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 2337,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/116535677721853563986\"\u003eSt Catherine of Siena Catholic School\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEDS1_vvMHDHnz3xMD9vgIo_SrACACA7uCuBNPSL3L6ghRY3nDqiaMd8eYRgFr93EjvC5Q8r0xfUKXl20G29FKC29g0oKN_pbQsIr37Dvb9YOiArdo_FAQYblS9s0hG4WX7MrSDjipZAF230v5J7IPj9nZvdCxB6h4plUE8aFc6WJMYI",
+        "width" : 2588
+     }
+  ],
+  "place_id" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+  "plus_code" : {
+     "compound_code" : "29HX+4V Kennesaw, GA, USA",
+     "global_code" : "866Q29HX+4V"
+  },
+  "rating" : 4.4,
+  "reference" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+  "scope" : "GOOGLE",
+  "types" : [
+     "primary_school",
+     "secondary_school",
+     "school",
+     "point_of_interest",
+     "establishment"
+  ],
+  "user_ratings_total" : 12,
+  "vicinity" : "1618 Ben King Road, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0843585,
+        "lng" : -84.67043830000001
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0853135302915,
+           "lng" : -84.66864685
+        },
+        "southwest" : {
+           "lat" : 34.0826155697085,
+           "lng" : -84.67215064999999
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Chattahoochee Technical College",
+  "photos" : [
+     {
+        "height" : 2268,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/105182994868321420879\"\u003eAshleigh D.\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECy8aU-fVgquYEnSNnxzvu1Z6-MxxKKR2v78QiJ5fR1eUdnMiTnQS_HipZYI2vo93fDmb6RYVmhkeY8nIqoOFR7BK7dmXBoWTGkS4pL57OfX6HvLSo0BMTDS47UcSZqkkCDznheh9HqfAU7LgyshBTW-i9dmHPY7UgWrOn6cqL0tFX9",
+        "width" : 4032
+     }
+  ],
+  "place_id" : "ChIJSytyRiBB9YgRWTkBdQhvaZ8",
+  "plus_code" : {
+     "compound_code" : "38MH+PR Acworth, GA, USA",
+     "global_code" : "866Q38MH+PR"
+  },
+  "rating" : 4,
+  "reference" : "ChIJSytyRiBB9YgRWTkBdQhvaZ8",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 58,
+  "vicinity" : "5198 Ross Road, Acworth"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.03817850000001,
+        "lng" : -84.58267119999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.05169119999999,
+           "lng" : -84.57484674999999
+        },
+        "southwest" : {
+           "lat" : 34.01873440000001,
+           "lng" : -84.58980575000004
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Kennesaw State University",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 2240,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/109943815776411610665\"\u003eKennesaw State University\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECXxrFBTKPyW257EpBLKh1FrR2ImmvfGZ1bnvOkpOLXsPrUMaUj8yPEzogn1FFAYd1o8iF1DCN2o11JIzAER4Z5NsR89VuruPt_t33MGJOH2txRJoyGGE4JeQ251nvEERNZImo3LZq_08nZzEzcZfY35GlD0CHFJlNpz25AeZqgZvBW",
+        "width" : 3360
+     }
+  ],
+  "place_id" : "ChIJU-VAr9Jq9YgR0MgJ0smjln8",
+  "plus_code" : {
+     "compound_code" : "2CQ8+7W Kennesaw, GA, USA",
+     "global_code" : "866Q2CQ8+7W"
+  },
+  "rating" : 3.5,
+  "reference" : "ChIJU-VAr9Jq9YgR0MgJ0smjln8",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 293,
+  "vicinity" : "1000 Chastain Road Northwest, Kennesaw"
+}
+],
+"status" : "OK"
+}

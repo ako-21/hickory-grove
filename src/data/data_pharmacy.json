@@ -1,0 +1,229 @@
+{
+  "title": "Pharmacy",
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uECzXM_yhOGi1deUA0YuIMy0ZJ_XJxOh5nmfja2AHzri4ysjYiXLT_Sdb_l2q2E03XB9urKppVjiznPlCV7AiPVJ2fHJGlicJqddK46Oeks6dIatnlXcyvnf7absj27csn5nKJdc7AKu9lNA0l9Qa2qzurI4ormnSib5CFWJpOLynDpBYNYV_qX3u6uQ3nKOpakBnBSAN4LXZxlpeNaTKPS6DewRkiOmZwN6-C5tm2bgaaeXjjakNO30f7VxD8bx8dtUKHgLY8Y16PCTygYbvHiPg21TmebJlMEghx6eMvXxoEgafS7ZCEqjZw6-qFZoTj7ZiVuvTQSv25fiID5HC-uDfPIaW63DVOeOU06y9SaiAroBjAgQK5sC0UkeHwM-_REKWa3l9Mz7a53j5qFRVfHnZbVYNYrIqwxuHhxWg_NoibTcs0isBZeB1A",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0509583,
+              "lng" : -84.5963096
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.05221478029149,
+                 "lng" : -84.5948086697085
+              },
+              "southwest" : {
+                 "lat" : 34.04951681970849,
+                 "lng" : -84.59750663029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Walgreens",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2358,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108113360185970393806\"\u003eDaring 53\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECe_CejDpy6XW6m2ZEkWgCSMsQEKNjys1fh6rBftgKlnwkOihPa_XAX9KFaJDyY2fcCz1LH3fr_GqjwMwxkzdeELMsB8Ixho0MfLRH-_SnjjB4ekl7GDhy2vecIRivvsPD6gQJHZxRMNspTtpp-JwkPTBJvb2REJwcGjqLc7qXn3N36",
+              "width" : 4191
+           }
+        ],
+        "place_id" : "ChIJO0vSqKRq9YgREf6C-KX3RKk",
+        "plus_code" : {
+           "compound_code" : "3C23+9F Kennesaw, GA, USA",
+           "global_code" : "866Q3C23+9F"
+        },
+        "price_level" : 2,
+        "rating" : 3.5,
+        "reference" : "ChIJO0vSqKRq9YgREf6C-KX3RKk",
+        "scope" : "GOOGLE",
+        "types" : [
+           "drugstore",
+           "convenience_store",
+           "food",
+           "health",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 41,
+        "vicinity" : "4075 Cherokee Street Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1128055,
+              "lng" : -84.58460869999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1143348302915,
+                 "lng" : -84.5828641197085
+              },
+              "southwest" : {
+                 "lat" : 34.1116368697085,
+                 "lng" : -84.58556208029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+        "icon_background_color" : "#F88181",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+        "name" : "Walmart Pharmacy",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 608,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106316943644996061179\"\u003eWalmart Pharmacy\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB-0Qgd6yQR0r82EMfebRDqNnz_bwRSlWxHG9wCYf_TzfE9Tu-jdOvl1jM1k0Xs-gzlvq7tHThuf1CPfTIRC5MAqZX4FVDe7jJyNxgh14NK2gBJ3w6w3_VjZhfCMt1abxrfAvMOJkNx4z-IYAJwS90qeBv5yi5uFXaTxvus0QRWQrj1",
+              "width" : 1080
+           }
+        ],
+        "place_id" : "ChIJrRQluyJq9YgRhOttdwHBnAQ",
+        "plus_code" : {
+           "compound_code" : "4C78+45 Woodstock, GA, USA",
+           "global_code" : "866Q4C78+45"
+        },
+        "price_level" : 1,
+        "rating" : 2.9,
+        "reference" : "ChIJrRQluyJq9YgRhOttdwHBnAQ",
+        "scope" : "GOOGLE",
+        "types" : [
+           "pharmacy",
+           "drugstore",
+           "health",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 17,
+        "vicinity" : "6435 Bells Ferry Road, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.09268329999999,
+              "lng" : -84.6141427
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.09414398029149,
+                 "lng" : -84.6127459697085
+              },
+              "southwest" : {
+                 "lat" : 34.09144601970849,
+                 "lng" : -84.61544393029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "CVS",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108113360185970393806\"\u003eDaring 53\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB0nRaUOv9j9bOwoXec1lgufZw-zFKwtYvibGhzAnjQqDSJjz5wO6kF2CZ0MzxWRx0Jo5JpBqiuqaxvlXhPq0SsJc8pEpWwPGGXUxZK2QezL4zdtC6SawH3HVQrnpg4JbED6-qpNnWebDYAV-sG7EkmMliDc16MDwPguU2n9CfKHGEn",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJXZEQNGZq9YgRt1ESDJyVNcg",
+        "plus_code" : {
+           "compound_code" : "39VP+38 Acworth, GA, USA",
+           "global_code" : "866Q39VP+38"
+        },
+        "rating" : 3.3,
+        "reference" : "ChIJXZEQNGZq9YgRt1ESDJyVNcg",
+        "scope" : "GOOGLE",
+        "types" : [
+           "drugstore",
+           "convenience_store",
+           "food",
+           "health",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 45,
+        "vicinity" : "4595 Highway 92, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0651351,
+              "lng" : -84.67677719999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.06656633029149,
+                 "lng" : -84.6754808197085
+              },
+              "southwest" : {
+                 "lat" : 34.0638683697085,
+                 "lng" : -84.6781787802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+        "icon_background_color" : "#F88181",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+        "name" : "Lacey Drug Company",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4096,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109575102389353305029\"\u003eCharles Durham\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC8DzqBTNrN0tA7JdNtI-Q3cZTTxEwFhPwgVTtpQj0pD-SUINi3D4lLeQn_oIou_5XSF4cpY-pdRvp_JJ9Q2LUZ7y_w69gZjvptAutocN635AOufkiORKcypWgpeYOq445qWsiY33tittCaJOvC9DICo1SYeCqjpvCfDUZ4M8AuTySJ",
+              "width" : 2304
+           }
+        ],
+        "place_id" : "ChIJE4w1h8ZA9YgRHraIUIyKiyk",
+        "plus_code" : {
+           "compound_code" : "388F+37 Acworth, GA, USA",
+           "global_code" : "866Q388F+37"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJE4w1h8ZA9YgRHraIUIyKiyk",
+        "scope" : "GOOGLE",
+        "types" : [
+           "pharmacy",
+           "drugstore",
+           "health",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 68,
+        "vicinity" : "4797 South Main Street, Acworth"
+     }
+  ],
+  "status" : "OK"
+}

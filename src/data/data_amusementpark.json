@@ -1,0 +1,157 @@
+{
+  "html_attributions" : [],
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0552635,
+              "lng" : -84.5486863
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0565129302915,
+                 "lng" : -84.54729581970849
+              },
+              "southwest" : {
+                 "lat" : 34.0538149697085,
+                 "lng" : -84.5499937802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "SLI Shotcrete",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 384,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/105595795639608993927\"\u003eSLI Shotcrete\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDuW8AhPpyZpjFjwz4fOakOoP7FAsEYnSUGY_cr4gMTO8xrz_-r_flal4sdgIdC4pshUwstxaMG-O3MW4qBD-pW-bKIfgX6jXH4-McLrpxoW8xdDHWH6WEVnvEwrI-FBKhc79WKg9ecRsofow_Smuof3bPyJQtCVO_FOYVAJJh18CR0",
+              "width" : 512
+           }
+        ],
+        "place_id" : "ChIJIaeTBhZr9YgRRXwJepcX_WA",
+        "plus_code" : {
+           "compound_code" : "3F42+4G Kennesaw, GA, USA",
+           "global_code" : "866Q3F42+4G"
+        },
+        "rating" : 5,
+        "reference" : "ChIJIaeTBhZr9YgRRXwJepcX_WA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "amusement_park",
+           "general_contractor",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 2,
+        "vicinity" : "4227 Galilee Drive Northeast, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0563072,
+              "lng" : -84.59087060000002
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0576681302915,
+                 "lng" : -84.5895789197085
+              },
+              "southwest" : {
+                 "lat" : 34.0549701697085,
+                 "lng" : -84.59227688029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Jumping World",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1667,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117698215452542944406\"\u003eJumping World\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECFioQ8Viqh0NgFYQ4kqlrDuUg_HP6ZVL7ayZMSaBerSCki2Z2PXvsJ3LWGJ_pnBUhfLhDZ8C3VEESC6HPwBvcyniVyX4V4Yfimytg7s1vtDGFVjYkeFrpMU_ljQShnc4rJ9plCHOmVNTsluxgllqMniAADMFV8wXdyzpAfO8Nh_o5K",
+              "width" : 2500
+           }
+        ],
+        "place_id" : "ChIJaxfTC5Zq9YgRn-2QJ1XuIrc",
+        "plus_code" : {
+           "compound_code" : "3C45+GM Kennesaw, GA, USA",
+           "global_code" : "866Q3C45+GM"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJaxfTC5Zq9YgRn-2QJ1XuIrc",
+        "scope" : "GOOGLE",
+        "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 762,
+        "vicinity" : "4200 Wade Green Road Northwest #224, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.012432,
+              "lng" : -84.55712009999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01474815000001,
+                 "lng" : -84.55573101970849
+              },
+              "southwest" : {
+                 "lat" : 34.01165994999999,
+                 "lng" : -84.55842898029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Mountasia",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104002241408387998966\"\u003eMountasia\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEByaFc2rU1RXSRQzod9ua2uM8PID1aKZTn3gmQCq3Gg9nGb0gJgMZGm0214q1PCPAKQ7xHyDVY-vpL51dzIn_rwfUzRI8NeUVB8dRuV0HxNkKkaYz2mwH5IeCNby3sJfUAbRZsiSXk3Q0RPHpY7S3fTyes9prYRoot6NTjlRX7U_0rI",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ_6jb-NwU9YgR-eF4RQbPpWs",
+        "plus_code" : {
+           "compound_code" : "2C6V+X5 Marietta, GA, USA",
+           "global_code" : "866Q2C6V+X5"
+        },
+        "rating" : 4,
+        "reference" : "ChIJ_6jb-NwU9YgR-eF4RQbPpWs",
+        "scope" : "GOOGLE",
+        "types" : [
+           "tourist_attraction",
+           "amusement_park",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 763,
+        "vicinity" : "175 Ernest W Barrett Parkway Northwest, Marietta"
+     }
+  ],
+  "status" : "OK"
+}

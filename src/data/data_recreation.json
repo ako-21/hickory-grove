@@ -1,0 +1,662 @@
+{
+  "html_attributions" : [],
+  "results" : [
+     {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.1225782,
+            "lng" : -84.6210428
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.1242022802915,
+               "lng" : -84.62005651970848
+            },
+            "southwest" : {
+               "lat" : 34.1215043197085,
+               "lng" : -84.62275448029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+      "icon_background_color" : "#4DB546",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+      "name" : "Payne Campground",
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109828928938121817733\"\u003eZach Oswald\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECLgglAM-wtoMdJg3Q9Lf36hWrho4xlVnaqlLEH0nSZU5AQ9HaYMpSfZFzA7rGVVswIgB1omGytn6g6yD89ZcrieN_6S3OhFqBr_CPa8226WOZgaAYKlRd6zlfUeuiPveItE8kMQKCnaycE2EH4qo_SlafLWDTwc10N9CZKeckgg8d0",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJuX1PZPZB9YgRADbPzn8uk48",
+      "plus_code" : {
+         "compound_code" : "49FH+2H Acworth, GA, USA",
+         "global_code" : "866Q49FH+2H"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJuX1PZPZB9YgRADbPzn8uk48",
+      "scope" : "GOOGLE",
+      "types" : [ "campground", "lodging", "park", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 265,
+      "vicinity" : "2495 Kellogg Creek Road, Acworth"
+   },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0410308,
+          "lng" : -84.58342740000001
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0425692802915,
+             "lng" : -84.5817028197085
+          },
+          "southwest" : {
+             "lat" : 34.0398713197085,
+             "lng" : -84.5844007802915
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color" : "#13B5C7",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name" : "Zuckerman Museum of Art",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 1277,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/103565524380562123003\"\u003eZuckerman Museum of Art\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEBQhjaIadnqVzAowFhvYpjLG9NyKphYZoRbM69CsqJRo5OLUpL39ictN8oMC56fhm8hAu4HNfohMpBLRIV5TvU7nAYggb5Dpv9g82I0t__nwJeFPkg5rLYSuC1FVJvKquY1oEA6LpK4TpF1G25DCXM6o9VcStq2wlIg3Z_JIYOch70K",
+          "width" : 1920
+       }
+    ],
+    "place_id" : "ChIJf7P3vclq9YgRcr-pDv-ne3w",
+    "plus_code" : {
+       "compound_code" : "2CR8+CJ Kennesaw, GA, USA",
+       "global_code" : "866Q2CR8+CJ"
+    },
+    "rating" : 4.5,
+    "reference" : "ChIJf7P3vclq9YgRcr-pDv-ne3w",
+    "scope" : "GOOGLE",
+    "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 56,
+    "vicinity" : "492 Prillaman Way, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0310561,
+          "lng" : -84.5738877
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.03264093029149,
+             "lng" : -84.57229536970848
+          },
+          "southwest" : {
+             "lat" : 34.0299429697085,
+             "lng" : -84.57499333029151
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color" : "#13B5C7",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name" : "KSU's Civil War Center",
+    "place_id" : "ChIJ5wWSEy0V9YgROqYZAOIKufc",
+    "plus_code" : {
+       "compound_code" : "2CJG+CC Kennesaw, GA, USA",
+       "global_code" : "866Q2CJG+CC"
+    },
+    "rating" : 3.6,
+    "reference" : "ChIJ5wWSEy0V9YgROqYZAOIKufc",
+    "scope" : "GOOGLE",
+    "types" : [ "museum", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 7,
+    "vicinity" : "3333 Busbee Drive Northwest, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0310818,
+          "lng" : -84.5741785
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0326721302915,
+             "lng" : -84.57252281970848
+          },
+          "southwest" : {
+             "lat" : 34.0299741697085,
+             "lng" : -84.5752207802915
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color" : "#13B5C7",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name" : "Museum of History and Holocaust Education",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 3264,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/117016030057434949930\"\u003eM Austin\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEAQKjgMuqQo23z3VIZ1lkTZaiC3t_tS4v1leodKYDKBjYduVrhHMjrDHslaWF_MC-ha2q9wiAzIhxRBUgmvuFAr8m6lm8tOqvUs3UJZj_62ZcIz0SkNEx1syrx6rUn2iWgTwuhRpA-hybfbjl9rS-mSruyX22o1dHq_mc3w4j35DV_-",
+          "width" : 2448
+       }
+    ],
+    "place_id" : "ChIJewSSEy0V9YgRV-LqtCLjfS8",
+    "plus_code" : {
+       "compound_code" : "2CJG+C8 Kennesaw, GA, USA",
+       "global_code" : "866Q2CJG+C8"
+    },
+    "rating" : 4.5,
+    "reference" : "ChIJewSSEy0V9YgRV-LqtCLjfS8",
+    "scope" : "GOOGLE",
+    "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 111,
+    "vicinity" : "3333 Busbee Drive Northwest, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0219001,
+          "lng" : -84.61693799999999
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.02325718029149,
+             "lng" : -84.61540876970849
+          },
+          "southwest" : {
+             "lat" : 34.0205592197085,
+             "lng" : -84.6181067302915
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color" : "#13B5C7",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name" : "Big Shanty Spring",
+    "place_id" : "ChIJw4cYCMk_9YgR9Z7teoY5za4",
+    "plus_code" : {
+       "compound_code" : "29CM+Q6 Kennesaw, GA, USA",
+       "global_code" : "866Q29CM+Q6"
+    },
+    "reference" : "ChIJw4cYCMk_9YgR9Z7teoY5za4",
+    "scope" : "GOOGLE",
+    "types" : [ "museum", "point_of_interest", "establishment" ],
+    "vicinity" : "Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.02152299999999,
+          "lng" : -84.61744709999999
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0230173802915,
+             "lng" : -84.61633976970849
+          },
+          "southwest" : {
+             "lat" : 34.0203194197085,
+             "lng" : -84.6190377302915
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color" : "#13B5C7",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name" : "Camp McDonald Park",
+    "place_id" : "ChIJq_sDolk_9YgRP8h243VecXM",
+    "plus_code" : {
+       "compound_code" : "29CM+J2 Kennesaw, GA, USA",
+       "global_code" : "866Q29CM+J2"
+    },
+    "reference" : "ChIJq_sDolk_9YgRP8h243VecXM",
+    "scope" : "GOOGLE",
+    "types" : [ "museum", "point_of_interest", "establishment" ],
+    "vicinity" : "Kennesaw"
+ },
+ {
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0328023,
+        "lng" : -84.63156149999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0341518302915,
+           "lng" : -84.62993231970847
+        },
+        "southwest" : {
+           "lat" : 34.0314538697085,
+           "lng" : -84.63263028029149
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Swift Cantrell Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 3024,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/108324345650886790049\"\u003eChelsea Johnston\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBDOM5yYF8ctTyxQOgp9annVukFfdfxqHKSKQYSAVRmqgZzuYGnRqj3xmnUnF1M3SPIi5CeXIiMpQtLMCjUUce7dO9Ul62DgX9DqExQX-CvdzMD-S30mm8ZNCRlIai5_rS3Mokk60OejSZVHpzmA1AwkVBX0vFaYdZJXXCVgWhGcvZK",
+        "width" : 4032
+     }
+  ],
+  "place_id" : "ChIJ52Pu34s_9YgRJm9-VKc5AEk",
+  "plus_code" : {
+     "compound_code" : "29M9+49 Kennesaw, GA, USA",
+     "global_code" : "866Q29M9+49"
+  },
+  "rating" : 4.8,
+  "reference" : "ChIJ52Pu34s_9YgRJm9-VKc5AEk",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 3144,
+  "vicinity" : "3140 Old 41 Highway Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0240141,
+        "lng" : -84.62109450000001
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0254312302915,
+           "lng" : -84.61969386970851
+        },
+        "southwest" : {
+           "lat" : 34.0227332697085,
+           "lng" : -84.62239183029153
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Adams Park",
+  "photos" : [
+     {
+        "height" : 3024,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/104815821514589755182\"\u003eDaniel Kovač\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECzwq6dIzOum0TezF_38rEymiYJLwnJC1XFTHduCKdLg7SIoYH6WlA77ZDyxpFP9vGLi5y41AF0v9s0kQKJTh759hq7GB1i40dgiKNTffz8aPvOF4uaHzu3YwpNJHdMCKLkgrSjq6heMtF2RF2d9czuikl7QRPqsA5zcUUsi2M3Z2kD",
+        "width" : 4032
+     }
+  ],
+  "place_id" : "ChIJy6wpFO4_9YgRLx3y9-zxPtg",
+  "plus_code" : {
+     "compound_code" : "29FH+JH Kennesaw, GA, USA",
+     "global_code" : "866Q29FH+JH"
+  },
+  "rating" : 4.4,
+  "reference" : "ChIJy6wpFO4_9YgRLx3y9-zxPtg",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 388,
+  "vicinity" : "2600 Park Drive, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0584961,
+        "lng" : -84.5348896
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0596192302915,
+           "lng" : -84.5336574197085
+        },
+        "southwest" : {
+           "lat" : 34.0569212697085,
+           "lng" : -84.53635538029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Noonday Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 3006,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/115735865302415175339\"\u003eWes Beyrent\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEA38mT0rfFV79LwX9AMC1_M8FMniPYJdxXd6nAzT0oXYwVjC80tY7IaNrSzzbulkr3iSvZxLiAiyL5J84lsd5DP91mNN-fnxEkojOXH5D7I8-QQ813P8QK6S2mLAFMYKd5Mp9Dqhk9sSgADw6yPkUBXIYMxychXJX7D8iHgb_eXY4BM",
+        "width" : 5344
+     }
+  ],
+  "place_id" : "ChIJeTMHCm9r9YgRKTtb1m0MBPk",
+  "plus_code" : {
+     "compound_code" : "3F58+92 Kennesaw, GA, USA",
+     "global_code" : "866Q3F58+92"
+  },
+  "rating" : 4.4,
+  "reference" : "ChIJeTMHCm9r9YgRKTtb1m0MBPk",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 471,
+  "vicinity" : "489 Hawkins Store Road Northeast, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.1305065,
+        "lng" : -84.5837155
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.13126898029149,
+           "lng" : -84.58266986970851
+        },
+        "southwest" : {
+           "lat" : 34.1285710197085,
+           "lng" : -84.58536783029152
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Hobgood Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 1125,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/117974418385619820926\"\u003eEdward Lane\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBbWwR8SLSQAVxkpzs32zfbCvv3JC3FH6MtdCtpuX-zavTOpq74fu22t7yhYwC9y2K7j7ZSgx75Vy6DF_8pPOxDN8pS9RdczNpSxSGSQEtVkkZbuc8RLzT5f4UV7jJr-XRkEcdeFBMecnUz6j-VcboKBD44pNcvS8OJ7lzMdpaNGvwS",
+        "width" : 1500
+     }
+  ],
+  "place_id" : "ChIJRUeZRoxp9YgRfRM9nebt-sI",
+  "plus_code" : {
+     "compound_code" : "4CJ8+6G Woodstock, GA, USA",
+     "global_code" : "866Q4CJ8+6G"
+  },
+  "rating" : 4.5,
+  "reference" : "ChIJRUeZRoxp9YgRfRM9nebt-sI",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 787,
+  "vicinity" : "6688 Bells Ferry Road, Woodstock"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0033121,
+        "lng" : -84.61882440000001
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.00502773029149,
+           "lng" : -84.61728765000002
+        },
+        "southwest" : {
+           "lat" : 34.00232976970849,
+           "lng" : -84.62343464999998
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Big Shanty Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 4032,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/106194268688009458858\"\u003eRobin Ward\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEAEbicuUXUa6Fqz78rfZJvIkrnv24Ct00PDnPY8Xc5NbMQJZZ7IP2SOickYeW9-zP1PlRqXYUQm0RGi6yaYgYuEBFw_lHZ5Z4j7Iv0dcgmj8gzPbl8PUS1eh8F_TrRVgoFGlRMnGtRJJK2OAu4YNt0kjWrzS5s-UhNL1nFIv6cVRziq",
+        "width" : 3024
+     }
+  ],
+  "place_id" : "ChIJSa9kE8M_9YgRaunELgbJ47Q",
+  "plus_code" : {
+     "compound_code" : "293J+8F Kennesaw, GA, USA",
+     "global_code" : "866Q293J+8F"
+  },
+  "rating" : 4.4,
+  "reference" : "ChIJSa9kE8M_9YgRaunELgbJ47Q",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 222,
+  "vicinity" : "2050 Kennesaw Due West Road Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0613889,
+        "lng" : -84.68361109999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0628560802915,
+           "lng" : -84.68203331970849
+        },
+        "southwest" : {
+           "lat" : 34.0601581197085,
+           "lng" : -84.6847312802915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Cauble Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 3120,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/108096278757201451561\"\u003eTony C.\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECGtQIJt1ev5zSy0LjAI9b6-OV2pvIkpInL7ZLtkrwbWGdEv695tkBPwdOBnZUnNmRH2ivf-15r_BY9toCWpsZWvFDd6R0B3vE50lwblxq_auVH5ew7qTrv5TaHH14-9mLUEnriKA4ITIJVvYvSMldamEUyODGDC2kJJlStZcalLpHk",
+        "width" : 4160
+     }
+  ],
+  "place_id" : "ChIJZS4RJrZA9YgR_mzSEezBVRo",
+  "plus_code" : {
+     "compound_code" : "3868+HH Acworth, GA, USA",
+     "global_code" : "866Q3868+HH"
+  },
+  "rating" : 4.6,
+  "reference" : "ChIJZS4RJrZA9YgR_mzSEezBVRo",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 2093,
+  "vicinity" : "4425 Beach Street, Acworth"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0667363,
+        "lng" : -84.6797016
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.06817973029149,
+           "lng" : -84.67833351970849
+        },
+        "southwest" : {
+           "lat" : 34.06548176970849,
+           "lng" : -84.68103148029149
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Frana Brown Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 1440,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/111255564087182859875\"\u003eKenneth Barra\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEAKdPudkFRkrld01bLWezqh8vLL9B9BcZZLU8pTEJI5ux13dx9Rgevm3M9LO3KSEijcZNqyTP54ieDkaBjFwzL_4IhuxffDBplgS0C3s2--4tz9zIwt1XnEDvVFfsfC9RJCKzzQA3JQNDskk4Htk4yVPZWXSm1irkes0rb42jKYzjwF",
+        "width" : 2560
+     }
+  ],
+  "place_id" : "ChIJ9QjCUM9A9YgRHamMgP5yf2I",
+  "plus_code" : {
+     "compound_code" : "388C+M4 Acworth, GA, USA",
+     "global_code" : "866Q388C+M4"
+  },
+  "rating" : 4.2,
+  "reference" : "ChIJ9QjCUM9A9YgRHamMgP5yf2I",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 22,
+  "vicinity" : "4901 North Main Street, Acworth"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.09737270000001,
+        "lng" : -84.5297551
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0987411302915,
+           "lng" : -84.52840321970849
+        },
+        "southwest" : {
+           "lat" : 34.0960431697085,
+           "lng" : -84.53110118029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Woofstock Dog Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 3024,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/112232607577879378738\"\u003eJohn Dyal\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBwp7zy3qi4zIWR7pKyTU7Lh3m1m9GBbRWQnKG_lp4Mqm2itNeJiueKORNkWbvWdyylYY_E31z4P1WgVmUpNA4AYsw5k8ew87nSLn9W_N1_k0s1hsANwrkeDsufi4lSVb6DSQcQDoCvmIWl6ftMfwmvCHkxu9RIu_Doqz-EwfASi-xK",
+        "width" : 4032
+     }
+  ],
+  "place_id" : "ChIJFW1K3Ixr9YgRURhWWYc69F8",
+  "plus_code" : {
+     "compound_code" : "3FWC+W3 Woodstock, GA, USA",
+     "global_code" : "866Q3FWC+W3"
+  },
+  "rating" : 4.6,
+  "reference" : "ChIJFW1K3Ixr9YgRURhWWYc69F8",
+  "scope" : "GOOGLE",
+  "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 734,
+  "vicinity" : "150 Dupree Road, Woodstock"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0505556,
+        "lng" : -84.6616667
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0518116302915,
+           "lng" : -84.66097491970849
+        },
+        "southwest" : {
+           "lat" : 34.0491136697085,
+           "lng" : -84.6636728802915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+  "icon_background_color" : "#4DB546",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+  "name" : "Cobb County Kennworth Park",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 1080,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/111151066320616179374\"\u003eLindsey Cassell\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEAB6ct-SAmGsG19H8zC6rbv4b1MN27sTPxbqV0EPEQuDZ_jwirpwJYi61DqQQojPBTTd0BAoXzty-n74GqqlBwH3Xin9-o1w7t8BUhk1cmBRoH_Q2u2C5DgCIqfi6-sy_jrE4Gc_pjfzTSJrmEgt1PC9rXO16CEOx22Fcln_9bDNv8p",
+        "width" : 1920
+     }
+  ],
+  "place_id" : "ChIJIfksyY9A9YgRYdxEnnCyNpU",
+  "plus_code" : {
+     "compound_code" : "382Q+68 Acworth, GA, USA",
+     "global_code" : "866Q382Q+68"
+  },
+  "rating" : 4.5,
+  "reference" : "ChIJIfksyY9A9YgRYdxEnnCyNpU",
+  "scope" : "GOOGLE",
+  "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 347,
+  "vicinity" : "3900 South Main Street, Acworth"
+}
+  ],
+  "status" : "OK"
+}

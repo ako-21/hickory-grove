@@ -1,0 +1,859 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEDrsgOFwvuJ1hFTddyceisoEf3__by2xH_zbeGzS-idVRrPGemovDI7f5PWHdgcBidKyP_lPIcz_AVQRRpmUiMXZcv27LEq16gj6xCU4GHs40ocHlD_Glqzcecw5zna2yIuhq2gowoKmwV5rNM1a1eUjwywkzawfEeVjfNFHTeW8envNNMTo17TEXagd4-1H4aFWYss7W8lCPwyuXr7lr7BXr3Ikd-gx5KAltNwVznx_vWqan37zj0YB9vPBwMrR9kg0ePUdAdkg9rvegweyznnoaVw1hK9Xa_dgca6YJVG8E6kFTAw6dJFhtpm_b196BirYqsMzHeLZ4U9QqYHOtrHmQm2KPPlYE-mr2yyPIZM_vC3iOXsg1cBw4ZZBYzEJ02tFwBRsFsiACa-cIsWagLChLJotUV4udyRhdvZyqi8fWRqGBRsbr2A7vE",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0405849,
+              "lng" : -84.5816899
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0419393802915,
+                 "lng" : -84.58014391970849
+              },
+              "southwest" : {
+                 "lat" : 34.0392414197085,
+                 "lng" : -84.5828418802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Wellstar College of Health and Human Services",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3374,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101983947954270978240\"\u003eWellstar College of Health and Human Services\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBrkQjQdTn-MQFXOtdavh-mZUlIV_Y2zmVFNHUdMAzookq2g1dVfUvtEtJAE4-Is_NamRcqCjRUo_QnwaPDZ_-UD2IqaWKEsAXy-FA5r6GEIwmJW0OuPkBj-kVTM4ywhMiR9WkGSmjbXx_OuGAq3azWOT8Hi6PisvS61EKlMcoOf8l5",
+              "width" : 5055
+           }
+        ],
+        "place_id" : "ChIJHy3mcslq9YgRnxyMoNXUw38",
+        "plus_code" : {
+           "compound_code" : "2CR9+68 Kennesaw, GA, USA",
+           "global_code" : "866Q2CR9+68"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJHy3mcslq9YgRnxyMoNXUw38",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "520 Parliament Garden Way Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0429495,
+              "lng" : -84.5298779
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0442520302915,
+                 "lng" : -84.52851986970849
+              },
+              "southwest" : {
+                 "lat" : 34.0415540697085,
+                 "lng" : -84.5312178302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Dental Careers Institute",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 834,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117086651541642848087\"\u003eDental Careers Institute\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBJx_lTZFzEsFBF0RkMx4wy5fUUNGgXgwZCkQbDxi60eY2T1utGHcyPwoaPcsUnUaUGviQSHBDZFd5PVviwUzrXKmb2Bzj8RGfdm_kn5ZyM51bbfe9AR4Wv41l89onIcxfYvbmS0F7aJKgtWk54TfzLQUxTu1CxwCdvqigV5_gjR-80",
+              "width" : 1484
+           }
+        ],
+        "place_id" : "ChIJnaTIM38S9YgRHTP2zeDXRN4",
+        "plus_code" : {
+           "compound_code" : "2FVC+52 Marietta, GA, USA",
+           "global_code" : "866Q2FVC+52"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJnaTIM38S9YgRHTP2zeDXRN4",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "health", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 48,
+        "vicinity" : "3735 Canton Road, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.030656,
+              "lng" : -84.574685
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0324828302915,
+                 "lng" : -84.57354236970851
+              },
+              "southwest" : {
+                 "lat" : 34.0297848697085,
+                 "lng" : -84.57624033029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "AL Burruss Institute of Public Service and Research",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJK1SzeDIV9YgRgsXa985tl4Q",
+        "plus_code" : {
+           "compound_code" : "2CJG+74 Kennesaw, GA, USA",
+           "global_code" : "866Q2CJG+74"
+        },
+        "reference" : "ChIJK1SzeDIV9YgRgsXa985tl4Q",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "vicinity" : "3333 Busbee Drive Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0388,
+              "lng" : -84.585628
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0404141302915,
+                 "lng" : -84.5843825197085
+              },
+              "southwest" : {
+                 "lat" : 34.0377161697085,
+                 "lng" : -84.5870804802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "MA in American Studies Program",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 392,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104100604098603374736\"\u003eMA in American Studies Program\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB_qqnxuloJGd-G2C4VwqD4VSEqe6a9u7ia32jgMI4_ROeGfCKLcD2NYSfDRVf-Ce1hkAtc8Uk1CmmKdKBCz-srOH6bwfFkwX0MN0dw2dn_kmf-k2AXiafaL9ZpyAuaByNfm8YNBf4cLtLnWOCNEUjJyGwsj0OAQ75gftvlYuJZx26d",
+              "width" : 694
+           }
+        ],
+        "place_id" : "ChIJR--F8bVq9YgR-TjMwTTzs4A",
+        "plus_code" : {
+           "compound_code" : "2CQ7+GP Kennesaw, GA, USA",
+           "global_code" : "866Q2CQ7+GP"
+        },
+        "rating" : 5,
+        "reference" : "ChIJR--F8bVq9YgR-TjMwTTzs4A",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "402 Bartow Avenue Ste. 2019, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0157368,
+              "lng" : -84.6012205
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0170861302915,
+                 "lng" : -84.59996061970848
+              },
+              "southwest" : {
+                 "lat" : 34.0143881697085,
+                 "lng" : -84.60265858029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "ATP Flight School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1195,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107371034833089336322\"\u003eATP Flight School\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDFJDE4JlVI30Qh_BRES0aDZaou0WEN0HR_y6w9EGlC7_bVTZbh4IqtVSehlqsg2NV_2hz8S9nQoiS17YRssAwZW6zd2e7WgdzLNFxM0gNOUPIthEvEyAuJJEwlTaoajD8HItKiIscnTlT6lECK9O2kJ34sLK3lWw3H5FOnKSBneNA5",
+              "width" : 2119
+           }
+        ],
+        "place_id" : "ChIJI9eMKFwV9YgRyUiJ4ura3Lk",
+        "plus_code" : {
+           "compound_code" : "298X+7G Kennesaw, GA, USA",
+           "global_code" : "866Q298X+7G"
+        },
+        "rating" : 5,
+        "reference" : "ChIJI9eMKFwV9YgRyUiJ4ura3Lk",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "1723 McCollum Parkway NW Hangar 410, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0401573,
+              "lng" : -84.58506009999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0413158302915,
+                 "lng" : -84.5836031697085
+              },
+              "southwest" : {
+                 "lat" : 34.0386178697085,
+                 "lng" : -84.5863011302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Kennesaw State University College of the Arts",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 720,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110236029484302801845\"\u003eKennesaw State University College of the Arts\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC_HqmEX5tRlD3bsW6cfIT_EUnFPKaI9UiatiOWMurq66bLSaYZfgD4GbkPBMTgMSpOR3REIFcmveOrZ9_6-5ZtVIGkSGH30QYYMqscpeUoXJjUjxdw4YVXnBUAPd8zWrQaEUCTO0d-jNAWD4wu2-9ZShhwtgJ3FN9LsMS8my6KaVdV",
+              "width" : 1080
+           }
+        ],
+        "place_id" : "ChIJD6iBAbZq9YgR7soFiSZJV1c",
+        "plus_code" : {
+           "compound_code" : "2CR7+3X Kennesaw, GA, USA",
+           "global_code" : "866Q2CR7+3X"
+        },
+        "reference" : "ChIJD6iBAbZq9YgR7soFiSZJV1c",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "vicinity" : "471 Bartow Avenue NW, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0165525,
+              "lng" : -84.600115
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01790203029149,
+                 "lng" : -84.59889226970849
+              },
+              "southwest" : {
+                 "lat" : 34.0152040697085,
+                 "lng" : -84.60159023029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Atlanta Air Academy",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100543586126948585731\"\u003eJamel Patterson\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDrPeGldh_OPmrTt1iQje3bSwbivZSPtrWMJRRhK1e--aDrg7Sk-1azu9jusHcQPXZAtUfbw9cAxe_4mEJ96f4_-c0w2N2RRmOnD-g44SO5iVmCE_iEdWgXp0-0C3QX1J_KLkTFZCZzy3RtRX1BgQPr6TMCPubnh4Ayfue3gvxfPodh",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJdeS6PFwV9YgRi5rgcxh1uuA",
+        "plus_code" : {
+           "compound_code" : "298X+JX Kennesaw, GA, USA",
+           "global_code" : "866Q298X+JX"
+        },
+        "rating" : 5,
+        "reference" : "ChIJdeS6PFwV9YgRi5rgcxh1uuA",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "Cobb County International Airport (KRYY) 1723 McCollum Pkwy NW Hangar 300, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.017296,
+              "lng" : -84.61449999999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0185021802915,
+                 "lng" : -84.6128522697085
+              },
+              "southwest" : {
+                 "lat" : 34.0158042197085,
+                 "lng" : -84.61555023029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "RushCube",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 600,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107258019347422043091\"\u003eRush Cube\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEANvkOwzhY9TgUITDvPo5vuYCBQfnbYqQhGOQ4sstppfIGd-ZHfZX3vGRZn1MRypJqSYT2-SmLXWEfEDaz8CsuWbm1U71ND8bNwI9KFv5_pTpbiQPvcz851_KABRrZglrz8duEfqvwCP2TtiAAcUZLLNU0GblBGzQ3zF5wxHHQsf_Dv",
+              "width" : 900
+           }
+        ],
+        "place_id" : "ChIJwYV8t-c_9YgRjKDmHizGWAo",
+        "plus_code" : {
+           "compound_code" : "298P+W6 Kennesaw, GA, USA",
+           "global_code" : "866Q298P+W6"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJwYV8t-c_9YgRjKDmHizGWAo",
+        "scope" : "GOOGLE",
+        "types" : [
+           "travel_agency",
+           "university",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 1099,
+        "vicinity" : "2601 Summers Street, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0068453,
+              "lng" : -84.5951271
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0081103802915,
+                 "lng" : -84.59388046970849
+              },
+              "southwest" : {
+                 "lat" : 34.0054124197085,
+                 "lng" : -84.5965784302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "SimTrain, LLC",
+        "photos" : [
+           {
+              "height" : 630,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115321653198211624230\"\u003eSimTrain, LLC\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA1ijODoc8Iepjq5Syt4OpS6LrI1pVu1EEY9ad8UxPHI_K5F14PZF43q34rD_8NhNyC0ivay3Np63qDj5YoMA5Mucc_zwIsoBcxsmXxrCZ4oltBYy3DVKxB6YuiltjB-EOtSdMZNMZWn0YCjkQ4uw4KAPfkZm85jLMZkJnz1LkSjW1z",
+              "width" : 952
+           }
+        ],
+        "place_id" : "ChIJX5-E_2UV9YgR0IVA0oHiOG8",
+        "plus_code" : {
+           "compound_code" : "2C43+PW Kennesaw, GA, USA",
+           "global_code" : "866Q2C43+PW"
+        },
+        "reference" : "ChIJX5-E_2UV9YgR0IVA0oHiOG8",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "vicinity" : "2121 Barrett Park Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.11584680000001,
+              "lng" : -84.6387172
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.11706948029151,
+                 "lng" : -84.63736611970849
+              },
+              "southwest" : {
+                 "lat" : 34.11437151970851,
+                 "lng" : -84.64006408029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Learn To Win Trading LLC",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJrxH0V4VB9YgRhYkaJt6GwoY",
+        "plus_code" : {
+           "compound_code" : "4986+8G Acworth, GA, USA",
+           "global_code" : "866Q4986+8G"
+        },
+        "reference" : "ChIJrxH0V4VB9YgRhYkaJt6GwoY",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "vicinity" : "3032 Cedar Mill Crossing, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0843585,
+              "lng" : -84.67043830000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0853135302915,
+                 "lng" : -84.66864685
+              },
+              "southwest" : {
+                 "lat" : 34.0826155697085,
+                 "lng" : -84.67215064999999
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Chattahoochee Technical College - North Metro Campus",
+        "photos" : [
+           {
+              "height" : 2268,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/105182994868321420879\"\u003eAshleigh D.\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECy8aU-fVgquYEnSNnxzvu1Z6-MxxKKR2v78QiJ5fR1eUdnMiTnQS_HipZYI2vo93fDmb6RYVmhkeY8nIqoOFR7BK7dmXBoWTGkS4pL57OfX6HvLSo0BMTDS47UcSZqkkCDznheh9HqfAU7LgyshBTW-i9dmHPY7UgWrOn6cqL0tFX9",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJSytyRiBB9YgRWTkBdQhvaZ8",
+        "plus_code" : {
+           "compound_code" : "38MH+PR Acworth, GA, USA",
+           "global_code" : "866Q38MH+PR"
+        },
+        "rating" : 4,
+        "reference" : "ChIJSytyRiBB9YgRWTkBdQhvaZ8",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 58,
+        "vicinity" : "5198 Ross Road, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0165525,
+              "lng" : -84.600115
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01790203029149,
+                 "lng" : -84.59889226970849
+              },
+              "southwest" : {
+                 "lat" : 34.0152040697085,
+                 "lng" : -84.60159023029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Aero Atlanta Flight Center",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 400,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103029641747579591440\"\u003eAero Atlanta Flight Center\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBQn5hPedq5DDQQzZPFWtb_NhebGs-5khbVpi8ibC7sUNdLOEKimG9fKOlLj3abXpjy4Icw4oDVkM7WnJdERYhh6DE6vojei240ntIm0o6R1aiB_hLN5cRRBrKjn8P6rhrld7OPz_GvWrb199A_4zuGe-jSypPsJCQt89wfYGkxrbId",
+              "width" : 600
+           }
+        ],
+        "place_id" : "ChIJ90g0fF4V9YgRi_InqJYe6Fw",
+        "plus_code" : {
+           "compound_code" : "298X+JX Kennesaw, GA, USA",
+           "global_code" : "866Q298X+JX"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJ90g0fF4V9YgRi_InqJYe6Fw",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 18,
+        "vicinity" : "2600 Cirrus Way Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.010968,
+              "lng" : -84.60162919999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01211558029149,
+                 "lng" : -84.60028596970849
+              },
+              "southwest" : {
+                 "lat" : 34.00941761970849,
+                 "lng" : -84.6029839302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Superior Flight School Inc",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 683,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114755893502565711447\"\u003eSuperior Flight School Inc\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED3lMramVIXh20EA6VBF72zk_LYO2gKfv9ygRZH7v4f5Z5bIh1Znda8szLUtLLOndJbcPcvr-VvrZ2JpydGArVjjhe6dXoGQ3k-qR7tnzivQswBtelO9O4tuRTyzYbB68k-ghCl_P4sDnfmjrb8h6a2T9jbrhH2_FD2x5a1bHhzdap5",
+              "width" : 1024
+           }
+        ],
+        "place_id" : "ChIJ-9Hdp2cV9YgRhurX7nCtcv4",
+        "plus_code" : {
+           "compound_code" : "296X+98 Kennesaw, GA, USA",
+           "global_code" : "866Q296X+98"
+        },
+        "rating" : 3.5,
+        "reference" : "ChIJ-9Hdp2cV9YgRhurX7nCtcv4",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 34,
+        "vicinity" : "1800 Airport Road NW, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.03817850000001,
+              "lng" : -84.58267119999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.05169119999999,
+                 "lng" : -84.57484674999999
+              },
+              "southwest" : {
+                 "lat" : 34.01873440000001,
+                 "lng" : -84.58980575000004
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Kennesaw State University",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2240,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109943815776411610665\"\u003eKennesaw State University\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECXxrFBTKPyW257EpBLKh1FrR2ImmvfGZ1bnvOkpOLXsPrUMaUj8yPEzogn1FFAYd1o8iF1DCN2o11JIzAER4Z5NsR89VuruPt_t33MGJOH2txRJoyGGE4JeQ251nvEERNZImo3LZq_08nZzEzcZfY35GlD0CHFJlNpz25AeZqgZvBW",
+              "width" : 3360
+           }
+        ],
+        "place_id" : "ChIJU-VAr9Jq9YgR0MgJ0smjln8",
+        "plus_code" : {
+           "compound_code" : "2CQ8+7W Kennesaw, GA, USA",
+           "global_code" : "866Q2CQ8+7W"
+        },
+        "rating" : 3.5,
+        "reference" : "ChIJU-VAr9Jq9YgR0MgJ0smjln8",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 293,
+        "vicinity" : "1000 Chastain Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0606519,
+              "lng" : -84.58991309999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0619250302915,
+                 "lng" : -84.58861066970849
+              },
+              "southwest" : {
+                 "lat" : 34.0592270697085,
+                 "lng" : -84.59130863029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "OceanPointe Dental Assisting Academy NE Atlanta",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103268279503113767036\"\u003eOceanPointe Dental Assisting Academy NE Atlanta\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECXsIHfQMY3WVhVsfbg2Lof0TaAYFwPRzgK3NX3fKxPfcd4qaHbGosHAoREXKyC1Jjx4dR1XlYXpNZGTJ-Yz_mlycBwBjz-lHtfLXEyict7PEPjzwjWlcW04MF4gmY56PaLy0OQjiNr6bmewcQ7Vco2i8rBMUFXfMSz_yXBxP-Ovgci",
+              "width" : 3000
+           }
+        ],
+        "place_id" : "ChIJ_YUuwutr9YgRbmojxZwHda4",
+        "plus_code" : {
+           "compound_code" : "3C66+72 Kennesaw, GA, USA",
+           "global_code" : "866Q3C66+72"
+        },
+        "reference" : "ChIJ_YUuwutr9YgRbmojxZwHda4",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "health", "point_of_interest", "establishment" ],
+        "vicinity" : "1350 Wooten Lake Road Northwest #203, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0431653,
+              "lng" : -84.5848721
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0446137802915,
+                 "lng" : -84.5835186697085
+              },
+              "southwest" : {
+                 "lat" : 34.0419158197085,
+                 "lng" : -84.5862166302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Technology Services",
+        "place_id" : "ChIJ10_rKMhq9YgR0VWb1N-s6z8",
+        "plus_code" : {
+           "compound_code" : "2CV8+73 Kennesaw, GA, USA",
+           "global_code" : "866Q2CV8+73"
+        },
+        "reference" : "ChIJ10_rKMhq9YgR0VWb1N-s6z8",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "vicinity" : "Campus Services, 1075 Canton Place Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.04035020000001,
+              "lng" : -84.5822598
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0417007802915,
+                 "lng" : -84.5810445697085
+              },
+              "southwest" : {
+                 "lat" : 34.03900281970851,
+                 "lng" : -84.5837425302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Student Culinary Center",
+        "place_id" : "ChIJp0qQk4hr9YgRpVrwrl5irs0",
+        "plus_code" : {
+           "compound_code" : "2CR9+43 Kennesaw, GA, USA",
+           "global_code" : "866Q2CR9+43"
+        },
+        "reference" : "ChIJp0qQk4hr9YgRpVrwrl5irs0",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "vicinity" : "520 Owl Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0388409,
+              "lng" : -84.5841587
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0402536302915,
+                 "lng" : -84.58253906970849
+              },
+              "southwest" : {
+                 "lat" : 34.0375556697085,
+                 "lng" : -84.58523703029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Kennesaw State University College",
+        "place_id" : "ChIJ7-gVKjtr9YgRZUNMfXqYVJQ",
+        "plus_code" : {
+           "compound_code" : "2CQ8+G8 Kennesaw, GA, USA",
+           "global_code" : "866Q2CQ8+G8"
+        },
+        "reference" : "ChIJ7-gVKjtr9YgRZUNMfXqYVJQ",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "vicinity" : "Kennesaw State University, 430 Bartow Avenue NW, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0393855,
+              "lng" : -84.5817445
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0409215802915,
+                 "lng" : -84.58006371970848
+              },
+              "southwest" : {
+                 "lat" : 34.0382236197085,
+                 "lng" : -84.5827616802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Coles College of Business",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4016,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114777589270952967988\"\u003eColes College of Business\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBLKBhVSaTwWOjtX9yI9RmpcG5Y3yrQwdQx73cEyHY-VETEcbZ3-4e5hJMYRudh9JMBc0q-o8GbdukG4VqfFa2RlCRx5-1rD-3YgBwd1mjeQxRN4F0EZCWubYo3MkgbjvgjSCaWBiE1DEhz-VCa7_sK0nOkwHcNknaCh0nYRGsSPveK",
+              "width" : 6016
+           }
+        ],
+        "place_id" : "ChIJ68eYGMtq9YgRPZapBvf2w7U",
+        "plus_code" : {
+           "compound_code" : "2CQ9+Q8 Kennesaw, GA, USA",
+           "global_code" : "866Q2CQ9+Q8"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJ68eYGMtq9YgRPZapBvf2w7U",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 14,
+        "vicinity" : "560 Parliament Garden Way Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.03880099999999,
+              "lng" : -84.5805776
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04018208029149,
+                 "lng" : -84.5789442197085
+              },
+              "southwest" : {
+                 "lat" : 34.03748411970849,
+                 "lng" : -84.58164218029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "KSU iTeach",
+        "place_id" : "ChIJV2zx8Qtr9YgRuwoYPnJKSZY",
+        "plus_code" : {
+           "compound_code" : "2CQ9+GQ Kennesaw, GA, USA",
+           "global_code" : "866Q2CQ9+GQ"
+        },
+        "rating" : 5,
+        "reference" : "ChIJV2zx8Qtr9YgRuwoYPnJKSZY",
+        "scope" : "GOOGLE",
+        "types" : [ "university", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "585 Cobb Ave MD 0127, Kennesaw"
+     }
+  ],
+  "status" : "OK"
+}

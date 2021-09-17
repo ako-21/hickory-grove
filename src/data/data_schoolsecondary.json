@@ -1,0 +1,531 @@
+{
+  "html_attributions" : [],
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1161551,
+              "lng" : -84.56422889999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.11737968029149,
+                 "lng" : -84.56300816970848
+              },
+              "southwest" : {
+                 "lat" : 34.11468171970849,
+                 "lng" : -84.5657061302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Etowah High School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2268,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113168778730340440968\"\u003eMichael Dumo\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDo8MnaaJvjIYXyS4nqSb0jlHtThwHT0LHM2gneyNkkiPzCnRuVAz_5UW2ALmCyykauYDi4AI5zSWwRbYDQfkgor7FBHgjhc4d9VUWlX-FjLW3juP33QUgg9s0yD1sCs803v82Q7c7zcwsjQK0GxVdhzu85UPOLV9f56lReUQfYNfBw",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ3xctpSxq9YgR1FTEhdlAiT4",
+        "plus_code" : {
+           "compound_code" : "4C8P+F8 Woodstock, GA, USA",
+           "global_code" : "866Q4C8P+F8"
+        },
+        "rating" : 3.9,
+        "reference" : "ChIJ3xctpSxq9YgR1FTEhdlAiT4",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 63,
+        "vicinity" : "1501, 6565 Putnam Ford Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0401304,
+              "lng" : -84.64859829999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04118809999999,
+                 "lng" : -84.64518145000004
+              },
+              "southwest" : {
+                 "lat" : 34.03789489999999,
+                 "lng" : -84.65002884999998
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "North Cobb High School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2340,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102123878554807918820\"\u003eValeria Pugliesi Washington\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECZkeDGB2lwmK6zrscUxJIppxTy3-ps44Zu6Ml4boqAR0f4-WN_uftNNckY5SmQPFN4gk4m2BpvpOBEYZx3lqwCyX6mrUGWh4e5cmy3xZofHG6Xx4s8-kMCv0HavutwlivBdaEAIMdR9kwHUydVyKUtV8I98lKy3gsP8xKbuGEtYdTD",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+        "plus_code" : {
+           "compound_code" : "29R2+3H Kennesaw, GA, USA",
+           "global_code" : "866Q29R2+3H"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 47,
+        "vicinity" : "3400 Old 41 Highway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1017764,
+              "lng" : -84.5426837
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1031253802915,
+                 "lng" : -84.5413347197085
+              },
+              "southwest" : {
+                 "lat" : 34.1004274197085,
+                 "lng" : -84.54403268029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Woodstock High School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3563,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101883421037698111063\"\u003eMark Smith\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBk3zcDqD4PhFieAlNtYvlaRSomx8HY3YEME9pQDHEcgmGqRXYNu-TAQwjNEa0OTk3Ped8mSu6HaLxBrNs7GGg_EwiS4bWo9qpUDjc2iji6sa-d6YBVQh_wRv3k-YFf_rf_BtrrOmBP2ojR3JRFvmFgf3myfibSxeJsAJdZpeNs3W48",
+              "width" : 5760
+           }
+        ],
+        "place_id" : "ChIJOXAsgOpr9YgRtMD_aL0RBVk",
+        "plus_code" : {
+           "compound_code" : "4F24+PW Woodstock, GA, USA",
+           "global_code" : "866Q4F24+PW"
+        },
+        "rating" : 3.5,
+        "reference" : "ChIJOXAsgOpr9YgRtMD_aL0RBVk",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 40,
+        "vicinity" : "2010 Towne Lake Hills South Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 33.9996861,
+              "lng" : -84.6246127
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0011691802915,
+                 "lng" : -84.6232752697085
+              },
+              "southwest" : {
+                 "lat" : 33.9984712197085,
+                 "lng" : -84.62597323029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Kennesaw Mountain High School",
+        "place_id" : "ChIJaUZZW8g_9YgRLcNwTtkjuSE",
+        "plus_code" : {
+           "compound_code" : "X9XG+V5 Kennesaw, GA, USA",
+           "global_code" : "865QX9XG+V5"
+        },
+        "rating" : 3.8,
+        "reference" : "ChIJaUZZW8g_9YgRLcNwTtkjuSE",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 21,
+        "vicinity" : "1898 Kennesaw Due West Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0445382,
+              "lng" : -84.6599724
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0459341802915,
+                 "lng" : -84.65869376970848
+              },
+              "southwest" : {
+                 "lat" : 34.0432362197085,
+                 "lng" : -84.66139173029148
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "North Cobb Christian School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1920,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103950444433559688705\"\u003eNorth Cobb Christian School\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB3wfusMyAsW7vNZd3ldkn66outQ7K4ptKxV6u3agPk83IEPQr_vgSEVv2hEGdEPVoPTlH0dx2-ei9ZKw9QdthFujgPyDW8ZQkjXq3fV9YsdX2Pm8WnYmIf3QZP7qeM3tr7RDtBDdVyUNVKTp2J_2wkI5G7p0JhM_Sws2cPVyOKaaOI",
+              "width" : 2880
+           }
+        ],
+        "place_id" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+        "plus_code" : {
+           "compound_code" : "28VR+R2 Kennesaw, GA, USA",
+           "global_code" : "866Q28VR+R2"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+        "scope" : "GOOGLE",
+        "types" : [
+           "primary_school",
+           "secondary_school",
+           "school",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 18,
+        "vicinity" : "4500 Eagle Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0420693,
+              "lng" : -84.6471391
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0433693802915,
+                 "lng" : -84.64578366970851
+              },
+              "southwest" : {
+                 "lat" : 34.0406714197085,
+                 "lng" : -84.64848163029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Awtrey Middle School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJtWMFb35A9YgRMV_5vuLi0bE",
+        "plus_code" : {
+           "compound_code" : "29R3+R4 Kennesaw, GA, USA",
+           "global_code" : "866Q29R3+R4"
+        },
+        "rating" : 2.6,
+        "reference" : "ChIJtWMFb35A9YgRMV_5vuLi0bE",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 82,
+        "vicinity" : "3601 Nowlin Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1182023,
+              "lng" : -84.5614731
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.11923678029149,
+                 "lng" : -84.56013326970849
+              },
+              "southwest" : {
+                 "lat" : 34.1165388197085,
+                 "lng" : -84.56283123029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "E. T. Booth Middle School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2304,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102673535354233970025\"\u003eThomson M\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAGJWSd3-SQLUEqvVbgf_OV9l45VZWwYlpNdQ-4srEkSxVGenYbdYGwlOvm6waPmahPx0E1r3R9QSYBCTnGRlpf4hPvpxRWy9AzTFeZD0f-D4lz1p4maypBAAO8s8GD0C38_zIbelHdUQoNBZU9oXY3vghDDkLgGtHKoIgS2vhuSRhT",
+              "width" : 3456
+           }
+        ],
+        "place_id" : "ChIJdZ9zCNNr9YgRb2TzEPUM4Tk",
+        "plus_code" : {
+           "compound_code" : "4C9Q+7C Woodstock, GA, USA",
+           "global_code" : "866Q4C9Q+7C"
+        },
+        "rating" : 2.6,
+        "reference" : "ChIJdZ9zCNNr9YgRb2TzEPUM4Tk",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 67,
+        "vicinity" : "6550 Putnam Ford Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1005048,
+              "lng" : -84.53988079999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1018830302915,
+                 "lng" : -84.53898071970848
+              },
+              "southwest" : {
+                 "lat" : 34.0991850697085,
+                 "lng" : -84.54167868029148
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Woodstock Middle School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 344,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116142530874867319907\"\u003eBarbara Jacoby\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC-GBzcAuxSJM0KjYvMfl2kwwMOzL4tyrgXnR-Zs1FJuWGqUE-b5EAeHCORNg0F53N8oT_GMTIm6uExCyFHf7YlNnl2jH7kt0JoHbTMEs7ZSxpmt-ZzQtfNGaRevyVrqTdMkukATZzA8_SjS3ipNFa_Y3x9gX5wR_hdORE2JgOFBVR6",
+              "width" : 460
+           }
+        ],
+        "place_id" : "ChIJx67j1MVr9YgR5LggAnTALqw",
+        "plus_code" : {
+           "compound_code" : "4F26+62 Woodstock, GA, USA",
+           "global_code" : "866Q4F26+62"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJx67j1MVr9YgR5LggAnTALqw",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 19,
+        "vicinity" : "5288, 2000 Towne Lake Hills South Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0214182,
+              "lng" : -84.5322857
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0227585802915,
+                 "lng" : -84.5309743697085
+              },
+              "southwest" : {
+                 "lat" : 34.0200606197085,
+                 "lng" : -84.53367233029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Daniell Middle School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2340,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107300244743938971803\"\u003eCorey Coker\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB_wFbyGKoNrL0KFSUUuOypeDUh0kKVpDrO9jNBLxBCHe-N-G_Ehkwn3ZPVdgjiMvGRcQ_-79jK4PguAITWq43Gz52_YDpKFxyKl3iM8y7hIwSXnzGZBi7nrLZTc84b62gI_8Flu3spwYcX5XR8kE3fw9lhhHDKELWUYhm2gq_a95Y0",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJO7klS6UU9YgRfoFqAA2tBto",
+        "plus_code" : {
+           "compound_code" : "2FC9+H3 Marietta, GA, USA",
+           "global_code" : "866Q2FC9+H3"
+        },
+        "rating" : 2.7,
+        "reference" : "ChIJO7klS6UU9YgRfoFqAA2tBto",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 68,
+        "vicinity" : "2900 Scott Road, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0278606,
+              "lng" : -84.60033519999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0291589802915,
+                 "lng" : -84.59872731970849
+              },
+              "southwest" : {
+                 "lat" : 34.0264610197085,
+                 "lng" : -84.60142528029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "St Catherine of Siena Catholic School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2337,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116535677721853563986\"\u003eSt Catherine of Siena Catholic School\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA5XfkBVHXB3r8DNkIn-p0GUGYLd7Fega6GHtiAIkiG31zxiyhJvCHx_DOClNJ1mHdTCWwelHc_C6OJSjQsobpDHwHlsMaOuNaygl7-P5JTJeXBO78MaWbIfm38rh8OstHwbRWZYPBNEMjFL0kWfTxCiTYjssvTeP_btTj6lL3T21fY",
+              "width" : 2588
+           }
+        ],
+        "place_id" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+        "plus_code" : {
+           "compound_code" : "29HX+4V Kennesaw, GA, USA",
+           "global_code" : "866Q29HX+4V"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+        "scope" : "GOOGLE",
+        "types" : [
+           "primary_school",
+           "secondary_school",
+           "school",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 12,
+        "vicinity" : "1618 Ben King Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1131346,
+              "lng" : -84.5616603
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1144835802915,
+                 "lng" : -84.56031131970849
+              },
+              "southwest" : {
+                 "lat" : 34.1117856197085,
+                 "lng" : -84.56300928029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Etowah East Campus",
+        "place_id" : "ChIJR8lV-NJr9YgRyjIJFhZOJP4",
+        "plus_code" : {
+           "compound_code" : "4C7Q+78 Woodstock, GA, USA",
+           "global_code" : "866Q4C7Q+78"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJR8lV-NJr9YgRyjIJFhZOJP4",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "6500 Putnam Ford Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0730528,
+              "lng" : -84.6060653
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0743118802915,
+                 "lng" : -84.60470996970851
+              },
+              "southwest" : {
+                 "lat" : 34.0716139197085,
+                 "lng" : -84.60740793029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Woodstock high school",
+        "place_id" : "ChIJ1eYXwt9B9YgR4Da8zYtpcXM",
+        "plus_code" : {
+           "compound_code" : "39FV+6H Acworth, GA, USA",
+           "global_code" : "866Q39FV+6H"
+        },
+        "reference" : "ChIJ1eYXwt9B9YgR4Da8zYtpcXM",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "vicinity" : "4853 Wilkie Way Northwest, Acworth"
+     }
+  ],
+  "status" : "OK"
+}

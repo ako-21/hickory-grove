@@ -1,0 +1,2902 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEA6pKHlXPzEMPPsWtGEXWPXaI9V_t6Nadt1y1tAw55TvcElNY1fY5jqB64mQkkwVkqqxmeMcGvLCfZxcNWphIrbFgWT0R_NUo1uCH62kzi-UQBDIzoPeQxAG36bwaj9vNeOQf1DPnVAmyxkmN7LcJuTPwmYfDigLKrktpkv_ymCEm7iK8meJ9BXoQ_U-LJionkQRzgIRN9Pc8dTmcZmZkWZxtmr0LJL1nkqIEQtxh5bpZiCvNX-w-1hUDpLFt8Mu328HbIuM7zS3bSF91ySg9YJwLuZlQ5-ZhZeLhu6mOEFxPpWnvbF253eejGUz3KAyLwN1R3rZQs6kBF0L2y4LUf9V5pzAXgf_5enpIztjfUYhg_m0x9YjLISe22aEkENijjaNwMx_zN-Czuccc19SFmCctCbuJdcbxqQ7puzl5_clcfQXUNuDw",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1161551,
+              "lng" : -84.56422889999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.11737968029149,
+                 "lng" : -84.56300816970848
+              },
+              "southwest" : {
+                 "lat" : 34.11468171970849,
+                 "lng" : -84.5657061302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Etowah High School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2268,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113168778730340440968\"\u003eMichael Dumo\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECHo8qoGczs9InB01-p-fPDouuvUS8i5HcqLzeaAoaqq2dz_vXNzs3NWXbY5ZY3XujVKCyO5vOQKhiuCIphjOLm3ohu8hxlo9hmB_7q6i80VNeqfdttpudZbIWjEJ5q3NnjbwgycevQtFx6aR6p43pVWSug57lmT3tzyrEWMLuf_Oo2",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ3xctpSxq9YgR1FTEhdlAiT4",
+        "plus_code" : {
+           "compound_code" : "4C8P+F8 Woodstock, GA, USA",
+           "global_code" : "866Q4C8P+F8"
+        },
+        "rating" : 3.9,
+        "reference" : "ChIJ3xctpSxq9YgR1FTEhdlAiT4",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 63,
+        "vicinity" : "1501, 6565 Putnam Ford Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0401304,
+              "lng" : -84.64859829999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04118809999999,
+                 "lng" : -84.64518145000004
+              },
+              "southwest" : {
+                 "lat" : 34.03789489999999,
+                 "lng" : -84.65002884999998
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "North Cobb High School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2340,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102123878554807918820\"\u003eValeria Pugliesi Washington\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAwx2hqgwmAyqRmpDkBIeh0fkWQf0MLTSXT_sLR3uXac_sTApA10lZfIFvlHFZt2wFbvCTft6xuxp6dVll_V3dOn3W6mo69Bk--i4BhD59BoXnKYvXHMM7dseEjhQQrkzu4LO6dGH-3l8dZULwQ1L-nGiAw2TvNFfsRyliO7_GPuyJY",
+              "width" : 4160
+           }
+        ],
+        "place_id" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+        "plus_code" : {
+           "compound_code" : "29R2+3H Kennesaw, GA, USA",
+           "global_code" : "866Q29R2+3H"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 47,
+        "vicinity" : "3400 Old 41 Highway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0497703,
+              "lng" : -84.672264
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.052047,
+                 "lng" : -84.66473115000001
+              },
+              "southwest" : {
+                 "lat" : 34.0429402,
+                 "lng" : -84.67477495
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Cobblestone Golf Course",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1080,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/105125499025779668988\"\u003eCobblestone Golf Course\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECSK7Fcr5zXBdVIVSvEKuMdAj7yfT4FvIP4SD3gA4_wSxM6s83G5L15olamwN8U2aQFkd-sI8iH3aL7qY0EvbveMkWtAJKX4ty1vkiRiNB9irwZQ5uxDEukou2AykZKcs27vCSI-rz05vY3vqdAsAiyF6niuiTyucrJmeA3p6r9CEvQ",
+              "width" : 1440
+           }
+        ],
+        "place_id" : "ChIJhT5xn5hA9YgRcUu-JiSCCjw",
+        "plus_code" : {
+           "compound_code" : "28XH+W3 Acworth, GA, USA",
+           "global_code" : "866Q28XH+W3"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJhT5xn5hA9YgRcUu-JiSCCjw",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "health", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 118,
+        "vicinity" : "4200 Nance Road, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.043775,
+              "lng" : -84.614875
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04509763029149,
+                 "lng" : -84.61370861970849
+              },
+              "southwest" : {
+                 "lat" : 34.0423996697085,
+                 "lng" : -84.61640658029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Escalade Rock Climbing Kennesaw",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106047322612573472096\"\u003eCathy Hadam\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDqyrjwlepQVqOP8cMo6jYOapwfLR9HqILyvoSLl3aQt7_Y9qag4lGh2k93kfEmo7wDjjZC-zkUcn9BIhlYdNwmJH8ksGkJFke7R0rnBfgW69TyK2CAIHfaEhrJpFN8SDjfOD8ze_xmk4r4w2Nbp1UcZD9BopnivrN0BaBVvUmmyvgH",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJdwbCnwVA9YgRLTxyyLdUhUg",
+        "plus_code" : {
+           "compound_code" : "29VP+G3 Kennesaw, GA, USA",
+           "global_code" : "866Q29VP+G3"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJdwbCnwVA9YgRLTxyyLdUhUg",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "gym", "health", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 119,
+        "vicinity" : "3694 Kennesaw S Industrial Drive Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0399513,
+              "lng" : -84.5670121
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04126718029151,
+                 "lng" : -84.56548111970849
+              },
+              "southwest" : {
+                 "lat" : 34.03856921970851,
+                 "lng" : -84.5681790802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Adaptive Learning Center",
+        "place_id" : "ChIJC9fp3N4S9YgRLHS0U0w4cNs",
+        "plus_code" : {
+           "compound_code" : "2CQM+X5 Kennesaw, GA, USA",
+           "global_code" : "866Q2CQM+X5"
+        },
+        "reference" : "ChIJC9fp3N4S9YgRLHS0U0w4cNs",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "point_of_interest", "establishment" ],
+        "vicinity" : "125 Townpark Drive Suite 300, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1017764,
+              "lng" : -84.5426837
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1031253802915,
+                 "lng" : -84.5413347197085
+              },
+              "southwest" : {
+                 "lat" : 34.1004274197085,
+                 "lng" : -84.54403268029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Woodstock High School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3563,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101883421037698111063\"\u003eMark Smith\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBcNBG3dpLCjKOy3HiIyFn4KHYVgcomNcvM1mTCNYkqFwHdVnvdHhhrtmIl3WMdO-zzuu6EALcKHsT0laUV5X1CnKvRIZAx0A1fAWuk6rYFEhd2HeYUB5VMDlZ9MDTFrSWciuUn3wX17gq1SExjkIhIguuBFw6Nhzy0CxeFfq5v0Xrz",
+              "width" : 5760
+           }
+        ],
+        "place_id" : "ChIJOXAsgOpr9YgRtMD_aL0RBVk",
+        "plus_code" : {
+           "compound_code" : "4F24+PW Woodstock, GA, USA",
+           "global_code" : "866Q4F24+PW"
+        },
+        "rating" : 3.5,
+        "reference" : "ChIJOXAsgOpr9YgRtMD_aL0RBVk",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 40,
+        "vicinity" : "2010 Towne Lake Hills South Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 33.9996861,
+              "lng" : -84.6246127
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0011691802915,
+                 "lng" : -84.6232752697085
+              },
+              "southwest" : {
+                 "lat" : 33.9984712197085,
+                 "lng" : -84.62597323029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Kennesaw Mountain High School",
+        "place_id" : "ChIJaUZZW8g_9YgRLcNwTtkjuSE",
+        "plus_code" : {
+           "compound_code" : "X9XG+V5 Kennesaw, GA, USA",
+           "global_code" : "865QX9XG+V5"
+        },
+        "rating" : 3.8,
+        "reference" : "ChIJaUZZW8g_9YgRLcNwTtkjuSE",
+        "scope" : "GOOGLE",
+        "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 21,
+        "vicinity" : "1898 Kennesaw Due West Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0247178,
+              "lng" : -84.56987699999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0259915802915,
+                 "lng" : -84.56828566970847
+              },
+              "southwest" : {
+                 "lat" : 34.0232936197085,
+                 "lng" : -84.57098363029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "PGA TOUR Superstore",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114241530135434926269\"\u003eJasmine Janai Davis\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECnTSDNLSYFfASJMpGgAv3lFrtArdPtK8lWhgRJDFbs-_UHT-rjEYwly1TlqK1FO79LAxy5VAgyBXwNpxn8Xtc2hbqiBKRTCJlB0IAfbKCHv43ZDzvk5VSW5Jo0JPppqBF0Q4Xvod4Qt74MVkBp8mq0gdoFxw35uPVGagl1agBpAaa0",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJR5VXKy8V9YgRg8VBrot44Rc",
+        "plus_code" : {
+           "compound_code" : "2CFJ+V2 Kennesaw, GA, USA",
+           "global_code" : "866Q2CFJ+V2"
+        },
+        "rating" : 3.5,
+        "reference" : "ChIJR5VXKy8V9YgRg8VBrot44Rc",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "health", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 157,
+        "vicinity" : "2911 George Busbee Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0445382,
+              "lng" : -84.6599724
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0459341802915,
+                 "lng" : -84.65869376970848
+              },
+              "southwest" : {
+                 "lat" : 34.0432362197085,
+                 "lng" : -84.66139173029148
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "North Cobb Christian School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1920,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103950444433559688705\"\u003eNorth Cobb Christian School\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDE-90lEc6QAKOcsCzO3asKcQfXR8kR0sW-yIWCYlfaYo_UEXpyT1bocfXr3DZRclDEULAAiTo6BGltr-acHRCW-TFPFkEjeUmkZ-gZckl57hsUHFw4w40PBtKT79DRysDucGrZbrdhk-TSep1asKcbcAArBe8fIRYa1AHr89VnCyy7",
+              "width" : 2880
+           }
+        ],
+        "place_id" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+        "plus_code" : {
+           "compound_code" : "28VR+R2 Kennesaw, GA, USA",
+           "global_code" : "866Q28VR+R2"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+        "scope" : "GOOGLE",
+        "types" : [
+           "primary_school",
+           "secondary_school",
+           "school",
+           "point_of_interest",
+           "establishment"
+        ],
+        "user_ratings_total" : 18,
+        "vicinity" : "4500 Eagle Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0519394,
+              "lng" : -84.56878420000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0530510302915,
+                 "lng" : -84.5676025197085
+              },
+              "southwest" : {
+                 "lat" : 34.0503530697085,
+                 "lng" : -84.57030048029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Palmer Middle School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3264,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104612879310665758920\"\u003eJaden James\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBKmsDmW3WTLc538VoozNnjMIq9r9linuYzQYrlBwwIsrsRfIY0i5Iiy7vyywu4Ct89TsFZ5s8-XMvwaqmxowamkfc1t7hPZU0BYWtH5wTOLCDUrj7CHgwxNho-877O3PhQbJVbOVbjac5rGiLnRLOSg_dMx-AcS_ipBS72SgIupITJ",
+              "width" : 2448
+           }
+        ],
+        "place_id" : "ChIJsd_w_9tq9YgREI0TT2j9U18",
+        "plus_code" : {
+           "compound_code" : "3C2J+QF Kennesaw, GA, USA",
+           "global_code" : "866Q3C2J+QF"
+        },
+        "rating" : 2.9,
+        "reference" : "ChIJsd_w_9tq9YgREI0TT2j9U18",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 40,
+        "vicinity" : "690 North Booth Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.038928,
+              "lng" : -84.530249
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0402644302915,
+                 "lng" : -84.52889706970849
+              },
+              "southwest" : {
+                 "lat" : 34.0375664697085,
+                 "lng" : -84.53159503029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Custom Sailing, Ltd",
+        "place_id" : "ChIJe7CqoVFr9YgRwSg3TWkptdk",
+        "plus_code" : {
+           "compound_code" : "2FQ9+HW Marietta, GA, USA",
+           "global_code" : "866Q2FQ9+HW"
+        },
+        "reference" : "ChIJe7CqoVFr9YgRwSg3TWkptdk",
+        "scope" : "GOOGLE",
+        "types" : [ "travel_agency", "school", "point_of_interest", "establishment" ],
+        "vicinity" : "3595 Canton Road, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0137347,
+              "lng" : -84.5674475
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0150162802915,
+                 "lng" : -84.56600346970849
+              },
+              "southwest" : {
+                 "lat" : 34.01231831970851,
+                 "lng" : -84.5687014302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Arthur Murray Dance Studio",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3142,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111516282606595557182\"\u003eHopedealers Worldwide\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAecmFuWVPDJlHJwkfxBeJ3mYx0EbXHUjkAhH4Cym9evHGcsOsyzQ1Old-y4VvVWDtsFwB9LDLSutz1rxzJ2ARzjbxrSf9FRQubZiqmvHxhNrT1uKHAQNmUfcd9SPhIxiwHwPp8rExNtxAY1cm55VYtOboU57cqSAOGYKQV9DnKUBby",
+              "width" : 2612
+           }
+        ],
+        "place_id" : "ChIJfYylsSEV9YgRg3acxFeUa3M",
+        "plus_code" : {
+           "compound_code" : "2C7M+F2 Kennesaw, GA, USA",
+           "global_code" : "866Q2C7M+F2"
+        },
+        "rating" : 5,
+        "reference" : "ChIJfYylsSEV9YgRg3acxFeUa3M",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 25,
+        "vicinity" : "2615 George Busbee Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0580424,
+              "lng" : -84.6234245
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0595226302915,
+                 "lng" : -84.6219488697085
+              },
+              "southwest" : {
+                 "lat" : 34.0568246697085,
+                 "lng" : -84.62464683029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Baker Elementary School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/118270094445133999660\"\u003eChristopher Jarmal\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECpbPVV-wsUHOOXBNjCPEahr9iIe8ZGSY0wqfxTP5C9ngZtCdazHebJ8rVTziR8OsQotgh-udah3QJoz4yo_Y81loMc2Ff_HmlpuLMwpBNaS3xJfcMwccgemlPm2q0Za_x-PKczR65JnNUca5Mk7OIYe86cXAo6DrgcC4XGcBClJQl7",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJhZjTPxZA9YgRdajc7J6VoAI",
+        "plus_code" : {
+           "compound_code" : "395G+6J Acworth, GA, USA",
+           "global_code" : "866Q395G+6J"
+        },
+        "rating" : 4,
+        "reference" : "ChIJhZjTPxZA9YgRdajc7J6VoAI",
+        "scope" : "GOOGLE",
+        "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 15,
+        "vicinity" : "2361 Baker Road, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0569088,
+              "lng" : -84.5500291
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0585243302915,
+                 "lng" : -84.54867081970849
+              },
+              "southwest" : {
+                 "lat" : 34.0558263697085,
+                 "lng" : -84.55136878029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Shiloh Hills Christian School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110599052988624908683\"\u003eShiloh Hills Christian School\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBQuCSYGA1cAMIdG_amjfW3nixrfygXHNfVO2X_pmNLPOMh_R_2w-RUeSPH86-f7FLYjfECEaQkfRZWIYr_BNIKq6LmGkEdYdNYQZrIwnvB4j2VwR_Aem6QBcWkWeJmrqL_NbZn1rWC4hSW714uL_MYdxn86S8YDkM1i5xeG4weRVBR",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJlehg6hdr9YgR5z7qIw51cks",
+        "plus_code" : {
+           "compound_code" : "3C4X+QX Kennesaw, GA, USA",
+           "global_code" : "866Q3C4X+QX"
+        },
+        "rating" : 5,
+        "reference" : "ChIJlehg6hdr9YgR5z7qIw51cks",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 5,
+        "vicinity" : "260 Hawkins Store Road Northeast, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0964505,
+              "lng" : -84.61209339999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0979620802915,
+                 "lng" : -84.61081311970848
+              },
+              "southwest" : {
+                 "lat" : 34.0952641197085,
+                 "lng" : -84.61351108029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Oak Grove Elementary School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3456,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102673535354233970025\"\u003eThomson M\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC4cIK_q1CniNmF5ZaPW-Q9X3UoRnnNhHk3C8ZXu9GC8UCl6I1YKxOmrsvoG7X2EZU2jysVVZVCiYfP7pyzQQC3rLLZvbJINZVji0C-9-HPPPO2ZmvOEUHZBuLomjr27F_nvEsS8hrRWzc0YLJfD1ifAXMt68DNz4Jv0KhWDxkPGB5e",
+              "width" : 5184
+           }
+        ],
+        "place_id" : "ChIJcQlkB9xB9YgRoFDi8XGsJHg",
+        "plus_code" : {
+           "compound_code" : "39WQ+H5 Acworth, GA, USA",
+           "global_code" : "866Q39WQ+H5"
+        },
+        "rating" : 3.9,
+        "reference" : "ChIJcQlkB9xB9YgRoFDi8XGsJHg",
+        "scope" : "GOOGLE",
+        "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 18,
+        "vicinity" : "6118 Woodstock Road #1727, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.05928129999999,
+              "lng" : -84.65232309999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0605843302915,
+                 "lng" : -84.65120486970848
+              },
+              "southwest" : {
+                 "lat" : 34.0578863697085,
+                 "lng" : -84.6539028302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Barber Middle School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJG-BlUotA9YgRUpjG6h3tV6E",
+        "plus_code" : {
+           "compound_code" : "385X+P3 Acworth, GA, USA",
+           "global_code" : "866Q385X+P3"
+        },
+        "rating" : 2.4,
+        "reference" : "ChIJG-BlUotA9YgRUpjG6h3tV6E",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 56,
+        "vicinity" : "4222 Cantrell Road Northwest, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0452944,
+              "lng" : -84.56144569999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0465907802915,
+                 "lng" : -84.55985921970849
+              },
+              "southwest" : {
+                 "lat" : 34.0438928197085,
+                 "lng" : -84.56255718029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Chalker Elementary School",
+        "place_id" : "ChIJV91jAyVr9YgR_wtahGUQjt4",
+        "plus_code" : {
+           "compound_code" : "2CWQ+4C Kennesaw, GA, USA",
+           "global_code" : "866Q2CWQ+4C"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJV91jAyVr9YgR_wtahGUQjt4",
+        "scope" : "GOOGLE",
+        "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 16,
+        "vicinity" : "325 North Booth Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0881656,
+              "lng" : -84.6417814
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0892018302915,
+                 "lng" : -84.64043526970849
+              },
+              "southwest" : {
+                 "lat" : 34.08650386970851,
+                 "lng" : -84.64313323029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Clark Creek Elementary School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109607317055440730283\"\u003eClark Creek ES STEM\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECZE4aCY2EwQk3FDbrhedNQMoIrV7moKXcceWQi-sVy3j80kx9ha1SdPvmVe0DNt3wTKQ5guiDw9iCCZweWo9ogrdOgUzDmF9dTufPwODd4avewYJ5YA08qmMpIJIPu3S7bBHGi485h1zQV15L482KHuJbWQLvPfbaxs_Bh0EShR51e",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ4S1qOa9B9YgRM4Ul7cmrVCE",
+        "plus_code" : {
+           "compound_code" : "39Q5+77 Acworth, GA, USA",
+           "global_code" : "866Q39Q5+77"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJ4S1qOa9B9YgRM4Ul7cmrVCE",
+        "scope" : "GOOGLE",
+        "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 31,
+        "vicinity" : "3219 Hunt Road, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0884946,
+              "lng" : -84.5988739
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0898245302915,
+                 "lng" : -84.5974178197085
+              },
+              "southwest" : {
+                 "lat" : 34.0871265697085,
+                 "lng" : -84.60011578029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "Furtah Preparatory School",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJVacrXnpq9YgRrBcFduAGXps",
+        "plus_code" : {
+           "compound_code" : "3CQ2+9F Acworth, GA, USA",
+           "global_code" : "866Q3CQ2+9F"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJVacrXnpq9YgRrBcFduAGXps",
+        "scope" : "GOOGLE",
+        "types" : [ "school", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 2,
+        "vicinity" : "5496 Highway 92, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.10748580000001,
+              "lng" : -84.5533774
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.10892733029151,
+                 "lng" : -84.5515844197085
+              },
+              "southwest" : {
+                 "lat" : 34.10622936970851,
+                 "lng" : -84.55428238029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Ken Stanton Music",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3264,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113764862700488808269\"\u003eKen Stanton Music\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBPp9sz9s3tX0ZndGq4TTie1P3QPKglAlcUUrEf2HLm8FPf_m_OCdOYCWOa8NfCbMwCAO2zUUI0Y1pX1TKf3e0zHWJbQ_gMrI4gDX8nM1F0j3g-U7KgqgCHpVVIhNvvN8p0DEYNX2B9HBb93jLwjSV6GDtUHrIDr0kI59eqI1mrMSsE",
+              "width" : 2448
+           }
+        ],
+        "place_id" : "ChIJUXEGf8Vr9YgRl0FGjK2MNfg",
+        "plus_code" : {
+           "compound_code" : "4C4W+XJ Woodstock, GA, USA",
+           "global_code" : "866Q4C4W+XJ"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJUXEGf8Vr9YgRl0FGjK2MNfg",
+        "scope" : "GOOGLE",
+        "types" : [
+           "electronics_store",
+           "home_goods_store",
+           "school",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 30,
+        "vicinity" : "1105 Parkside Lane #1306, Woodstock"
+     },
+     {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0445382,
+            "lng" : -84.6599724
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0459341802915,
+               "lng" : -84.65869376970848
+            },
+            "southwest" : {
+               "lat" : 34.0432362197085,
+               "lng" : -84.66139173029148
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "North Cobb Christian School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 1920,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103950444433559688705\"\u003eNorth Cobb Christian School\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDJA00F7fTh-N9y8WN3Sm9Zz7SCxkeyTczNAOQLQdkzRR2hwb5RqJLTAKSxo-C5NZm3QagZ0858Fs_vGE5hgF6LG_EC6-IOYvSxWq8R31SW18Dawynj-qGKdIcumvPvyPgj5L6I5IkuJTCWIeGomABFc_yR6Lge0WIy2X18Qnjvu2zp",
+            "width" : 2880
+         }
+      ],
+      "place_id" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+      "plus_code" : {
+         "compound_code" : "28VR+R2 Kennesaw, GA, USA",
+         "global_code" : "866Q28VR+R2"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+      "scope" : "GOOGLE",
+      "types" : [
+         "primary_school",
+         "secondary_school",
+         "school",
+         "point_of_interest",
+         "establishment"
+      ],
+      "user_ratings_total" : 18,
+      "vicinity" : "4500 Eagle Drive, Kennesaw"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0580424,
+            "lng" : -84.6234245
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0595226302915,
+               "lng" : -84.6219488697085
+            },
+            "southwest" : {
+               "lat" : 34.0568246697085,
+               "lng" : -84.62464683029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Baker Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118270094445133999660\"\u003eChristopher Jarmal\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA9ZMMTXaAcE2mTpoJPJRRSWm2_coKyYwSduj08ma5yFYkImqWHfeTXWEDqejJR3sVFPvdvePfIh9lctJeuxumaZ5UjT8urG_3fQTy1lJ6ZcLgTgzHyJFJwB9CLsaGEe00U5sK3opE8Xr2ogGJoLq6L-YTvEqE06VCCliaDgYyQoKVv",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJhZjTPxZA9YgRdajc7J6VoAI",
+      "plus_code" : {
+         "compound_code" : "395G+6J Acworth, GA, USA",
+         "global_code" : "866Q395G+6J"
+      },
+      "rating" : 4,
+      "reference" : "ChIJhZjTPxZA9YgRdajc7J6VoAI",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 15,
+      "vicinity" : "2361 Baker Road, Acworth"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0964505,
+            "lng" : -84.61209339999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0979620802915,
+               "lng" : -84.61081311970848
+            },
+            "southwest" : {
+               "lat" : 34.0952641197085,
+               "lng" : -84.61351108029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Oak Grove Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 3456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102673535354233970025\"\u003eThomson M\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDoJRoWYcu7-_mrsCcEo0Zpfat1Zx8sZKt8pTC7Siazk7SesEmQKoD1aSzjuKTSmhL2gZuQcziGUBw2js9jUgXncbkoLPvPsPCkQsrmKsJp0sG846iwswwdMrJi3om57Pr5hy1fhMMr8BGUpN6mqUXXudu5xUNjEHxn3jiY6BMBgYtR",
+            "width" : 5184
+         }
+      ],
+      "place_id" : "ChIJcQlkB9xB9YgRoFDi8XGsJHg",
+      "plus_code" : {
+         "compound_code" : "39WQ+H5 Acworth, GA, USA",
+         "global_code" : "866Q39WQ+H5"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJcQlkB9xB9YgRoFDi8XGsJHg",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 18,
+      "vicinity" : "6118 Woodstock Road #1727, Acworth"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0452944,
+            "lng" : -84.56144569999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0465907802915,
+               "lng" : -84.55985921970849
+            },
+            "southwest" : {
+               "lat" : 34.0438928197085,
+               "lng" : -84.56255718029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Chalker Elementary School",
+      "place_id" : "ChIJV91jAyVr9YgR_wtahGUQjt4",
+      "plus_code" : {
+         "compound_code" : "2CWQ+4C Kennesaw, GA, USA",
+         "global_code" : "866Q2CWQ+4C"
+      },
+      "rating" : 3.7,
+      "reference" : "ChIJV91jAyVr9YgR_wtahGUQjt4",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "325 North Booth Road Northwest, Kennesaw"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0881656,
+            "lng" : -84.6417814
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0892018302915,
+               "lng" : -84.64043526970849
+            },
+            "southwest" : {
+               "lat" : 34.08650386970851,
+               "lng" : -84.64313323029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Clark Creek Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109607317055440730283\"\u003eClark Creek ES STEM\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB4YDXfdSvR3DWpA2ASJoxPzhRMmjFr6yeLWKT2lCTm-A_FLT8ZG0u2USLSU4IHeowt_IFCEEHL4e5WlrHetVE2ccsxVaM62pch97lOLSSZpwTX_WSvTPODNM_BGAqkNpUtMNbR3pfDpI1sSW2WtXlhD6ZLxkFRZwFxMuJSLsES0m78",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJ4S1qOa9B9YgRM4Ul7cmrVCE",
+      "plus_code" : {
+         "compound_code" : "39Q5+77 Acworth, GA, USA",
+         "global_code" : "866Q39Q5+77"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJ4S1qOa9B9YgRM4Ul7cmrVCE",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 31,
+      "vicinity" : "3219 Hunt Road, Acworth"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0322587,
+            "lng" : -84.6285841
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.03360878029149,
+               "lng" : -84.6271265197085
+            },
+            "southwest" : {
+               "lat" : 34.0309108197085,
+               "lng" : -84.62982448029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Kennesaw Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114057233266829448800\"\u003eNathan Crenshaw\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA5D1ZEcyehpnUH-gYLZ4XFIzVafAkLLK856LMSowNUHOQz1q1TIZ13mkybtyVNr32LMad2LY79axHoZ37owmLRS-lKpV7Q3jqogQGYtrW2SbjrqFDKZj1Ij4uyCBg0_x_J3s4gDXVLuI_qIqo-0vl3Nk8XSFvonmIbQmwYFdJqkUzo",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJN9oNFIs_9YgRCu818wuR6V0",
+      "plus_code" : {
+         "compound_code" : "29JC+WH Kennesaw, GA, USA",
+         "global_code" : "866Q29JC+WH"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJN9oNFIs_9YgRCu818wuR6V0",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 13,
+      "vicinity" : "3155 Jiles Road NW, Kennesaw"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0154928,
+            "lng" : -84.5476906
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0164868802915,
+               "lng" : -84.54611866970849
+            },
+            "southwest" : {
+               "lat" : 34.0137889197085,
+               "lng" : -84.5488166302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Bells Ferry Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107300244743938971803\"\u003eCorey Coker\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECYtjlembBo7PdRqzhpE5fwvztK6s4lVTBToA_Q80n2N1wNd_2U-o7aWyKzmSD6X5DEVOGYgO91ayRZHqc90F5jrLtGmaOVzNsEy3pcufKPDV5SJlAEWdtF8e8j0nj5SSfIOteVsTFgEZgbbF7tdwClSezIN2hbZXi2KSBmecmTrZe3",
+            "width" : 5312
+         }
+      ],
+      "place_id" : "ChIJIX5sVcEU9YgRSUut3rk6trE",
+      "plus_code" : {
+         "compound_code" : "2F82+5W Marietta, GA, USA",
+         "global_code" : "866Q2F82+5W"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJIX5sVcEU9YgRSUut3rk6trE",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 16,
+      "vicinity" : "2600 Bells Ferry Road Northeast, Marietta"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0647072,
+            "lng" : -84.6810742
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.06598573029149,
+               "lng" : -84.6798864197085
+            },
+            "southwest" : {
+               "lat" : 34.0632877697085,
+               "lng" : -84.6825843802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Mc Call Primary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113749226473111847574\"\u003eRachel Miller\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECT2rNGtx-W5is5TZr-CXIGD0ge_dW7xy3fcfW9O85X89kCEW2ALDHKuCCeUigNh6OUFS3Ju5byp2-Co0z6fyrdjX2lh6svIplfILuFqGw6BnjuLepoGTzfghambgjREomqs_0Wu-Vx5cGuWfHxufQNxTK9cYX9nD6GgyQzFrWJPYbh",
+            "width" : 4032
+         }
+      ],
+      "place_id" : "ChIJXZy14shA9YgRYLXUmZnqG60",
+      "plus_code" : {
+         "compound_code" : "3879+VH Acworth, GA, USA",
+         "global_code" : "866Q3879+VH"
+      },
+      "rating" : 4.9,
+      "reference" : "ChIJXZy14shA9YgRYLXUmZnqG60",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 13,
+      "vicinity" : "4496 Dixie Avenue, Acworth"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0365586,
+            "lng" : -84.52626289999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0380887802915,
+               "lng" : -84.5249043197085
+            },
+            "southwest" : {
+               "lat" : 34.0353908197085,
+               "lng" : -84.5276022802915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Blackwell Elementary School",
+      "photos" : [
+         {
+            "height" : 1216,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECWZDfUD7SEpWtuubzzcxS8XaLTu3CWohzjkCLuf5jXddaG85R4rrFtz6bb9I5OcIqmfdwrvuH8gWGSGwoJ3PmUeUu0A7xlASswb4hFV4wRwQajNx7M8R-vZY6Nk_iGzr-YGwi3ZV1a-L3CzLqTjpCVnLs8UKNsRBa65brggmBRziEj",
+            "width" : 2151
+         }
+      ],
+      "place_id" : "ChIJGfI1i1Nr9YgRnGq3m9QTP1Q",
+      "plus_code" : {
+         "compound_code" : "2FPF+JF Marietta, GA, USA",
+         "global_code" : "866Q2FPF+JF"
+      },
+      "rating" : 4.6,
+      "reference" : "ChIJGfI1i1Nr9YgRnGq3m9QTP1Q",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 9,
+      "vicinity" : "3470 Canton Road, Marietta"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0278606,
+            "lng" : -84.60033519999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0291589802915,
+               "lng" : -84.59872731970849
+            },
+            "southwest" : {
+               "lat" : 34.0264610197085,
+               "lng" : -84.60142528029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "St Catherine of Siena Catholic School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 2337,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116535677721853563986\"\u003eSt Catherine of Siena Catholic School\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDS1_vvMHDHnz3xMD9vgIo_SrACACA7uCuBNPSL3L6ghRY3nDqiaMd8eYRgFr93EjvC5Q8r0xfUKXl20G29FKC29g0oKN_pbQsIr37Dvb9YOiArdo_FAQYblS9s0hG4WX7MrSDjipZAF230v5J7IPj9nZvdCxB6h4plUE8aFc6WJMYI",
+            "width" : 2588
+         }
+      ],
+      "place_id" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+      "plus_code" : {
+         "compound_code" : "29HX+4V Kennesaw, GA, USA",
+         "global_code" : "866Q29HX+4V"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+      "scope" : "GOOGLE",
+      "types" : [
+         "primary_school",
+         "secondary_school",
+         "school",
+         "point_of_interest",
+         "establishment"
+      ],
+      "user_ratings_total" : 12,
+      "vicinity" : "1618 Ben King Road, Kennesaw"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.0275507,
+            "lng" : -84.59721019999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0290502802915,
+               "lng" : -84.59581161970848
+            },
+            "southwest" : {
+               "lat" : 34.0263523197085,
+               "lng" : -84.59850958029151
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Big Shanty Elementary School",
+      "place_id" : "ChIJ57bSrlYV9YgRjtaTwr5Qg3A",
+      "plus_code" : {
+         "compound_code" : "2CH3+24 Kennesaw, GA, USA",
+         "global_code" : "866Q2CH3+24"
+      },
+      "rating" : 3.6,
+      "reference" : "ChIJ57bSrlYV9YgRjtaTwr5Qg3A",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 12,
+      "vicinity" : "1600 Ben King Road, Kennesaw"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.13100999999999,
+            "lng" : -84.57746639999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.1323759302915,
+               "lng" : -84.57581546970849
+            },
+            "southwest" : {
+               "lat" : 34.1296779697085,
+               "lng" : -84.57851343029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Bascomb Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/100888566303384753909\"\u003eJ Goosen\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEDlw4sqqsoXjEXouE8CS5xUeuAnWLuK34AGC2ck2pTIy0aLAsz5YZAcK20QbOPZSHR-8yYzaGy03-Mv9Py3eY2fLvVu8rKZC1V0pzoFo8dqY2M7y2VHTGzNYCth3k29DPUScrpmJ5r-rHA-5sdvvnblZJxbZF0QOHJxNjUi_3g29nQ6",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJuYyM6ZRp9YgR0VlQ_IGqNq4",
+      "plus_code" : {
+         "compound_code" : "4CJF+C2 Woodstock, GA, USA",
+         "global_code" : "866Q4CJF+C2"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJuYyM6ZRp9YgR0VlQ_IGqNq4",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 7,
+      "vicinity" : "1335 Wyngate Parkway #6646, Woodstock"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.09685049999999,
+            "lng" : -84.57005610000002
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.0982713302915,
+               "lng" : -84.56854946970851
+            },
+            "southwest" : {
+               "lat" : 34.0955733697085,
+               "lng" : -84.57124743029152
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Carmel Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAWj34uaxNtu528eY7FFPBUYMmWHLbKGrqs-Wg2u8XXMcTx1sNX371kYzXJEszdu-8Mcs2YDq2rKU7CH23Yk0bCZQ_rk0G65P2hgIyClyMmXtSh0oQJq0Bur4sFyMsRtL8gJ65_i90p5Ppnr9DSTGjsP_ZV-cq7jWN7OLKkYiCr034x",
+            "width" : 5312
+         }
+      ],
+      "place_id" : "ChIJ_bi_OUpq9YgR9-e52zR2OAM",
+      "plus_code" : {
+         "compound_code" : "3CWH+PX Woodstock, GA, USA",
+         "global_code" : "866Q3CWH+PX"
+      },
+      "rating" : 4.2,
+      "reference" : "ChIJ_bi_OUpq9YgR9-e52zR2OAM",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 17,
+      "vicinity" : "2275 Bascomb Carmel Road, Woodstock"
+   },
+   {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+         "location" : {
+            "lat" : 34.1303836,
+            "lng" : -84.59004299999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 34.1315955802915,
+               "lng" : -84.58852936970848
+            },
+            "southwest" : {
+               "lat" : 34.1288976197085,
+               "lng" : -84.59122733029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+      "icon_background_color" : "#7B9EB0",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+      "name" : "Boston Elementary School",
+      "opening_hours" : {
+         "open_now" : false
+      },
+      "photos" : [
+         {
+            "height" : 2048,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109069303859675458574\"\u003eValerie Lowery\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA5E7s_3hucRejQZFLvIvWchAw-dYMhYYpd6xWZHU-3btq1-RjqKQ6undu_Mb6rsEwncqVRcutYPzXrPeLwk1Qw1XRXiGrq0oa_LTtC1TTeRAMqLruAcqfoNBU_urk0uiaj_08eFhQiyof8HxwqG4WUMLWSEmEMTxsIu6ad0lFjjc2H",
+            "width" : 1536
+         }
+      ],
+      "place_id" : "ChIJHfkQ3PNp9YgRy8cmgMIdZjk",
+      "plus_code" : {
+         "compound_code" : "4CJ5+5X Woodstock, GA, USA",
+         "global_code" : "866Q4CJ5+5X"
+      },
+      "rating" : 4,
+      "reference" : "ChIJHfkQ3PNp9YgRy8cmgMIdZjk",
+      "scope" : "GOOGLE",
+      "types" : [ "primary_school", "school", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 11,
+      "vicinity" : "105 Othello Drive, Woodstock"
+   },
+   {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.1161551,
+          "lng" : -84.56422889999999
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.11737968029149,
+             "lng" : -84.56300816970848
+          },
+          "southwest" : {
+             "lat" : 34.11468171970849,
+             "lng" : -84.5657061302915
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Etowah High School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2268,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/113168778730340440968\"\u003eMichael Dumo\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEDo8MnaaJvjIYXyS4nqSb0jlHtThwHT0LHM2gneyNkkiPzCnRuVAz_5UW2ALmCyykauYDi4AI5zSWwRbYDQfkgor7FBHgjhc4d9VUWlX-FjLW3juP33QUgg9s0yD1sCs803v82Q7c7zcwsjQK0GxVdhzu85UPOLV9f56lReUQfYNfBw",
+          "width" : 4032
+       }
+    ],
+    "place_id" : "ChIJ3xctpSxq9YgR1FTEhdlAiT4",
+    "plus_code" : {
+       "compound_code" : "4C8P+F8 Woodstock, GA, USA",
+       "global_code" : "866Q4C8P+F8"
+    },
+    "rating" : 3.9,
+    "reference" : "ChIJ3xctpSxq9YgR1FTEhdlAiT4",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 63,
+    "vicinity" : "1501, 6565 Putnam Ford Drive, Woodstock"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0401304,
+          "lng" : -84.64859829999999
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.04118809999999,
+             "lng" : -84.64518145000004
+          },
+          "southwest" : {
+             "lat" : 34.03789489999999,
+             "lng" : -84.65002884999998
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "North Cobb High School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2340,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/102123878554807918820\"\u003eValeria Pugliesi Washington\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uECZkeDGB2lwmK6zrscUxJIppxTy3-ps44Zu6Ml4boqAR0f4-WN_uftNNckY5SmQPFN4gk4m2BpvpOBEYZx3lqwCyX6mrUGWh4e5cmy3xZofHG6Xx4s8-kMCv0HavutwlivBdaEAIMdR9kwHUydVyKUtV8I98lKy3gsP8xKbuGEtYdTD",
+          "width" : 4160
+       }
+    ],
+    "place_id" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+    "plus_code" : {
+       "compound_code" : "29R2+3H Kennesaw, GA, USA",
+       "global_code" : "866Q29R2+3H"
+    },
+    "rating" : 3.7,
+    "reference" : "ChIJkeFhiX9A9YgRkuFRJn2gC3Y",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 47,
+    "vicinity" : "3400 Old 41 Highway Northwest, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.1017764,
+          "lng" : -84.5426837
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.1031253802915,
+             "lng" : -84.5413347197085
+          },
+          "southwest" : {
+             "lat" : 34.1004274197085,
+             "lng" : -84.54403268029151
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Woodstock High School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 3563,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/101883421037698111063\"\u003eMark Smith\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEBk3zcDqD4PhFieAlNtYvlaRSomx8HY3YEME9pQDHEcgmGqRXYNu-TAQwjNEa0OTk3Ped8mSu6HaLxBrNs7GGg_EwiS4bWo9qpUDjc2iji6sa-d6YBVQh_wRv3k-YFf_rf_BtrrOmBP2ojR3JRFvmFgf3myfibSxeJsAJdZpeNs3W48",
+          "width" : 5760
+       }
+    ],
+    "place_id" : "ChIJOXAsgOpr9YgRtMD_aL0RBVk",
+    "plus_code" : {
+       "compound_code" : "4F24+PW Woodstock, GA, USA",
+       "global_code" : "866Q4F24+PW"
+    },
+    "rating" : 3.5,
+    "reference" : "ChIJOXAsgOpr9YgRtMD_aL0RBVk",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 40,
+    "vicinity" : "2010 Towne Lake Hills South Drive, Woodstock"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 33.9996861,
+          "lng" : -84.6246127
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0011691802915,
+             "lng" : -84.6232752697085
+          },
+          "southwest" : {
+             "lat" : 33.9984712197085,
+             "lng" : -84.62597323029151
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Kennesaw Mountain High School",
+    "place_id" : "ChIJaUZZW8g_9YgRLcNwTtkjuSE",
+    "plus_code" : {
+       "compound_code" : "X9XG+V5 Kennesaw, GA, USA",
+       "global_code" : "865QX9XG+V5"
+    },
+    "rating" : 3.8,
+    "reference" : "ChIJaUZZW8g_9YgRLcNwTtkjuSE",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 21,
+    "vicinity" : "1898 Kennesaw Due West Road Northwest, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0445382,
+          "lng" : -84.6599724
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0459341802915,
+             "lng" : -84.65869376970848
+          },
+          "southwest" : {
+             "lat" : 34.0432362197085,
+             "lng" : -84.66139173029148
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "North Cobb Christian School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 1920,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/103950444433559688705\"\u003eNorth Cobb Christian School\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEB3wfusMyAsW7vNZd3ldkn66outQ7K4ptKxV6u3agPk83IEPQr_vgSEVv2hEGdEPVoPTlH0dx2-ei9ZKw9QdthFujgPyDW8ZQkjXq3fV9YsdX2Pm8WnYmIf3QZP7qeM3tr7RDtBDdVyUNVKTp2J_2wkI5G7p0JhM_Sws2cPVyOKaaOI",
+          "width" : 2880
+       }
+    ],
+    "place_id" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+    "plus_code" : {
+       "compound_code" : "28VR+R2 Kennesaw, GA, USA",
+       "global_code" : "866Q28VR+R2"
+    },
+    "rating" : 4.6,
+    "reference" : "ChIJzSknGJtA9YgRuSrUmIfmfyg",
+    "scope" : "GOOGLE",
+    "types" : [
+       "primary_school",
+       "secondary_school",
+       "school",
+       "point_of_interest",
+       "establishment"
+    ],
+    "user_ratings_total" : 18,
+    "vicinity" : "4500 Eagle Drive, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0420693,
+          "lng" : -84.6471391
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0433693802915,
+             "lng" : -84.64578366970851
+          },
+          "southwest" : {
+             "lat" : 34.0406714197085,
+             "lng" : -84.64848163029151
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Awtrey Middle School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "place_id" : "ChIJtWMFb35A9YgRMV_5vuLi0bE",
+    "plus_code" : {
+       "compound_code" : "29R3+R4 Kennesaw, GA, USA",
+       "global_code" : "866Q29R3+R4"
+    },
+    "rating" : 2.6,
+    "reference" : "ChIJtWMFb35A9YgRMV_5vuLi0bE",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 82,
+    "vicinity" : "3601 Nowlin Road, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.1182023,
+          "lng" : -84.5614731
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.11923678029149,
+             "lng" : -84.56013326970849
+          },
+          "southwest" : {
+             "lat" : 34.1165388197085,
+             "lng" : -84.56283123029151
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "E. T. Booth Middle School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2304,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/102673535354233970025\"\u003eThomson M\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEAGJWSd3-SQLUEqvVbgf_OV9l45VZWwYlpNdQ-4srEkSxVGenYbdYGwlOvm6waPmahPx0E1r3R9QSYBCTnGRlpf4hPvpxRWy9AzTFeZD0f-D4lz1p4maypBAAO8s8GD0C38_zIbelHdUQoNBZU9oXY3vghDDkLgGtHKoIgS2vhuSRhT",
+          "width" : 3456
+       }
+    ],
+    "place_id" : "ChIJdZ9zCNNr9YgRb2TzEPUM4Tk",
+    "plus_code" : {
+       "compound_code" : "4C9Q+7C Woodstock, GA, USA",
+       "global_code" : "866Q4C9Q+7C"
+    },
+    "rating" : 2.6,
+    "reference" : "ChIJdZ9zCNNr9YgRb2TzEPUM4Tk",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 67,
+    "vicinity" : "6550 Putnam Ford Drive, Woodstock"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.1005048,
+          "lng" : -84.53988079999999
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.1018830302915,
+             "lng" : -84.53898071970848
+          },
+          "southwest" : {
+             "lat" : 34.0991850697085,
+             "lng" : -84.54167868029148
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Woodstock Middle School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 344,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/116142530874867319907\"\u003eBarbara Jacoby\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEC-GBzcAuxSJM0KjYvMfl2kwwMOzL4tyrgXnR-Zs1FJuWGqUE-b5EAeHCORNg0F53N8oT_GMTIm6uExCyFHf7YlNnl2jH7kt0JoHbTMEs7ZSxpmt-ZzQtfNGaRevyVrqTdMkukATZzA8_SjS3ipNFa_Y3x9gX5wR_hdORE2JgOFBVR6",
+          "width" : 460
+       }
+    ],
+    "place_id" : "ChIJx67j1MVr9YgR5LggAnTALqw",
+    "plus_code" : {
+       "compound_code" : "4F26+62 Woodstock, GA, USA",
+       "global_code" : "866Q4F26+62"
+    },
+    "rating" : 4.1,
+    "reference" : "ChIJx67j1MVr9YgR5LggAnTALqw",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 19,
+    "vicinity" : "5288, 2000 Towne Lake Hills South Drive, Woodstock"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0214182,
+          "lng" : -84.5322857
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0227585802915,
+             "lng" : -84.5309743697085
+          },
+          "southwest" : {
+             "lat" : 34.0200606197085,
+             "lng" : -84.53367233029151
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Daniell Middle School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2340,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/107300244743938971803\"\u003eCorey Coker\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEB_wFbyGKoNrL0KFSUUuOypeDUh0kKVpDrO9jNBLxBCHe-N-G_Ehkwn3ZPVdgjiMvGRcQ_-79jK4PguAITWq43Gz52_YDpKFxyKl3iM8y7hIwSXnzGZBi7nrLZTc84b62gI_8Flu3spwYcX5XR8kE3fw9lhhHDKELWUYhm2gq_a95Y0",
+          "width" : 4160
+       }
+    ],
+    "place_id" : "ChIJO7klS6UU9YgRfoFqAA2tBto",
+    "plus_code" : {
+       "compound_code" : "2FC9+H3 Marietta, GA, USA",
+       "global_code" : "866Q2FC9+H3"
+    },
+    "rating" : 2.7,
+    "reference" : "ChIJO7klS6UU9YgRfoFqAA2tBto",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 68,
+    "vicinity" : "2900 Scott Road, Marietta"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0278606,
+          "lng" : -84.60033519999999
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0291589802915,
+             "lng" : -84.59872731970849
+          },
+          "southwest" : {
+             "lat" : 34.0264610197085,
+             "lng" : -84.60142528029149
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "St Catherine of Siena Catholic School",
+    "opening_hours" : {
+       "open_now" : false
+    },
+    "photos" : [
+       {
+          "height" : 2337,
+          "html_attributions" : [
+             "\u003ca href=\"https://maps.google.com/maps/contrib/116535677721853563986\"\u003eSt Catherine of Siena Catholic School\u003c/a\u003e"
+          ],
+          "photo_reference" : "Aap_uEA5XfkBVHXB3r8DNkIn-p0GUGYLd7Fega6GHtiAIkiG31zxiyhJvCHx_DOClNJ1mHdTCWwelHc_C6OJSjQsobpDHwHlsMaOuNaygl7-P5JTJeXBO78MaWbIfm38rh8OstHwbRWZYPBNEMjFL0kWfTxCiTYjssvTeP_btTj6lL3T21fY",
+          "width" : 2588
+       }
+    ],
+    "place_id" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+    "plus_code" : {
+       "compound_code" : "29HX+4V Kennesaw, GA, USA",
+       "global_code" : "866Q29HX+4V"
+    },
+    "rating" : 4.4,
+    "reference" : "ChIJ1bnSrlYV9YgRcyCCYiIjHZo",
+    "scope" : "GOOGLE",
+    "types" : [
+       "primary_school",
+       "secondary_school",
+       "school",
+       "point_of_interest",
+       "establishment"
+    ],
+    "user_ratings_total" : 12,
+    "vicinity" : "1618 Ben King Road, Kennesaw"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.1131346,
+          "lng" : -84.5616603
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.1144835802915,
+             "lng" : -84.56031131970849
+          },
+          "southwest" : {
+             "lat" : 34.1117856197085,
+             "lng" : -84.56300928029151
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Etowah East Campus",
+    "place_id" : "ChIJR8lV-NJr9YgRyjIJFhZOJP4",
+    "plus_code" : {
+       "compound_code" : "4C7Q+78 Woodstock, GA, USA",
+       "global_code" : "866Q4C7Q+78"
+    },
+    "rating" : 3.7,
+    "reference" : "ChIJR8lV-NJr9YgRyjIJFhZOJP4",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "user_ratings_total" : 3,
+    "vicinity" : "6500 Putnam Ford Drive, Woodstock"
+ },
+ {
+    "business_status" : "OPERATIONAL",
+    "geometry" : {
+       "location" : {
+          "lat" : 34.0730528,
+          "lng" : -84.6060653
+       },
+       "viewport" : {
+          "northeast" : {
+             "lat" : 34.0743118802915,
+             "lng" : -84.60470996970851
+          },
+          "southwest" : {
+             "lat" : 34.0716139197085,
+             "lng" : -84.60740793029152
+          }
+       }
+    },
+    "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+    "icon_background_color" : "#7B9EB0",
+    "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+    "name" : "Woodstock high school",
+    "place_id" : "ChIJ1eYXwt9B9YgR4Da8zYtpcXM",
+    "plus_code" : {
+       "compound_code" : "39FV+6H Acworth, GA, USA",
+       "global_code" : "866Q39FV+6H"
+    },
+    "reference" : "ChIJ1eYXwt9B9YgR4Da8zYtpcXM",
+    "scope" : "GOOGLE",
+    "types" : [ "secondary_school", "school", "point_of_interest", "establishment" ],
+    "vicinity" : "4853 Wilkie Way Northwest, Acworth"
+ },
+ {
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0405849,
+        "lng" : -84.5816899
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0419393802915,
+           "lng" : -84.58014391970849
+        },
+        "southwest" : {
+           "lat" : 34.0392414197085,
+           "lng" : -84.5828418802915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Wellstar College of Health and Human Services",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 3374,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/101983947954270978240\"\u003eWellstar College of Health and Human Services\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBrkQjQdTn-MQFXOtdavh-mZUlIV_Y2zmVFNHUdMAzookq2g1dVfUvtEtJAE4-Is_NamRcqCjRUo_QnwaPDZ_-UD2IqaWKEsAXy-FA5r6GEIwmJW0OuPkBj-kVTM4ywhMiR9WkGSmjbXx_OuGAq3azWOT8Hi6PisvS61EKlMcoOf8l5",
+        "width" : 5055
+     }
+  ],
+  "place_id" : "ChIJHy3mcslq9YgRnxyMoNXUw38",
+  "plus_code" : {
+     "compound_code" : "2CR9+68 Kennesaw, GA, USA",
+     "global_code" : "866Q2CR9+68"
+  },
+  "rating" : 4.8,
+  "reference" : "ChIJHy3mcslq9YgRnxyMoNXUw38",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 4,
+  "vicinity" : "520 Parliament Garden Way Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0429495,
+        "lng" : -84.5298779
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0442520302915,
+           "lng" : -84.52851986970849
+        },
+        "southwest" : {
+           "lat" : 34.0415540697085,
+           "lng" : -84.5312178302915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Dental Careers Institute",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 834,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/117086651541642848087\"\u003eDental Careers Institute\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBJx_lTZFzEsFBF0RkMx4wy5fUUNGgXgwZCkQbDxi60eY2T1utGHcyPwoaPcsUnUaUGviQSHBDZFd5PVviwUzrXKmb2Bzj8RGfdm_kn5ZyM51bbfe9AR4Wv41l89onIcxfYvbmS0F7aJKgtWk54TfzLQUxTu1CxwCdvqigV5_gjR-80",
+        "width" : 1484
+     }
+  ],
+  "place_id" : "ChIJnaTIM38S9YgRHTP2zeDXRN4",
+  "plus_code" : {
+     "compound_code" : "2FVC+52 Marietta, GA, USA",
+     "global_code" : "866Q2FVC+52"
+  },
+  "rating" : 4.8,
+  "reference" : "ChIJnaTIM38S9YgRHTP2zeDXRN4",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "health", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 48,
+  "vicinity" : "3735 Canton Road, Marietta"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.030656,
+        "lng" : -84.574685
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0324828302915,
+           "lng" : -84.57354236970851
+        },
+        "southwest" : {
+           "lat" : 34.0297848697085,
+           "lng" : -84.57624033029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "AL Burruss Institute of Public Service and Research",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "place_id" : "ChIJK1SzeDIV9YgRgsXa985tl4Q",
+  "plus_code" : {
+     "compound_code" : "2CJG+74 Kennesaw, GA, USA",
+     "global_code" : "866Q2CJG+74"
+  },
+  "reference" : "ChIJK1SzeDIV9YgRgsXa985tl4Q",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "vicinity" : "3333 Busbee Drive Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0388,
+        "lng" : -84.585628
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0404141302915,
+           "lng" : -84.5843825197085
+        },
+        "southwest" : {
+           "lat" : 34.0377161697085,
+           "lng" : -84.5870804802915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "MA in American Studies Program",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 392,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/104100604098603374736\"\u003eMA in American Studies Program\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEB_qqnxuloJGd-G2C4VwqD4VSEqe6a9u7ia32jgMI4_ROeGfCKLcD2NYSfDRVf-Ce1hkAtc8Uk1CmmKdKBCz-srOH6bwfFkwX0MN0dw2dn_kmf-k2AXiafaL9ZpyAuaByNfm8YNBf4cLtLnWOCNEUjJyGwsj0OAQ75gftvlYuJZx26d",
+        "width" : 694
+     }
+  ],
+  "place_id" : "ChIJR--F8bVq9YgR-TjMwTTzs4A",
+  "plus_code" : {
+     "compound_code" : "2CQ7+GP Kennesaw, GA, USA",
+     "global_code" : "866Q2CQ7+GP"
+  },
+  "rating" : 5,
+  "reference" : "ChIJR--F8bVq9YgR-TjMwTTzs4A",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 1,
+  "vicinity" : "402 Bartow Avenue Ste. 2019, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0157368,
+        "lng" : -84.6012205
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0170861302915,
+           "lng" : -84.59996061970848
+        },
+        "southwest" : {
+           "lat" : 34.0143881697085,
+           "lng" : -84.60265858029149
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "ATP Flight School",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 1195,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/107371034833089336322\"\u003eATP Flight School\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEDFJDE4JlVI30Qh_BRES0aDZaou0WEN0HR_y6w9EGlC7_bVTZbh4IqtVSehlqsg2NV_2hz8S9nQoiS17YRssAwZW6zd2e7WgdzLNFxM0gNOUPIthEvEyAuJJEwlTaoajD8HItKiIscnTlT6lECK9O2kJ34sLK3lWw3H5FOnKSBneNA5",
+        "width" : 2119
+     }
+  ],
+  "place_id" : "ChIJI9eMKFwV9YgRyUiJ4ura3Lk",
+  "plus_code" : {
+     "compound_code" : "298X+7G Kennesaw, GA, USA",
+     "global_code" : "866Q298X+7G"
+  },
+  "rating" : 5,
+  "reference" : "ChIJI9eMKFwV9YgRyUiJ4ura3Lk",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 3,
+  "vicinity" : "1723 McCollum Parkway NW Hangar 410, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0401573,
+        "lng" : -84.58506009999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0413158302915,
+           "lng" : -84.5836031697085
+        },
+        "southwest" : {
+           "lat" : 34.0386178697085,
+           "lng" : -84.5863011302915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Kennesaw State University College of the Arts",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 720,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/110236029484302801845\"\u003eKennesaw State University College of the Arts\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEC_HqmEX5tRlD3bsW6cfIT_EUnFPKaI9UiatiOWMurq66bLSaYZfgD4GbkPBMTgMSpOR3REIFcmveOrZ9_6-5ZtVIGkSGH30QYYMqscpeUoXJjUjxdw4YVXnBUAPd8zWrQaEUCTO0d-jNAWD4wu2-9ZShhwtgJ3FN9LsMS8my6KaVdV",
+        "width" : 1080
+     }
+  ],
+  "place_id" : "ChIJD6iBAbZq9YgR7soFiSZJV1c",
+  "plus_code" : {
+     "compound_code" : "2CR7+3X Kennesaw, GA, USA",
+     "global_code" : "866Q2CR7+3X"
+  },
+  "reference" : "ChIJD6iBAbZq9YgR7soFiSZJV1c",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "vicinity" : "471 Bartow Avenue NW, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0165525,
+        "lng" : -84.600115
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.01790203029149,
+           "lng" : -84.59889226970849
+        },
+        "southwest" : {
+           "lat" : 34.0152040697085,
+           "lng" : -84.60159023029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Atlanta Air Academy",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 4160,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/100543586126948585731\"\u003eJamel Patterson\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEDrPeGldh_OPmrTt1iQje3bSwbivZSPtrWMJRRhK1e--aDrg7Sk-1azu9jusHcQPXZAtUfbw9cAxe_4mEJ96f4_-c0w2N2RRmOnD-g44SO5iVmCE_iEdWgXp0-0C3QX1J_KLkTFZCZzy3RtRX1BgQPr6TMCPubnh4Ayfue3gvxfPodh",
+        "width" : 3120
+     }
+  ],
+  "place_id" : "ChIJdeS6PFwV9YgRi5rgcxh1uuA",
+  "plus_code" : {
+     "compound_code" : "298X+JX Kennesaw, GA, USA",
+     "global_code" : "866Q298X+JX"
+  },
+  "rating" : 5,
+  "reference" : "ChIJdeS6PFwV9YgRi5rgcxh1uuA",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 3,
+  "vicinity" : "Cobb County International Airport (KRYY) 1723 McCollum Pkwy NW Hangar 300, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.017296,
+        "lng" : -84.61449999999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0185021802915,
+           "lng" : -84.6128522697085
+        },
+        "southwest" : {
+           "lat" : 34.0158042197085,
+           "lng" : -84.61555023029152
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color" : "#4B96F3",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "name" : "RushCube",
+  "opening_hours" : {
+     "open_now" : true
+  },
+  "photos" : [
+     {
+        "height" : 600,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/107258019347422043091\"\u003eRush Cube\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEANvkOwzhY9TgUITDvPo5vuYCBQfnbYqQhGOQ4sstppfIGd-ZHfZX3vGRZn1MRypJqSYT2-SmLXWEfEDaz8CsuWbm1U71ND8bNwI9KFv5_pTpbiQPvcz851_KABRrZglrz8duEfqvwCP2TtiAAcUZLLNU0GblBGzQ3zF5wxHHQsf_Dv",
+        "width" : 900
+     }
+  ],
+  "place_id" : "ChIJwYV8t-c_9YgRjKDmHizGWAo",
+  "plus_code" : {
+     "compound_code" : "298P+W6 Kennesaw, GA, USA",
+     "global_code" : "866Q298P+W6"
+  },
+  "rating" : 4.7,
+  "reference" : "ChIJwYV8t-c_9YgRjKDmHizGWAo",
+  "scope" : "GOOGLE",
+  "types" : [
+     "travel_agency",
+     "university",
+     "point_of_interest",
+     "store",
+     "establishment"
+  ],
+  "user_ratings_total" : 1099,
+  "vicinity" : "2601 Summers Street, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0068453,
+        "lng" : -84.5951271
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0081103802915,
+           "lng" : -84.59388046970849
+        },
+        "southwest" : {
+           "lat" : 34.0054124197085,
+           "lng" : -84.5965784302915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "SimTrain, LLC",
+  "photos" : [
+     {
+        "height" : 630,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/115321653198211624230\"\u003eSimTrain, LLC\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEA1ijODoc8Iepjq5Syt4OpS6LrI1pVu1EEY9ad8UxPHI_K5F14PZF43q34rD_8NhNyC0ivay3Np63qDj5YoMA5Mucc_zwIsoBcxsmXxrCZ4oltBYy3DVKxB6YuiltjB-EOtSdMZNMZWn0YCjkQ4uw4KAPfkZm85jLMZkJnz1LkSjW1z",
+        "width" : 952
+     }
+  ],
+  "place_id" : "ChIJX5-E_2UV9YgR0IVA0oHiOG8",
+  "plus_code" : {
+     "compound_code" : "2C43+PW Kennesaw, GA, USA",
+     "global_code" : "866Q2C43+PW"
+  },
+  "reference" : "ChIJX5-E_2UV9YgR0IVA0oHiOG8",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "vicinity" : "2121 Barrett Park Drive, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.11584680000001,
+        "lng" : -84.6387172
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.11706948029151,
+           "lng" : -84.63736611970849
+        },
+        "southwest" : {
+           "lat" : 34.11437151970851,
+           "lng" : -84.64006408029149
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Learn To Win Trading LLC",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "place_id" : "ChIJrxH0V4VB9YgRhYkaJt6GwoY",
+  "plus_code" : {
+     "compound_code" : "4986+8G Acworth, GA, USA",
+     "global_code" : "866Q4986+8G"
+  },
+  "reference" : "ChIJrxH0V4VB9YgRhYkaJt6GwoY",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "vicinity" : "3032 Cedar Mill Crossing, Acworth"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0843585,
+        "lng" : -84.67043830000001
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0853135302915,
+           "lng" : -84.66864685
+        },
+        "southwest" : {
+           "lat" : 34.0826155697085,
+           "lng" : -84.67215064999999
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Chattahoochee Technical College",
+  "photos" : [
+     {
+        "height" : 2268,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/105182994868321420879\"\u003eAshleigh D.\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECy8aU-fVgquYEnSNnxzvu1Z6-MxxKKR2v78QiJ5fR1eUdnMiTnQS_HipZYI2vo93fDmb6RYVmhkeY8nIqoOFR7BK7dmXBoWTGkS4pL57OfX6HvLSo0BMTDS47UcSZqkkCDznheh9HqfAU7LgyshBTW-i9dmHPY7UgWrOn6cqL0tFX9",
+        "width" : 4032
+     }
+  ],
+  "place_id" : "ChIJSytyRiBB9YgRWTkBdQhvaZ8",
+  "plus_code" : {
+     "compound_code" : "38MH+PR Acworth, GA, USA",
+     "global_code" : "866Q38MH+PR"
+  },
+  "rating" : 4,
+  "reference" : "ChIJSytyRiBB9YgRWTkBdQhvaZ8",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 58,
+  "vicinity" : "5198 Ross Road, Acworth"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0165525,
+        "lng" : -84.600115
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.01790203029149,
+           "lng" : -84.59889226970849
+        },
+        "southwest" : {
+           "lat" : 34.0152040697085,
+           "lng" : -84.60159023029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Aero Atlanta Flight Center",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 400,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/103029641747579591440\"\u003eAero Atlanta Flight Center\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBQn5hPedq5DDQQzZPFWtb_NhebGs-5khbVpi8ibC7sUNdLOEKimG9fKOlLj3abXpjy4Icw4oDVkM7WnJdERYhh6DE6vojei240ntIm0o6R1aiB_hLN5cRRBrKjn8P6rhrld7OPz_GvWrb199A_4zuGe-jSypPsJCQt89wfYGkxrbId",
+        "width" : 600
+     }
+  ],
+  "place_id" : "ChIJ90g0fF4V9YgRi_InqJYe6Fw",
+  "plus_code" : {
+     "compound_code" : "298X+JX Kennesaw, GA, USA",
+     "global_code" : "866Q298X+JX"
+  },
+  "rating" : 4.8,
+  "reference" : "ChIJ90g0fF4V9YgRi_InqJYe6Fw",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 18,
+  "vicinity" : "2600 Cirrus Way Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.010968,
+        "lng" : -84.60162919999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.01211558029149,
+           "lng" : -84.60028596970849
+        },
+        "southwest" : {
+           "lat" : 34.00941761970849,
+           "lng" : -84.6029839302915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Superior Flight School Inc",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 683,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/114755893502565711447\"\u003eSuperior Flight School Inc\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uED3lMramVIXh20EA6VBF72zk_LYO2gKfv9ygRZH7v4f5Z5bIh1Znda8szLUtLLOndJbcPcvr-VvrZ2JpydGArVjjhe6dXoGQ3k-qR7tnzivQswBtelO9O4tuRTyzYbB68k-ghCl_P4sDnfmjrb8h6a2T9jbrhH2_FD2x5a1bHhzdap5",
+        "width" : 1024
+     }
+  ],
+  "place_id" : "ChIJ-9Hdp2cV9YgRhurX7nCtcv4",
+  "plus_code" : {
+     "compound_code" : "296X+98 Kennesaw, GA, USA",
+     "global_code" : "866Q296X+98"
+  },
+  "rating" : 3.5,
+  "reference" : "ChIJ-9Hdp2cV9YgRhurX7nCtcv4",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 34,
+  "vicinity" : "1800 Airport Road NW, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.03817850000001,
+        "lng" : -84.58267119999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.05169119999999,
+           "lng" : -84.57484674999999
+        },
+        "southwest" : {
+           "lat" : 34.01873440000001,
+           "lng" : -84.58980575000004
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Kennesaw State University",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 2240,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/109943815776411610665\"\u003eKennesaw State University\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECXxrFBTKPyW257EpBLKh1FrR2ImmvfGZ1bnvOkpOLXsPrUMaUj8yPEzogn1FFAYd1o8iF1DCN2o11JIzAER4Z5NsR89VuruPt_t33MGJOH2txRJoyGGE4JeQ251nvEERNZImo3LZq_08nZzEzcZfY35GlD0CHFJlNpz25AeZqgZvBW",
+        "width" : 3360
+     }
+  ],
+  "place_id" : "ChIJU-VAr9Jq9YgR0MgJ0smjln8",
+  "plus_code" : {
+     "compound_code" : "2CQ8+7W Kennesaw, GA, USA",
+     "global_code" : "866Q2CQ8+7W"
+  },
+  "rating" : 3.5,
+  "reference" : "ChIJU-VAr9Jq9YgR0MgJ0smjln8",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 293,
+  "vicinity" : "1000 Chastain Road Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0606519,
+        "lng" : -84.58991309999999
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0619250302915,
+           "lng" : -84.58861066970849
+        },
+        "southwest" : {
+           "lat" : 34.0592270697085,
+           "lng" : -84.59130863029149
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "OceanPointe Dental Assisting Academy NE Atlanta",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 2000,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/103268279503113767036\"\u003eOceanPointe Dental Assisting Academy NE Atlanta\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uECXsIHfQMY3WVhVsfbg2Lof0TaAYFwPRzgK3NX3fKxPfcd4qaHbGosHAoREXKyC1Jjx4dR1XlYXpNZGTJ-Yz_mlycBwBjz-lHtfLXEyict7PEPjzwjWlcW04MF4gmY56PaLy0OQjiNr6bmewcQ7Vco2i8rBMUFXfMSz_yXBxP-Ovgci",
+        "width" : 3000
+     }
+  ],
+  "place_id" : "ChIJ_YUuwutr9YgRbmojxZwHda4",
+  "plus_code" : {
+     "compound_code" : "3C66+72 Kennesaw, GA, USA",
+     "global_code" : "866Q3C66+72"
+  },
+  "reference" : "ChIJ_YUuwutr9YgRbmojxZwHda4",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "health", "point_of_interest", "establishment" ],
+  "vicinity" : "1350 Wooten Lake Road Northwest #203, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0431653,
+        "lng" : -84.5848721
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0446137802915,
+           "lng" : -84.5835186697085
+        },
+        "southwest" : {
+           "lat" : 34.0419158197085,
+           "lng" : -84.5862166302915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Technology Services",
+  "place_id" : "ChIJ10_rKMhq9YgR0VWb1N-s6z8",
+  "plus_code" : {
+     "compound_code" : "2CV8+73 Kennesaw, GA, USA",
+     "global_code" : "866Q2CV8+73"
+  },
+  "reference" : "ChIJ10_rKMhq9YgR0VWb1N-s6z8",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "vicinity" : "Campus Services, 1075 Canton Place Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.04035020000001,
+        "lng" : -84.5822598
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0417007802915,
+           "lng" : -84.5810445697085
+        },
+        "southwest" : {
+           "lat" : 34.03900281970851,
+           "lng" : -84.5837425302915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Student Culinary Center",
+  "place_id" : "ChIJp0qQk4hr9YgRpVrwrl5irs0",
+  "plus_code" : {
+     "compound_code" : "2CR9+43 Kennesaw, GA, USA",
+     "global_code" : "866Q2CR9+43"
+  },
+  "reference" : "ChIJp0qQk4hr9YgRpVrwrl5irs0",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "vicinity" : "520 Owl Drive, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0388409,
+        "lng" : -84.5841587
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0402536302915,
+           "lng" : -84.58253906970849
+        },
+        "southwest" : {
+           "lat" : 34.0375556697085,
+           "lng" : -84.58523703029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Kennesaw State University College",
+  "place_id" : "ChIJ7-gVKjtr9YgRZUNMfXqYVJQ",
+  "plus_code" : {
+     "compound_code" : "2CQ8+G8 Kennesaw, GA, USA",
+     "global_code" : "866Q2CQ8+G8"
+  },
+  "reference" : "ChIJ7-gVKjtr9YgRZUNMfXqYVJQ",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "vicinity" : "Kennesaw State University, 430 Bartow Avenue NW, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.0393855,
+        "lng" : -84.5817445
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.0409215802915,
+           "lng" : -84.58006371970848
+        },
+        "southwest" : {
+           "lat" : 34.0382236197085,
+           "lng" : -84.5827616802915
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "Coles College of Business",
+  "opening_hours" : {
+     "open_now" : false
+  },
+  "photos" : [
+     {
+        "height" : 4016,
+        "html_attributions" : [
+           "\u003ca href=\"https://maps.google.com/maps/contrib/114777589270952967988\"\u003eColes College of Business\u003c/a\u003e"
+        ],
+        "photo_reference" : "Aap_uEBLKBhVSaTwWOjtX9yI9RmpcG5Y3yrQwdQx73cEyHY-VETEcbZ3-4e5hJMYRudh9JMBc0q-o8GbdukG4VqfFa2RlCRx5-1rD-3YgBwd1mjeQxRN4F0EZCWubYo3MkgbjvgjSCaWBiE1DEhz-VCa7_sK0nOkwHcNknaCh0nYRGsSPveK",
+        "width" : 6016
+     }
+  ],
+  "place_id" : "ChIJ68eYGMtq9YgRPZapBvf2w7U",
+  "plus_code" : {
+     "compound_code" : "2CQ9+Q8 Kennesaw, GA, USA",
+     "global_code" : "866Q2CQ9+Q8"
+  },
+  "rating" : 4.4,
+  "reference" : "ChIJ68eYGMtq9YgRPZapBvf2w7U",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 14,
+  "vicinity" : "560 Parliament Garden Way Northwest, Kennesaw"
+},
+{
+  "business_status" : "OPERATIONAL",
+  "geometry" : {
+     "location" : {
+        "lat" : 34.03880099999999,
+        "lng" : -84.5805776
+     },
+     "viewport" : {
+        "northeast" : {
+           "lat" : 34.04018208029149,
+           "lng" : -84.5789442197085
+        },
+        "southwest" : {
+           "lat" : 34.03748411970849,
+           "lng" : -84.58164218029151
+        }
+     }
+  },
+  "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+  "icon_background_color" : "#7B9EB0",
+  "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+  "name" : "KSU iTeach",
+  "place_id" : "ChIJV2zx8Qtr9YgRuwoYPnJKSZY",
+  "plus_code" : {
+     "compound_code" : "2CQ9+GQ Kennesaw, GA, USA",
+     "global_code" : "866Q2CQ9+GQ"
+  },
+  "rating" : 5,
+  "reference" : "ChIJV2zx8Qtr9YgRuwoYPnJKSZY",
+  "scope" : "GOOGLE",
+  "types" : [ "university", "point_of_interest", "establishment" ],
+  "user_ratings_total" : 1,
+  "vicinity" : "585 Cobb Ave MD 0127, Kennesaw"
+}
+  ],
+  "status" : "OK"
+}

@@ -30,7 +30,7 @@ class Header2 extends React.Component {
       let jsx
       if (this.state.show) {
         jsx =
-          <Navbar fixed="top" style={{ marginTop: '102px', height: '60px', backgroundColor: '#f0ebe1' }} >
+          <Navbar fixed="top" style={{ marginTop: '102px', height: '60px', backgroundColor: '#f0ebe1', boxShadow: '0 0.5rem 1rem rgba(0, 0, 0, .35)' }} >
             <Header2Links></Header2Links>
           </Navbar>
       } else {

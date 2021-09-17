@@ -1,0 +1,228 @@
+{
+  "html_attributions" : [],
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0156358,
+              "lng" : -84.571169
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01691633029149,
+                 "lng" : -84.57019966970849
+              },
+              "southwest" : {
+                 "lat" : 34.0142183697085,
+                 "lng" : -84.57289763029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+        "name" : "AMC Barrett Commons 24",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100060856140204426562\"\u003eWill Harrison\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAEv4sjLUfPm85ASAxyKHm8k60-JaLJOOEZqLUZGQg4xURuplB7SRZBYtqQ-rsDCzcHhAWAJQ5PRA76qEP0OWDLi-pyeU50ftDZVZKLPSV0yAIa9SMQTgu192px97EP0fXQ1ZRkbltPuugi0NVaa13TVWwqXRlW5ni8rctMnZc7dLMI",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ9TUbmCMV9YgRUQavKze0axg",
+        "plus_code" : {
+           "compound_code" : "2C8H+7G Kennesaw, GA, USA",
+           "global_code" : "866Q2C8H+7G"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJ9TUbmCMV9YgRUQavKze0axg",
+        "scope" : "GOOGLE",
+        "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1817,
+        "vicinity" : "2600 Cobb Place Lane Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.04044030000001,
+              "lng" : -84.67757739999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0416030302915,
+                 "lng" : -84.67592921970851
+              },
+              "southwest" : {
+                 "lat" : 34.0389050697085,
+                 "lng" : -84.67862718029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+        "name" : "NCG Acworth Cinema",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1560,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107679233342670724854\"\u003eNCG Acworth Cinema\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBP5UuIRbHGQlNEr0X_R1wlyTYTVoCDNrRTkCacabSvRixmllQqfhJXuHoCRIs6b_PEKZj4i7NLOyu_H_tb26cN2gQTSqLjsm5-2ACvv_FaR3eir6h5WvKXRG7XOPvET0HpApkvqAPSpghyEP8fsAXRHtoJQO0c_D0zFIYecl0UIRiZ",
+              "width" : 2768
+           }
+        ],
+        "place_id" : "ChIJx71upadA9YgROxxyqTnKwkY",
+        "plus_code" : {
+           "compound_code" : "28RC+5X Acworth, GA, USA",
+           "global_code" : "866Q28RC+5X"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJx71upadA9YgROxxyqTnKwkY",
+        "scope" : "GOOGLE",
+        "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 3055,
+        "vicinity" : "4421 Cinema Drive, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.107612,
+              "lng" : -84.543036
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.10891998029149,
+                 "lng" : -84.54174141970849
+              },
+              "southwest" : {
+                 "lat" : 34.10622201970849,
+                 "lng" : -84.54443938029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+        "name" : "Regal Cherokee",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2268,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104242999332393148297\"\u003eWalter Godwin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECGH2Z1PAfSIVsCQK4f9TqgRE9d5q8ubV4dXchTv615iio-7mSIT8iNUh7RCxu1mXi0F3nBQaVx0hcj6St22enfdDKC5N336I6U3CohCkJ_rFbPtuwHBZ0Vy9b1fJCqZ3xX_6LErMJRC-D4pdJZql_gnyzFleNTw9D8TlR2Qcjs-ZMu",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJW8P_Kehr9YgRmLqeYsf6zbY",
+        "plus_code" : {
+           "compound_code" : "4F54+2Q Woodstock, GA, USA",
+           "global_code" : "866Q4F54+2Q"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJW8P_Kehr9YgRmLqeYsf6zbY",
+        "scope" : "GOOGLE",
+        "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1688,
+        "vicinity" : "355 Cinema View, 2295 Towne Lake Parkway Suite 116, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0486811,
+              "lng" : -84.6057177
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0499050302915,
+                 "lng" : -84.60439046970849
+              },
+              "southwest" : {
+                 "lat" : 34.04720706970851,
+                 "lng" : -84.60708843029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+        "name" : "Showtime Entertainment",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106648868587258865599\"\u003eShowtime Entertainment\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBhGusrcmAiyx0DrmqJMdE-Z4kj21o8v6aHewjETYyJaSfT3GCqfPNdhElX9dEgm1VAERadZeqLqVHEZJNiIAokxM0IkUFlWj8dMURMhfjvJM965PZN3_04986iTQxgKjD7Nzh5pcSUZilKyOLLPShOirX1JGkfuez8ecoDfqc4qM9e",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJBdnWNjVr9YgROAOKcFR4dwo",
+        "plus_code" : {
+           "compound_code" : "29XV+FP Kennesaw, GA, USA",
+           "global_code" : "866Q29XV+FP"
+        },
+        "rating" : 5,
+        "reference" : "ChIJBdnWNjVr9YgROAOKcFR4dwo",
+        "scope" : "GOOGLE",
+        "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 7,
+        "vicinity" : "3939 Royal Drive Northwest Ste 220, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0151946,
+              "lng" : -84.571287
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0166777302915,
+                 "lng" : -84.57004171970848
+              },
+              "southwest" : {
+                 "lat" : 34.0139797697085,
+                 "lng" : -84.57273968029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/movies-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/movie_pinlet",
+        "name" : "Imax",
+        "place_id" : "ChIJ9aJcuyMV9YgRlNQg3lYcx5k",
+        "plus_code" : {
+           "compound_code" : "2C8H+3F Kennesaw, GA, USA",
+           "global_code" : "866Q2C8H+3F"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJ9aJcuyMV9YgRlNQg3lYcx5k",
+        "scope" : "GOOGLE",
+        "types" : [ "movie_theater", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "Kennesaw"
+     }
+  ],
+  "status" : "OK"
+}

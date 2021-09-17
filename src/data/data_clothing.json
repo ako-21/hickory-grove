@@ -1,0 +1,1078 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uECGBCOFMMCfz1-U_0GL2klMnpjuWPM9y78yLFJd97EAQnpuL2NxVduzodQYVN40z678J5-HFXbVyAGc8a-DYeuhia5StWL0rilii3UdtUfgRgncUb2kzvQyh2lqUMSH_zauR8F1vluFPkq48dluaNEhL9DlUkPw7Zs7VZtvCIcRcfSvYAbHH1CluJZ2gvY2Cd-p-FPyHxu4wXWrpnDsvjYkON8SPmM6Q-g8q9rbvo4Oy12Jh5TdLbRCBQk90LWVutq9xgtwYonnap3w2XHX3VPpCZmyc5CeZ0wjdYF_eIfVKSwKpeOH04bPH0G1ReNmF8xua1hJZjMK3RyjKKJVRFwB5mTTF8P_LrQTPQ_5AM1oVOW6BnijYbe7AyLT-giA6xNasUvAzvzuCOgNcf7AZ7a71byTh0W8gPgNFI4d0avz1xUWNH6-R2b34jYCFwZg",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.01802529999999,
+              "lng" : -84.5637886
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01958133029149,
+                 "lng" : -84.56281146970849
+              },
+              "southwest" : {
+                 "lat" : 34.01688336970849,
+                 "lng" : -84.5655094302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Lane Bryant",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 966,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101608430181252768672\"\u003eLane Bryant\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAOjPBLSnItyuRzzvlDGlt8jw2nlD9GbK5TMd58rW3yZ0G9Df42FHMRMNj4RL3oKsbxeaH5BHve1VLG4KxJfpCDBxLU5Kx2DCSbYKFJ-BQrd2AlSj4ZG96X7D3jIvlNkdpb-wXpx6QtZEVMB9eBMftPjQjCbXBJBtBh_o7N_JKjPQSs",
+              "width" : 966
+           }
+        ],
+        "place_id" : "ChIJt3Xa5tgU9YgR684Z7bETZQg",
+        "plus_code" : {
+           "compound_code" : "2C9P+6F Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+6F"
+        },
+        "price_level" : 2,
+        "rating" : 4.6,
+        "reference" : "ChIJt3Xa5tgU9YgR684Z7bETZQg",
+        "scope" : "GOOGLE",
+        "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+        "user_ratings_total" : 35,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest Space 249, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.01802529999999,
+              "lng" : -84.5637886
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0195269302915,
+                 "lng" : -84.5627950697085
+              },
+              "southwest" : {
+                 "lat" : 34.0168289697085,
+                 "lng" : -84.56549303029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "American Eagle & Aerie Store",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116018131727647086825\"\u003eRakim Means\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBy6hLjT_zIsbwcMphUFm2IQK4Pj5wje1ksrzZDGx2eHcMNdtSCYHGpPraGUF0COaPmWYJy8vU4VtCjH1djWO1FruYMpLoOCU7vCHe4J2PipiLQYw7Cr3stVvpDOvUnkEJosFAcRimwBPjqyqR1gI1Y_5JZaHWIQSFgsaSn1f70CGo4",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJDxVb_t4U9YgR_pyiQGPWRQY",
+        "plus_code" : {
+           "compound_code" : "2C9P+6F Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+6F"
+        },
+        "price_level" : 2,
+        "rating" : 4.2,
+        "reference" : "ChIJDxVb_t4U9YgR_pyiQGPWRQY",
+        "scope" : "GOOGLE",
+        "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 70,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.01802529999999,
+              "lng" : -84.5637886
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01969528029149,
+                 "lng" : -84.5619918197085
+              },
+              "southwest" : {
+                 "lat" : 34.01699731970849,
+                 "lng" : -84.5646897802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Vans",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/112355332163908823194\"\u003eJewls George\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBhByVqYsBjLpiNTER-YB2H4FhmUWgY2dRVtnzbLZiiRwhLgVhoVYNHJJ-0wE1GKnIKShqxflLPKdcg-ATXUUjxwbzI8YyRTklluObASTWFhz1IOxkpeo8BbCEsADDPO8RrxHEaX51gycnCv67fHBBB3_Hh-AWV0ctVuDvRRPf3PcWK",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJXyRDoNgU9YgRks9YRAJRXJY",
+        "plus_code" : {
+           "compound_code" : "2C9P+6F Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+6F"
+        },
+        "price_level" : 2,
+        "rating" : 4.4,
+        "reference" : "ChIJXyRDoNgU9YgRks9YRAJRXJY",
+        "scope" : "GOOGLE",
+        "types" : [
+           "shoe_store",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 63,
+        "vicinity" : "400 Ernest W Barrett Pkwy Suite #328C, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0046028,
+              "lng" : -84.5725073
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0060428802915,
+                 "lng" : -84.5714329197085
+              },
+              "southwest" : {
+                 "lat" : 34.0033449197085,
+                 "lng" : -84.57413088029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "DICK'S Sporting Goods",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108023042195114256484\"\u003eSuzanne Iris\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECnodxpE40LeypUIoGVoTncOPkyHCdsCIcOX2BOm5Jpm4tcOsdYAvJ3oX1SKh0lFfprZfeF0J-CqwMA1bJGHsPhBgOOH_N1Dn6tHQLmTGN8yl3w2irp1XIKKozrWcvZWOxrIjTivPKicP5gXxxlLtMGaOfoJt0wQdf0lATZ1CJYRzCJ",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJ-ZY-MhoV9YgRTifZ1sKasu0",
+        "plus_code" : {
+           "compound_code" : "2C3G+RX Kennesaw, GA, USA",
+           "global_code" : "866Q2C3G+RX"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJ-ZY-MhoV9YgRTifZ1sKasu0",
+        "scope" : "GOOGLE",
+        "types" : [
+           "shoe_store",
+           "bicycle_store",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 504,
+        "vicinity" : "667 Ernest W Barrett Parkway Northwest Ste A, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0138569,
+              "lng" : -84.5630836
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0151120302915,
+                 "lng" : -84.56163836970849
+              },
+              "southwest" : {
+                 "lat" : 34.0124140697085,
+                 "lng" : -84.5643363302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "David's Bridal",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1536,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109437325299898915632\"\u003eDavid&#39;s Bridal\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB7vkAmxYLaKKOBtWRhrigNWdSBn0Mm9otksElIY7YdFHnG9uzqTnJVFGh-1CI8dsPeMIfDxVVe26lNYYn3XhuerCdw7nm9zAujNU-3Inyr5oE_8VnmX93lWFB6EKper-dFzp3bEsGWRzhmukF-zAHFc0-aOv0dFTCTdmoR6Z8mwmZL",
+              "width" : 2048
+           }
+        ],
+        "place_id" : "ChIJx37jAd8U9YgRGwMJkplmt3s",
+        "plus_code" : {
+           "compound_code" : "2C7P+GQ Kennesaw, GA, USA",
+           "global_code" : "866Q2C7P+GQ"
+        },
+        "price_level" : 3,
+        "rating" : 4.7,
+        "reference" : "ChIJx37jAd8U9YgRGwMJkplmt3s",
+        "scope" : "GOOGLE",
+        "types" : [
+           "shoe_store",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 3345,
+        "vicinity" : "Main Street at, 440 Ernest W Barrett Parkway Northwest Ste #36, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0509583,
+              "lng" : -84.5963096
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.05221478029149,
+                 "lng" : -84.5948086697085
+              },
+              "southwest" : {
+                 "lat" : 34.04951681970849,
+                 "lng" : -84.59750663029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Walgreens",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2358,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108113360185970393806\"\u003eDaring Cy\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAtQQJh6b096NH2Lypin32rusjbMQudJYZDtB7VVZ6pHOMSC6v5--rI0qSEzEOVdzWOXBwg8dib10RTPOEx3BMZjERM3nyubzJMXBc4Sh8kK9bb9nhH0p4eddoe6IFCK7PVeTtlmbewLwXYX0z5amBiS3AbJjXi_jam04FvGau1hHtK",
+              "width" : 4191
+           }
+        ],
+        "place_id" : "ChIJO0vSqKRq9YgREf6C-KX3RKk",
+        "plus_code" : {
+           "compound_code" : "3C23+9F Kennesaw, GA, USA",
+           "global_code" : "866Q3C23+9F"
+        },
+        "price_level" : 2,
+        "rating" : 3.5,
+        "reference" : "ChIJO0vSqKRq9YgREf6C-KX3RKk",
+        "scope" : "GOOGLE",
+        "types" : [
+           "drugstore",
+           "convenience_store",
+           "food",
+           "health",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 41,
+        "vicinity" : "4075 Cherokee Street Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1128055,
+              "lng" : -84.58460869999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1140028302915,
+                 "lng" : -84.58275956970849
+              },
+              "southwest" : {
+                 "lat" : 34.1113048697085,
+                 "lng" : -84.58545753029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Walmart Supercenter",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 600,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109046930507285886537\"\u003eWalmart Supercenter\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBSYhiYniOKE5tcmXMsrqsAsJL7uHhfjM8wR8_21s1FgjXj6ysryzb_XiCUcC5VYwGz-zSdtThLSB3vYUXpTfjNR7R5t6x4BlHWj4ytBF1qEy5oyFjnLNx__G5_or05M-hLutDJtXuFpg8UI9K1yuZiK8C5ASvNBbP3gxg3AOaXDa6k",
+              "width" : 1067
+           }
+        ],
+        "place_id" : "ChIJrRQluyJq9YgRo6vPSkdyqIs",
+        "plus_code" : {
+           "compound_code" : "4C78+45 Woodstock, GA, USA",
+           "global_code" : "866Q4C78+45"
+        },
+        "price_level" : 1,
+        "rating" : 4,
+        "reference" : "ChIJrRQluyJq9YgRo6vPSkdyqIs",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "hardware_store",
+           "grocery_or_supermarket",
+           "electronics_store",
+           "furniture_store",
+           "home_goods_store",
+           "food",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 3175,
+        "vicinity" : "6435 Bells Ferry Road, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0094754,
+              "lng" : -84.57374299999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0105718302915,
+                 "lng" : -84.57208011970849
+              },
+              "southwest" : {
+                 "lat" : 34.0078738697085,
+                 "lng" : -84.57477808029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Target",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108023042195114256484\"\u003eSuzanne Iris\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAk2iIKjbR6moPi-TdeRrFsnp6j0PlPab5Knd2fWSjAFQVbHOyq7cS-XzpfH2ixGRHKOshjo7zOCdbAzTheuaiDlj-JNv3DmhcHypeW4NnliP0QzgitCeBAuJozDdE9Rx_sDFXYfYjmiitF7F8txPz0K8f0wipfw1_8d1owfqr-0Epz",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJodCgRxgV9YgRV9gFWH6_c8Q",
+        "plus_code" : {
+           "compound_code" : "2C5G+QG Kennesaw, GA, USA",
+           "global_code" : "866Q2C5G+QG"
+        },
+        "price_level" : 2,
+        "rating" : 4.2,
+        "reference" : "ChIJodCgRxgV9YgRV9gFWH6_c8Q",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "grocery_or_supermarket",
+           "electronics_store",
+           "furniture_store",
+           "home_goods_store",
+           "food",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 540,
+        "vicinity" : "740 Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0190201,
+              "lng" : -84.5634446
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.02060743029151,
+                 "lng" : -84.56222941970849
+              },
+              "southwest" : {
+                 "lat" : 34.01790946970851,
+                 "lng" : -84.56492738029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Belk",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107053835047030414809\"\u003eM\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECr_DuGhzTw8F8SuuyrkNYH04ICJfHvuSp3IKdE2jhMv8_HF8mPX1F-Qs5YL-PmlCbOk7LmdBhb0dvvEq0Y8Ad1FjPYhtRECFPjrUOuROU5hTkYKSP3UdtUqOrB22PMDofaEQ0n4zUn2C54i6zBCzC3NoNEqe5plAPPYKOgANy07XE",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJcc9ohtgU9YgRoTVg3ZOHUno",
+        "plus_code" : {
+           "compound_code" : "2C9P+JJ Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+JJ"
+        },
+        "price_level" : 2,
+        "rating" : 4.1,
+        "reference" : "ChIJcc9ohtgU9YgRoTVg3ZOHUno",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "shoe_store",
+           "home_goods_store",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 737,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0180362,
+              "lng" : -84.56401009999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0195056302915,
+                 "lng" : -84.5628977697085
+              },
+              "southwest" : {
+                 "lat" : 34.0168076697085,
+                 "lng" : -84.56559573029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Abercrombie & Fitch",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 720,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106254893572616585802\"\u003eAbercrombie &amp; Fitch\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBor7a08FcJ2V1qNiZd6Mm2IyV-5WUs5NkZuacvrmKHH0rgpS1WiDs0qDRwyF6WyM2CTZHmelzDeRuD6FsLLslDWiJRYX76cYNfAjXEPVRT_ncHFndMTQqygs-jXCMbjDVrC_yCZE4ee7Zf20H0m8rCwEb1pv-AWgY9Ivbcd-vWLyL1",
+              "width" : 720
+           }
+        ],
+        "place_id" : "ChIJcc9ohtgU9YgRKK-ttpx2US0",
+        "plus_code" : {
+           "compound_code" : "2C9P+69 Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+69"
+        },
+        "price_level" : 3,
+        "rating" : 3.9,
+        "reference" : "ChIJcc9ohtgU9YgRKK-ttpx2US0",
+        "scope" : "GOOGLE",
+        "types" : [
+           "clothing_store",
+           "shoe_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 71,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest Ste 133, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0180913,
+              "lng" : -84.56371129999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0195363802915,
+                 "lng" : -84.56274931970849
+              },
+              "southwest" : {
+                 "lat" : 34.0168384197085,
+                 "lng" : -84.56544728029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Zumiez",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106089279427619290914\"\u003eNero The Hero\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED0X3WzbQDxeonojJqrZvu7nfax9A_xk5g-cpr0_h6e2PmgaohJZNu7jjQwE_prbDpWXUg1GJysLyHS9wcjy8-aJGgFTI9KQ54Dhn4IUhZRZkRIgbYUCROCtDsfsRcAWI8B6bBFdBt56ygw3RSl0HNb9UwY3s-b1O9hfZXYw3LwHeuV",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJt3Xa5tgU9YgRaR_9_Y51gic",
+        "plus_code" : {
+           "compound_code" : "2C9P+6G Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+6G"
+        },
+        "price_level" : 2,
+        "rating" : 4.2,
+        "reference" : "ChIJt3Xa5tgU9YgRaR_9_Y51gic",
+        "scope" : "GOOGLE",
+        "types" : [
+           "clothing_store",
+           "shoe_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 101,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest #139, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.022685,
+              "lng" : -84.56885299999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0243049302915,
+                 "lng" : -84.56749786970849
+              },
+              "southwest" : {
+                 "lat" : 34.0216069697085,
+                 "lng" : -84.5701958302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "At Home",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 318,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/105465769951170923255\"\u003eAt Home\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBh7gIcirjiCpTxBqP6KOFmgH_W0FqxckjFq9ZYN-vC8bQ_ef7Llf5c-I5rPcH2az2w-nBElCXa8Ig2W8DqfJvPA2TXWPY9g6idSFyys_C5ZD_dvXdWGFL_ZzOj6MJ0ccwjRND0_7EDcOevio1FX88FG8cP7V_kRhTtNxLZ5OFxS9uy",
+              "width" : 540
+           }
+        ],
+        "place_id" : "ChIJ0woKrigV9YgRX4lFLSdM-fw",
+        "plus_code" : {
+           "compound_code" : "2CFJ+3F Kennesaw, GA, USA",
+           "global_code" : "866Q2CFJ+3F"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJ0woKrigV9YgRX4lFLSdM-fw",
+        "scope" : "GOOGLE",
+        "types" : [
+           "home_goods_store",
+           "furniture_store",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 1257,
+        "vicinity" : "2875 George Busbee Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0180529,
+              "lng" : -84.56384589999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0195221302915,
+                 "lng" : -84.5628181197085
+              },
+              "southwest" : {
+                 "lat" : 34.0168241697085,
+                 "lng" : -84.56551608029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Journeys Kidz",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 289,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100962912190049224977\"\u003eJourneys Kidz\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBV_AgwJu5tPQv5lXR6zlUGswtLZFDtWQKeBPJUQIP_AyIKTkzlczBPpL6lARE2UUbm2kQq4VJ3mb5bB-bBdDZcOp0RNce7BQQaS2lty1e0Ys3u83Z9ZYfEP6YzHDA3Qn6pD2vfencw0Z-DHcUGzqzaCg60sXP8hrQg8oT_m472P5Oq",
+              "width" : 512
+           }
+        ],
+        "place_id" : "ChIJt3Xa5tgU9YgRJyg8MK6V_iI",
+        "plus_code" : {
+           "compound_code" : "2C9P+6F Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+6F"
+        },
+        "price_level" : 2,
+        "rating" : 3.9,
+        "reference" : "ChIJt3Xa5tgU9YgRJyg8MK6V_iI",
+        "scope" : "GOOGLE",
+        "types" : [
+           "shoe_store",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 11,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0177769,
+              "lng" : -84.5630419
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0189366302915,
+                 "lng" : -84.56178246970849
+              },
+              "southwest" : {
+                 "lat" : 34.0162386697085,
+                 "lng" : -84.56448043029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Buckle",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 608,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108643023064495311098\"\u003eBuckle\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAuDtNTQdbCBik8smGdc32Nfgn8kGbY0LxC1cZY0JNIabRKASf4q7AcUCcTk55dH2XODIeaVuSfIrARywxASXPDYHOIAM4ok4Pjr_N1c6DgxrceKsvAMIiqJ9VEs1FgNagv4sO_UsAPXkSqDtV0KAGWVKhQmXKd1FsoYCcbWUpFW3Us",
+              "width" : 1080
+           }
+        ],
+        "place_id" : "ChIJP3Ma5tgU9YgR-vRr5TeYlrI",
+        "plus_code" : {
+           "compound_code" : "2C9P+4Q Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+4Q"
+        },
+        "rating" : 4.6,
+        "reference" : "ChIJP3Ma5tgU9YgR-vRr5TeYlrI",
+        "scope" : "GOOGLE",
+        "types" : [
+           "clothing_store",
+           "shoe_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 43,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest Ste 155, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0078448,
+              "lng" : -84.5740105
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0091721302915,
+                 "lng" : -84.57236286970848
+              },
+              "southwest" : {
+                 "lat" : 34.0064741697085,
+                 "lng" : -84.57506083029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "REI",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103840702224939315460\"\u003eDavid Taylor\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAgD0GecL9U90RMBBvpv1WnW9tRWOI_EGDKSwzo5rJ1-DENG4GkVurr2xMLzbGhh-zsuDGzfPn9T0Dnj4HD56q4sB1WIh1RW_unvR_lm-_S_wX5gIKm1vd7h4ewM1UVyO2DXHpM4Ycvoz6nIrfg6Y6O14acupMVFzGzm77Da0T0PmXS",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJNddICRkV9YgRBu7VMisB0XU",
+        "plus_code" : {
+           "compound_code" : "2C5G+49 Kennesaw, GA, USA",
+           "global_code" : "866Q2C5G+49"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJNddICRkV9YgRBu7VMisB0XU",
+        "scope" : "GOOGLE",
+        "types" : [
+           "shoe_store",
+           "bicycle_store",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 348,
+        "vicinity" : "740 Ernest W Barrett Parkway Northwest Ste 450, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0285659,
+              "lng" : -84.6578842
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0301699302915,
+                 "lng" : -84.65710441970849
+              },
+              "southwest" : {
+                 "lat" : 34.0274719697085,
+                 "lng" : -84.6598023802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Walmart Supercenter",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 600,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107560501369057724259\"\u003eWalmart Supercenter\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAng_V5hf7PT29jwNmaRa4PzR2MFRtqy56j_rV2HmOi-C91TH5aQkwtNCzcnufVL4e28Ft8LqAArbHLGkt6UnXhjlLXDCaF4U2U-aKgIZPcDsFbT30UD-2quk5zAY0eK9h3fwyZzQnVQMtc57NgGsNJ5ltHT9wcpfS4mQs8lI69Zk0M",
+              "width" : 1067
+           }
+        ],
+        "place_id" : "ChIJ1Yt6Sto_9YgR3SNBI9gTMuA",
+        "plus_code" : {
+           "compound_code" : "28HR+CR Acworth, GA, USA",
+           "global_code" : "866Q28HR+CR"
+        },
+        "price_level" : 1,
+        "rating" : 4,
+        "reference" : "ChIJ1Yt6Sto_9YgR3SNBI9gTMuA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "hardware_store",
+           "grocery_or_supermarket",
+           "electronics_store",
+           "furniture_store",
+           "home_goods_store",
+           "food",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 2222,
+        "vicinity" : "3105 Cobb Parkway Northwest, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0583083,
+              "lng" : -84.55712199999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.05957203029149,
+                 "lng" : -84.55587656970849
+              },
+              "southwest" : {
+                 "lat" : 34.0568740697085,
+                 "lng" : -84.55857453029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Walgreens",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1786,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBedR00CdtjY3sCrhBjNUCvyhCavftMvVOmzDL2bz9qXdiFYLJ2wYoUNZIYrEA4mHjlCt5ZkYTXMlTWHJ1CGvBzMI2SbtaEXeqJBJHXWObw8mzGsXeweUme4gEIwRpJbM4RuCBm_Y_itCCJuilur5LjUEX4BUWD9d8_vQRQIRHSA0l1",
+              "width" : 3175
+           }
+        ],
+        "place_id" : "ChIJwwoKHBlr9YgRTGLtwK-r_kk",
+        "plus_code" : {
+           "compound_code" : "3C5V+85 Kennesaw, GA, USA",
+           "global_code" : "866Q3C5V+85"
+        },
+        "price_level" : 2,
+        "rating" : 3.7,
+        "reference" : "ChIJwwoKHBlr9YgRTGLtwK-r_kk",
+        "scope" : "GOOGLE",
+        "types" : [
+           "drugstore",
+           "convenience_store",
+           "food",
+           "health",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 44,
+        "vicinity" : "4360 Bells Ferry Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0142203,
+              "lng" : -84.5650536
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01562543029149,
+                 "lng" : -84.5636227197085
+              },
+              "southwest" : {
+                 "lat" : 34.01292746970849,
+                 "lng" : -84.56632068029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Plato's Closet",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1200,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100471109685355995394\"\u003ePlato&#39;s Closet\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECMt-6iKJaR2wB51PonGJS2kpv_pJvp7w7t00ZVFG47VD6iwN-FdZPy-uowjVxYHcE47dIRqWWI8gz9ip1UtT-JEGcK_braSD9REIM82g8-ifaKx36cutTwfWOAlO4DVIm0Byx9AVh8bR3ThwstZ-wqrJjt0aJmmWLudPE6Q4htBue8",
+              "width" : 1600
+           }
+        ],
+        "place_id" : "ChIJTXiZnN8U9YgRYNHToLJa__g",
+        "plus_code" : {
+           "compound_code" : "2C7M+MX Kennesaw, GA, USA",
+           "global_code" : "866Q2C7M+MX"
+        },
+        "rating" : 3.4,
+        "reference" : "ChIJTXiZnN8U9YgRYNHToLJa__g",
+        "scope" : "GOOGLE",
+        "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+        "user_ratings_total" : 359,
+        "vicinity" : "2700 Town Center Drive #128, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0251106,
+              "lng" : -84.56968259999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0264916302915,
+                 "lng" : -84.56816841970848
+              },
+              "southwest" : {
+                 "lat" : 34.0237936697085,
+                 "lng" : -84.57086638029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Burlington",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104663387833033555896\"\u003eDominick Correa\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAf-8RWFwKdXClS2ED3G7LRd5rmTZvVyXPOtAyBbQLCCGCFXPfZdAzsoB_3bV8tSAsYve6Jd8E8bOel0gDUh_EW5XlZaRdgnFc6unKXd9wtYGWgC8YiP5B4kv7fU3PP2E3bodqRMHHJLrnYfW1EroR_KVpS-VMlyy5xTLUQrGDVfKkV",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJR5VXKy8V9YgRk1lQf7E8kJ0",
+        "plus_code" : {
+           "compound_code" : "2CGJ+24 Kennesaw, GA, USA",
+           "global_code" : "866Q2CGJ+24"
+        },
+        "rating" : 3.9,
+        "reference" : "ChIJR5VXKy8V9YgRk1lQf7E8kJ0",
+        "scope" : "GOOGLE",
+        "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 267,
+        "vicinity" : "2911 George Busbee Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0083734,
+              "lng" : -84.5641959
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0097096302915,
+                 "lng" : -84.56300211970849
+              },
+              "southwest" : {
+                 "lat" : 34.0070116697085,
+                 "lng" : -84.56570008029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "LiviRae Lingerie",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100614026642961615312\"\u003eInfo Liviraelingerie\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEASDsGJYmpoKsBNdXswm6C3lvyjtzeL8r103ZDOeEPMr-qo1SDU_f3p2_MplLqg7LLBQuLoQ4X69hNwOdKGxfWIgvE9awY4yceUww-J5eaeUSjfwwlz6A3xiiIIcf_06KhUvt2JPX9ZAAnknrQrB-zoRwyOTKkXhbUoJFw5oK_gDJuM",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJTXiZnN8U9YgR_W-Un_JiorI",
+        "plus_code" : {
+           "compound_code" : "2C5P+88 Kennesaw, GA, USA",
+           "global_code" : "866Q2C5P+88"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJTXiZnN8U9YgR_W-Un_JiorI",
+        "scope" : "GOOGLE",
+        "types" : [ "point_of_interest", "clothing_store", "store", "establishment" ],
+        "user_ratings_total" : 511,
+        "vicinity" : "543 Roberts Court #200, Kennesaw"
+     }
+  ],
+  "status" : "OK"
+}

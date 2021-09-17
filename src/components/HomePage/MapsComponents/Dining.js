@@ -1,11 +1,11 @@
 import React from 'react'
-import GroceryData from './../../../data/data_grocery.json'
+import DiningData from './../../../data/data_dining.json'
 import { GoogleMap, Marker } from 'react-google-maps'
 import House from './../../../images/house.png'
 import MarkerBlue from './../../../images/markerblue.png'
 import MarkerOrange from './../../../images/markerorange.png'
 
-class Grocery extends React.Component {
+class Dining extends React.Component {
   state = {
   }
   render () {
@@ -19,7 +19,7 @@ class Grocery extends React.Component {
           }}
         >
         </Marker>
-        {GroceryData.results.map((store, index) => {
+        {DiningData.results.map((store, index) => {
           return this.props.selectedStore === store.place_id
             ? (
               <Marker
@@ -65,4 +65,4 @@ class Grocery extends React.Component {
   }
 }
 
-export default Grocery
+export default Dining

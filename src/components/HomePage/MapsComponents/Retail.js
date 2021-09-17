@@ -1,16 +1,16 @@
 import React from 'react'
-import GroceryData from './../../../data/data_grocery.json'
+import RetailData from './../../../data/data_retail.json'
 import { GoogleMap, Marker } from 'react-google-maps'
 import House from './../../../images/house.png'
 import MarkerBlue from './../../../images/markerblue.png'
 import MarkerOrange from './../../../images/markerorange.png'
 
-class Grocery extends React.Component {
+class Retail extends React.Component {
   state = {
   }
   render () {
     return (
-      <GoogleMap defaultZoom={12} defaultCenter={{ lat: 34.06425, lng: -84.60060 }}>
+      <GoogleMap defaultZoom={12} defaultCenter={{ lat: 34.06425, lng: -84.60000 }}>
         <Marker
           position= {{ lat: 34.06425, lng: -84.60060 }}
           icon={{
@@ -19,7 +19,7 @@ class Grocery extends React.Component {
           }}
         >
         </Marker>
-        {GroceryData.results.map((store, index) => {
+        {RetailData.results.map((store, index) => {
           return this.props.selectedStore === store.place_id
             ? (
               <Marker
@@ -65,4 +65,4 @@ class Grocery extends React.Component {
   }
 }
 
-export default Grocery
+export default Retail

@@ -1,0 +1,931 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEC2xQ-0GxMqXTeyvXaobq9XHX_G7NO9adWZBgkrsSeBs4IPMCXTd0gGPM4TZbcmSTLAiF4kWdmd3K39vqXK_nc0xfXUrnBVbGeFcA7lPvuyPHMCmAi0qKRn2Obuzw_Bya_EudB9vuDpH0AAFopsCo-YBNufhAZr2_p87SVQtR-AXsf9_uvoYr61U7vJZlBCAmTcRJyBvj20vzyp1u7sBJp4iSj6AAzoEkTWURETcg5qGsEgw4pVHvH6EadEKa6k6QZEwS5L0RXuH8wm6_LWjzGa7bAFTSI0OblGTUZqZJCDfTtK3teQIHSPI9EwMfa_SHBGRTdV6wBwRQ7mm0MKpyhoSY2InbzCFE1rky-infJlo77N6922OABEKH4vklKjjvDKIJL_a86IrmiGtmvt_pSP-Mjwo5h1w3kKFP4lbKtaaGCirUuZYlioUqRObg8",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0176385,
+              "lng" : -84.564278
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.02410905,
+                 "lng" : -84.55871164999999
+              },
+              "southwest" : {
+                 "lat" : 34.01121484999999,
+                 "lng" : -84.57113665
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Town Center at Cobb",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 707,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111993953626988945977\"\u003eTown Center at Cobb\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDYy0vVX_UyqaeEALi1jjTQoAR6R0m7hsH_Wxe1JN-n_PE0qqkZJzaEEf9OEcPfFnxoJ31BCcmPsNu3Nl_9h9XrgLPWVuw6m6I5PcWWOqSBK8QYEJVVm5F-8R_F2YqobeKvnEAc8N1XDF9G-7g9-4sXytYDO_XvK2ok6yHDjpWFiod3",
+              "width" : 1200
+           }
+        ],
+        "place_id" : "ChIJXyRDoNgU9YgRcFBzM3vZc7c",
+        "plus_code" : {
+           "compound_code" : "2C9P+37 Kennesaw, GA, USA",
+           "global_code" : "866Q2C9P+37"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJXyRDoNgU9YgRcFBzM3vZc7c",
+        "scope" : "GOOGLE",
+        "types" : [
+           "shopping_mall",
+           "department_store",
+           "food",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 5941,
+        "vicinity" : "400 Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0141098,
+              "lng" : -84.56451539999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0155422302915,
+                 "lng" : -84.56321821970847
+              },
+              "southwest" : {
+                 "lat" : 34.0128442697085,
+                 "lng" : -84.56591618029148
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Esplanade At Cobb",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117584854752445569787\"\u003eTodd Morgan\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDchejI3RmL4cOlCiWqQuuB8CcO0H3GwD7L6Dlz7L9IwvJSbvZelFgBBiEi4FztIq-pHD4_H3cpO6MuS1DgP8IIwwWr5gKuopjEM0O0iHm9Y7DNNHLul9xnzp7uPXu_IFGioyihyb-6QzpeBx272lBoE-CgCGzxdCaXdlmQBXYDwPjd",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJK0FfgyAV9YgR9AHe1_f2QKw",
+        "plus_code" : {
+           "compound_code" : "2C7P+J5 Kennesaw, GA, USA",
+           "global_code" : "866Q2C7P+J5"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJK0FfgyAV9YgR9AHe1_f2QKw",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 96,
+        "vicinity" : "2700 Town Center Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0417862,
+              "lng" : -84.60183189999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0431776802915,
+                 "lng" : -84.6005757197085
+              },
+              "southwest" : {
+                 "lat" : 34.0404797197085,
+                 "lng" : -84.60327368029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Kennesaw Promenade Shopping Center",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 2988,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117863324730476141968\"\u003eBumbum Bamers\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED5sjasBcTyYLbLu8MdixA3VufF1hbFJnUzyJ6HU1vgemNnwM482QzYt0gDfkKhFZRgiHQ2QGGCCIjGphaTjp-t2ozwZVW96HKs8UMcEAs9iawtxTqbIGGGqb_WFuZXIJsI4pKLFzZUPqAWyLa8OSUQT66_gwnv5pKHZUOHN0OEXUDT",
+              "width" : 5312
+           }
+        ],
+        "place_id" : "ChIJk1ODsqRq9YgR22S6FK1rjVY",
+        "plus_code" : {
+           "compound_code" : "29RX+P7 Kennesaw, GA, USA",
+           "global_code" : "866Q29RX+P7"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJk1ODsqRq9YgR22S6FK1rjVY",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 150,
+        "vicinity" : "3600 Cherokee Street Northwest suit 113, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0173273,
+              "lng" : -84.56447590000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0186973302915,
+                 "lng" : -84.5634159697085
+              },
+              "southwest" : {
+                 "lat" : 34.0159993697085,
+                 "lng" : -84.56611393029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Sunglass Hut at Macy's",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/100740479221178060910\"\u003eBowen Powell\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECtZtTqY2ASvR58sfJCvCf6cMFHSlRxZHtnLthHvLCWhmXyVXSF9v_JPDRCdEb2_N2N2Zy1lw1-_rW4GtlYBPiyETk94ENdN-IMDc4eMTSAHPTWWQYHbM5oMC65daMSd7q20T_nILgpmhxJs_VuoggfpAQ_1W4MxTVLoOf-ccx4jVZ9",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJresmWCcV9YgRjQabVs6WHr8",
+        "plus_code" : {
+           "compound_code" : "2C8P+W6 Kennesaw, GA, USA",
+           "global_code" : "866Q2C8P+W6"
+        },
+        "price_level" : 3,
+        "rating" : 4.4,
+        "reference" : "ChIJresmWCcV9YgRjQabVs6WHr8",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "shopping_mall",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 18,
+        "vicinity" : "400 Ernest G, Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.11245,
+              "lng" : -84.56405699999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1142308302915,
+                 "lng" : -84.56075415000001
+              },
+              "southwest" : {
+                 "lat" : 34.1115328697085,
+                 "lng" : -84.56721515000001
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Summit at Towne Lake",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4128,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106700720377990135674\"\u003eYehloe The Poet\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAKWSd4_xpf6h8H3rqdu7W_JAg-yjH0bcjeQZRZapdGKfz-x5nk_0Di00irOA7RukeOPMEpqMqvhwTfTHTfoHOOTkH32IE5fI8XOuGzLNjTyhANRnwd_85HTdbK3Z8zyB3wVk4-vrca6etCd5To4YK3ePs4lI8QYSrUsjGWAldbCXwa",
+              "width" : 2322
+           }
+        ],
+        "place_id" : "ChIJW_qYytJr9YgRQiQJEjFa8DE",
+        "plus_code" : {
+           "compound_code" : "4C6P+X9 Woodstock, GA, USA",
+           "global_code" : "866Q4C6P+X9"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJW_qYytJr9YgRQiQJEjFa8DE",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 134,
+        "vicinity" : "2060 Eagle Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.012755,
+              "lng" : -84.5645018
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0140145802915,
+                 "lng" : -84.56317961970849
+              },
+              "southwest" : {
+                 "lat" : 34.0113166197085,
+                 "lng" : -84.5658775802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Main Street & Town Center",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1960,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/108876044668761467190\"\u003eErika NekoArc\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDUFUxriyOubfOl-xUNF1G3OceKKx3Pvu4n0EzmgrBl3rtIKO09_HS0rjVITPIyp5q7aeeLBuNKh1mMXeYwwOj4k9VBNlKQa6GAbfdaqcQ2yTF-2NU-X7acE1wiXl_52--84GlyjyVgPEE7PTeGiLND-_5qFLsFrqf4vuJcnNf-MMcN",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJKaw1FQo-9YgRCy-yzDO2kGc",
+        "plus_code" : {
+           "compound_code" : "2C7P+45 Kennesaw, GA, USA",
+           "global_code" : "866Q2C7P+45"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJKaw1FQo-9YgRCy-yzDO2kGc",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 360,
+        "vicinity" : "440 Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.03888319999999,
+              "lng" : -84.53043359999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.04054724999999,
+                 "lng" : -84.52742325000003
+              },
+              "southwest" : {
+                 "lat" : 34.03717065000001,
+                 "lng" : -84.53143704999998
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "New Chastain Corners",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 720,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111685852674513072433\"\u003eJennings Music\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBeOEi6uD50dvL6ZWSXwlOli1vTcb5YR3b5oTL4Xk2JAxHSTVC-lDFaDDqKFD3V9oAZg_Rl3X5rqtPH871lGQEijTD3oyBAIKcGqHo9l8bXm5dgKeCEh77XV3b2gnZCXpvUSYLhlo_rSrSnjW7cnYoVhncDJxZt99lDrxUq327aJa9O",
+              "width" : 960
+           }
+        ],
+        "place_id" : "ChIJ59exClFr9YgRHi2FHGxnfj0",
+        "plus_code" : {
+           "compound_code" : "2FQ9+HR Marietta, GA, USA",
+           "global_code" : "866Q2FQ9+HR"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJ59exClFr9YgRHi2FHGxnfj0",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 682,
+        "vicinity" : "3595 Canton Road, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1261549,
+              "lng" : -84.5954
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.12735808029149,
+                 "lng" : -84.59405116970849
+              },
+              "southwest" : {
+                 "lat" : 34.12466011970849,
+                 "lng" : -84.5967491302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "a2z Necessitz",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "place_id" : "ChIJI1rSgfdp9YgRb2SDa50BJ4w",
+        "plus_code" : {
+           "compound_code" : "4CG3+FR Woodstock, GA, USA",
+           "global_code" : "866Q4CG3+FR"
+        },
+        "reference" : "ChIJI1rSgfdp9YgRb2SDa50BJ4w",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "vicinity" : "722 Copper Trace Way, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0159837,
+              "lng" : -84.5509606
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01729288029149,
+                 "lng" : -84.54960471970848
+              },
+              "southwest" : {
+                 "lat" : 34.0145949197085,
+                 "lng" : -84.5523026802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Towne Center Prado",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117225794387288359029\"\u003eKris Dantzler\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECzstQ5-Tr8g1faH1Vx5ApH7CKscYKcq1sRcxarikfx5yGi2LhZmrFfoT6dW1zUfqL7gUTh1XXpmB_N2CHVGyTJqVD9IZr2oC-1xA1eAYZF8NVkUIqNYVqAEdgroAkiqOd55EWCN3iBf6ils7qmaksMyrrcv4MJLbRo-TJ_kHamoCJN",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJMczpd8MU9YgRh9RrUZAEuy8",
+        "plus_code" : {
+           "compound_code" : "2C8X+9J Marietta, GA, USA",
+           "global_code" : "866Q2C8X+9J"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJMczpd8MU9YgRh9RrUZAEuy8",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1426,
+        "vicinity" : "50 Ernest W Barrett Parkway Northwest, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.12686619999999,
+              "lng" : -84.57315439999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1282221302915,
+                 "lng" : -84.57184046970849
+              },
+              "southwest" : {
+                 "lat" : 34.1255241697085,
+                 "lng" : -84.5745384302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Towne Lake Village Shopping Center",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106561483444633020072\"\u003eBrett Gowder\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB3if3wNICSsufzdMulLpBPmwMUu9h9-AiR0y_z217FwkXwOYHSbQXIRxQF0X3C9yVA0TA2eXawBxKEncT8T_T_NHtBRWeHu5v5t6-FhnV1TX2fq514Q1v_8qVU9wJEthrXj-7HdTDsS9qnr7xkk7gmYF2RANwmymwy85l5N62GeZsQ",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJhSbgaoZp9YgRzSpL_IBEVjA",
+        "plus_code" : {
+           "compound_code" : "4CGG+PP Woodstock, GA, USA",
+           "global_code" : "866Q4CGG+PP"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJhSbgaoZp9YgRzSpL_IBEVjA",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 180,
+        "vicinity" : "Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0836619,
+              "lng" : -84.54459709999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0850107302915,
+                 "lng" : -84.5432399197085
+              },
+              "southwest" : {
+                 "lat" : 34.0823127697085,
+                 "lng" : -84.5459378802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Woodstock Square",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1710,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECmXO0OPIETmy4nSJUMvXg2JzxKUdeyJrm_r4dPsviuDKs8kktlj1MtOCNaRNOYFnV-OE6vfhTfkbwIBXSvkslY4z-qNHHipJL0ptJoUxmBvv9nfO_cpxqWM7SMo6q7tq0sR2aFsAwz8qH1RtdlBa76VYJsWT6gFIh9_tOX6K6omtHc",
+              "width" : 3040
+           }
+        ],
+        "place_id" : "ChIJcSNDWqJr9YgRUy9USoYc58s",
+        "plus_code" : {
+           "compound_code" : "3FM4+F5 Woodstock, GA, USA",
+           "global_code" : "866Q3FM4+F5"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJcSNDWqJr9YgRUy9USoYc58s",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1609,
+        "vicinity" : "8964 Alabama Road, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1147864,
+              "lng" : -84.55314159999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.11607508029149,
+                 "lng" : -84.55173546970849
+              },
+              "southwest" : {
+                 "lat" : 34.1133771197085,
+                 "lng" : -84.5544334302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Plaza At Towne Lake",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117366868122398161358\"\u003eBeth girl\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBjBb7JJtCParZ3O3Spyd9syyrh8xd4REm90XsNUuRDkHCVukyv9ShEyOKkCdWMKXVbg8WeN5yuhnKTHsXKB5BeAIf0zZIyvWiMpjjFIshEezlr27VyfrubYJVg64DhHcRfFTsxgXGy3m1E_4lJ559lGizhTYfn3xAcBsT7emF4YWAZ",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJKaBOEtpr9YgREXRw_i2v9uA",
+        "plus_code" : {
+           "compound_code" : "4C7W+WP Woodstock, GA, USA",
+           "global_code" : "866Q4C7W+WP"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJKaBOEtpr9YgREXRw_i2v9uA",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 32,
+        "vicinity" : "2370 Towne Lake Parkway, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0136104,
+              "lng" : -84.54937009999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01499963029151,
+                 "lng" : -84.5480304197085
+              },
+              "southwest" : {
+                 "lat" : 34.01230166970851,
+                 "lng" : -84.5507283802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Bells Ferry Plaza",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/118072309919801539884\"\u003eMisty Schleusner\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBEpPxsI1G6h4q2gmbYfttdiaGDK_rZ6cXGktVqd5lofHl7EMvPU084cT0RlKQs-m3uDMnxVlp_MM5cKzFUigRVGRcNj5x7htq5Hc5HEqXv1nCeioUj3j_pGGX1RqsBdQak1mfVMPYI0boi84UXdNbe_3anYBDr2HohrpC-udaBmjji",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJe8kptcMU9YgR5hAppJTXzbA",
+        "plus_code" : {
+           "compound_code" : "2F72+C7 Marietta, GA, USA",
+           "global_code" : "866Q2F72+C7"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJe8kptcMU9YgR5hAppJTXzbA",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 100,
+        "vicinity" : "2543 Bells Ferry Road, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.083791,
+              "lng" : -84.52058199999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0851446802915,
+                 "lng" : -84.51917226970849
+              },
+              "southwest" : {
+                 "lat" : 34.0824467197085,
+                 "lng" : -84.5218702302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Woodstock Place",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4160,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111085619248891079912\"\u003eElizabeth Ridgeway\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDWROl0fY3-z5XBLjuFlgdDyLxo20oqrSh3OtyHMh5B5INraL_EoHapJxInm8A6XmweMhYXQxljjnk_IakfyBkpawLvcCoWnIiGamNErH9BXvX_9cQ6-Qa2X_D5Eh3_ccnaDL1WscpbZ8EVAvdRt2ISmU0_1bw7q9tot0MfYUyoWtgr",
+              "width" : 3120
+           }
+        ],
+        "place_id" : "ChIJZyaQ7Hds9YgRipYCAJZYLe8",
+        "plus_code" : {
+           "compound_code" : "3FMH+GQ Woodstock, GA, USA",
+           "global_code" : "866Q3FMH+GQ"
+        },
+        "rating" : 4.1,
+        "reference" : "ChIJZyaQ7Hds9YgRipYCAJZYLe8",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 285,
+        "vicinity" : "10029 Alabama Road, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0486131,
+              "lng" : -84.601596
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.05030568029149,
+                 "lng" : -84.59671944999999
+              },
+              "southwest" : {
+                 "lat" : 34.04760771970849,
+                 "lng" : -84.60650844999998
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Shiloh Square Shopping Center",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1960,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114145219170746437805\"\u003eKi Jar\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB_byJllIhN6pADfF_XXu3tmm0TP2fP4omnsK7InhlQRi6WiKlJYJq03v7it4bdNksK13rmkKQVWykmGgdp6slrSzfyNXz_ACKCvvEWLONT2GYkqgVjBDTgU244l9QSb2uREyzfWhIW2WKFZI3Oq79DW_tEez6Zq-2JDmlNWKdWT27q",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJUS90H6lq9YgRagUILHrMAwo",
+        "plus_code" : {
+           "compound_code" : "29XX+C9 Kennesaw, GA, USA",
+           "global_code" : "866Q29XX+C9"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJUS90H6lq9YgRagUILHrMAwo",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 987,
+        "vicinity" : "3895 Cherokee Street Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0099694,
+              "lng" : -84.5734221
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.01554120000001,
+                 "lng" : -84.56660345
+              },
+              "southwest" : {
+                 "lat" : 34.0027748,
+                 "lng" : -84.58117725000002
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Barrett Pavilion",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2977,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101592386894931194884\"\u003eKaraLeigh\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBiyphBBGImhp-nGlFqVwq3Iddqp7cyxM-R64XfxqdDSsPGNcSWybQE3xxqR6vBarJt11-7OAF_R7p3JJq1z7AQSzBW464DCTwmYICKl8ubZT0x4aFYny44_YzT9G66rh6-yoc5ND4OunR_wdJ6m1qQfxDVg9RGiLL8l3AvG2DLSyh9",
+              "width" : 3970
+           }
+        ],
+        "place_id" : "ChIJU-3s8CIV9YgR2wwTrRMukUk",
+        "plus_code" : {
+           "compound_code" : "2C5G+XJ Kennesaw, GA, USA",
+           "global_code" : "866Q2C5G+XJ"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJU-3s8CIV9YgR2wwTrRMukUk",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 2895,
+        "vicinity" : "740 Ernest W Barrett Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.056276,
+              "lng" : -84.59122769999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0576410802915,
+                 "lng" : -84.5898783197085
+              },
+              "southwest" : {
+                 "lat" : 34.0549431197085,
+                 "lng" : -84.59257628029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Wade Green Crossing",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106704762591248685053\"\u003eAmanda Black\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAtWmwDPSqRE9sZ9Xw0lwyZU9M70IvYX2Kd4MU_-AmvljjxljN0tqnnrndeQaYPUa-PVAwdkAj3SsKzCawioE6jmrSwgSv3dg1qPyz3aSHOJS--11V1RIhr28TJb3CA3IXy54l9J_MKa8GwrVvfJjjtYJPiBopyxwhcZyWBkSbh2mX4",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJAdn7HpZq9YgRRw3WiUoB7eI",
+        "plus_code" : {
+           "compound_code" : "3C45+GG Kennesaw, GA, USA",
+           "global_code" : "866Q3C45+GG"
+        },
+        "rating" : 4.2,
+        "reference" : "ChIJAdn7HpZq9YgRRw3WiUoB7eI",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 187,
+        "vicinity" : "4061 Glenlake Trce Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0489546,
+              "lng" : -84.6066491
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0500953302915,
+                 "lng" : -84.60532036970849
+              },
+              "southwest" : {
+                 "lat" : 34.0473973697085,
+                 "lng" : -84.6080183302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Trim Depot Parking",
+        "place_id" : "ChIJb70AMYFB9YgRyPgkdYVIh2U",
+        "plus_code" : {
+           "compound_code" : "29XV+H8 Kennesaw, GA, USA",
+           "global_code" : "866Q29XV+H8"
+        },
+        "reference" : "ChIJb70AMYFB9YgRyPgkdYVIh2U",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "vicinity" : "Unnamed Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.089872,
+              "lng" : -84.5852989
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.09122088029149,
+                 "lng" : -84.5839289697085
+              },
+              "southwest" : {
+                 "lat" : 34.0885229197085,
+                 "lng" : -84.5866269302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Cherokee Commons Shopping Center",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1800,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/115457221151886207613\"\u003eShreesh Tiwari\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDGKRwv4736AgrS9Lv_33JjAY0T4Ku0rBS6v3q1Ocw2_39YR_G9Arp9g3jaHjugA_-_q-o1WTpBSedcMk3qyquzND09lShtrQ358MYHzFMUYwTmjjOk0rhFoHIK-lWnIawspSsf1R9dH4r1rajLfWnXmdBEyXiysX0UiSBnLb5GT9m1",
+              "width" : 4000
+           }
+        ],
+        "place_id" : "ChIJ_3o2AWhq9YgRec_sFP09FKc",
+        "plus_code" : {
+           "compound_code" : "3CQ7+WV Acworth, GA, USA",
+           "global_code" : "866Q3CQ7+WV"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJ_3o2AWhq9YgRec_sFP09FKc",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 292,
+        "vicinity" : "6199 Highway 92, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0351647,
+              "lng" : -84.57179410000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0364849302915,
+                 "lng" : -84.5703488197085
+              },
+              "southwest" : {
+                 "lat" : 34.0337869697085,
+                 "lng" : -84.57304678029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Commons at Chastain",
+        "photos" : [
+           {
+              "height" : 2992,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103036782056597487223\"\u003eRobinson Sepulveda\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDYeJUmW8TxF9dnKcbqQy2ckkc1rtT0V96nNoqhryeV6n7abEH3LU2g_wRELi77dPW91HXljElgmdPrHOWaIXCvbkaveq16FKsZ2jqkqJl3BkmeC9qJkDquStjpgo2OmMT58DTHrVu6qMDLYTd58tt4FeQjKnkmk_0ZYIvvGePn8W8z",
+              "width" : 4000
+           }
+        ],
+        "place_id" : "ChIJ40UQH9Nq9YgRzcXvhxmepdM",
+        "plus_code" : {
+           "compound_code" : "2CPH+37 Kennesaw, GA, USA",
+           "global_code" : "866Q2CPH+37"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJ40UQH9Nq9YgRzcXvhxmepdM",
+        "scope" : "GOOGLE",
+        "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 150,
+        "vicinity" : "745 Chastain Road Northwest, Kennesaw"
+     }
+  ],
+  "status" : "OK"
+}

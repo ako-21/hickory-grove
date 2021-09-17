@@ -1,0 +1,627 @@
+{
+  "html_attributions" : [],
+  "results" : [
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0046028,
+            "lng" : -84.5725073
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0060428802915,
+              "lng" : -84.5714329197085
+            },
+            "southwest" : {
+              "lat" : 34.0033449197085,
+              "lng" : -84.57413088029151
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "DICK'S Sporting Goods",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+            "height" : 3024,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/108023042195114256484\"\u003eSuzanne Iris\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uECnodxpE40LeypUIoGVoTncOPkyHCdsCIcOX2BOm5Jpm4tcOsdYAvJ3oX1SKh0lFfprZfeF0J-CqwMA1bJGHsPhBgOOH_N1Dn6tHQLmTGN8yl3w2irp1XIKKozrWcvZWOxrIjTivPKicP5gXxxlLtMGaOfoJt0wQdf0lATZ1CJYRzCJ",
+            "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJ-ZY-MhoV9YgRTifZ1sKasu0",
+      "plus_code" : {
+        "compound_code" : "2C3G+RX Kennesaw, GA, USA",
+        "global_code" : "866Q2C3G+RX"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJ-ZY-MhoV9YgRTifZ1sKasu0",
+      "scope" : "GOOGLE",
+      "types" : [
+        "shoe_store",
+        "bicycle_store",
+        "point_of_interest",
+        "clothing_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 504,
+      "vicinity" : "667 Ernest W Barrett Parkway Northwest Ste A, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0094754,
+            "lng" : -84.57374299999999
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0105718302915,
+              "lng" : -84.57208011970849
+            },
+            "southwest" : {
+              "lat" : 34.0078738697085,
+              "lng" : -84.57477808029149
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Target",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 3024,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/108023042195114256484\"\u003eSuzanne Iris\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAk2iIKjbR6moPi-TdeRrFsnp6j0PlPab5Knd2fWSjAFQVbHOyq7cS-XzpfH2ixGRHKOshjo7zOCdbAzTheuaiDlj-JNv3DmhcHypeW4NnliP0QzgitCeBAuJozDdE9Rx_sDFXYfYjmiitF7F8txPz0K8f0wipfw1_8d1owfqr-0Epz",
+            "width" : 4032
+        }
+      ],
+      "place_id" : "ChIJodCgRxgV9YgRV9gFWH6_c8Q",
+      "plus_code" : {
+        "compound_code" : "2C5G+QG Kennesaw, GA, USA",
+        "global_code" : "866Q2C5G+QG"
+      },
+      "price_level" : 2,
+      "rating" : 4.2,
+      "reference" : "ChIJodCgRxgV9YgRV9gFWH6_c8Q",
+      "scope" : "GOOGLE",
+      "types" : [
+        "department_store",
+        "grocery_or_supermarket",
+        "electronics_store",
+        "furniture_store",
+        "home_goods_store",
+        "food",
+        "point_of_interest",
+        "clothing_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 540,
+      "vicinity" : "740 Ernest W Barrett Parkway Northwest, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0251106,
+            "lng" : -84.56968259999999
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0264916302915,
+              "lng" : -84.56816841970848
+            },
+            "southwest" : {
+              "lat" : 34.0237936697085,
+              "lng" : -84.57086638029151
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Burlington",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 4160,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/104663387833033555896\"\u003eDominick Correa\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAf-8RWFwKdXClS2ED3G7LRd5rmTZvVyXPOtAyBbQLCCGCFXPfZdAzsoB_3bV8tSAsYve6Jd8E8bOel0gDUh_EW5XlZaRdgnFc6unKXd9wtYGWgC8YiP5B4kv7fU3PP2E3bodqRMHHJLrnYfW1EroR_KVpS-VMlyy5xTLUQrGDVfKkV",
+            "width" : 3120
+        }
+      ],
+      "place_id" : "ChIJR5VXKy8V9YgRk1lQf7E8kJ0",
+      "plus_code" : {
+        "compound_code" : "2CGJ+24 Kennesaw, GA, USA",
+        "global_code" : "866Q2CGJ+24"
+      },
+      "rating" : 3.9,
+      "reference" : "ChIJR5VXKy8V9YgRk1lQf7E8kJ0",
+      "scope" : "GOOGLE",
+      "types" : [ "clothing_store", "point_of_interest", "store", "establishment" ],
+      "user_ratings_total" : 267,
+      "vicinity" : "2911 George Busbee Parkway Northwest, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0176385,
+            "lng" : -84.564278
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.02410905,
+              "lng" : -84.55871164999999
+            },
+            "southwest" : {
+              "lat" : 34.01121484999999,
+              "lng" : -84.57113665
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Town Center at Cobb",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+            "height" : 707,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/111993953626988945977\"\u003eTown Center at Cobb\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAtjuxI3AaYRe0t_18LNZfBpkBGn9krnitkPmdbHFeCt6duCSq9So6O3yS0ES_LLqTdy9H0EZXAiA1U6w0-85ETc8M12Fzh4zkN2exYaId8cE4rFaexkYHhHVeU8AphJhJIoHy7qgC60gCYAxTXOWibvUuKsjhtDLXvoF49XMbpbErF",
+            "width" : 1200
+        }
+      ],
+      "place_id" : "ChIJXyRDoNgU9YgRcFBzM3vZc7c",
+      "plus_code" : {
+        "compound_code" : "2C9P+37 Kennesaw, GA, USA",
+        "global_code" : "866Q2C9P+37"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJXyRDoNgU9YgRcFBzM3vZc7c",
+      "scope" : "GOOGLE",
+      "types" : [
+        "shopping_mall",
+        "department_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 5941,
+      "vicinity" : "400 Ernest W Barrett Parkway Northwest, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.011354,
+            "lng" : -84.561638
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0128218802915,
+              "lng" : -84.5604928697085
+            },
+            "southwest" : {
+              "lat" : 34.01012391970851,
+              "lng" : -84.5631908302915
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "T.J. Maxx",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 3024,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/103843315800916533084\"\u003eLuiz Renato Fuzeto\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBp7__yAISAv-yVaaUG99xsIzRuZ3b7329oZekV2FvD_qnjjLgRkLFIwCHiMhKi3PoovEsQd9bIhaGpVXkS3fDXB0DCgybSGCLTuIX3kXp_hwnGxU7GAYnnwZGtfAlHYKS974nGiTxSFHQqzNNc_NUBTjtbm9J9hvwcEq2O3sYRIHA7",
+            "width" : 5376
+        }
+      ],
+      "place_id" : "ChIJs4hPzt8U9YgRduJWUmCHCpA",
+      "plus_code" : {
+        "compound_code" : "2C6Q+G8 Kennesaw, GA, USA",
+        "global_code" : "866Q2C6Q+G8"
+      },
+      "price_level" : 1,
+      "rating" : 4.2,
+      "reference" : "ChIJs4hPzt8U9YgRduJWUmCHCpA",
+      "scope" : "GOOGLE",
+      "types" : [
+        "department_store",
+        "jewelry_store",
+        "point_of_interest",
+        "clothing_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 805,
+      "vicinity" : "425 Ernest W Barrett Parkway Northwest, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0116841,
+            "lng" : -84.5611981
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.01316088029151,
+              "lng" : -84.55998451970848
+            },
+            "southwest" : {
+              "lat" : 34.01046291970851,
+              "lng" : -84.5626824802915
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Marshalls",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 3120,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/104628900113607701469\"\u003eDavid Strain\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEA9U1SqFAtusAdoZuGo5QDnqO7CnPSfmjk0_6pC_3QpLicLscEx5C3iZSKF43NoZPkBY0xpfVVXX5iOYVgdnXn-YvwRoKPmM_ZK_1_6bkRxbr023ZJTjuCDEOFdkaKuMB9ZC45vgeuiMqJP3B_jslibCwV_e-pFusI352VzwdXq92KY",
+            "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJs4hPzt8U9YgRok7KeKtt3tQ",
+      "plus_code" : {
+        "compound_code" : "2C6Q+MG Kennesaw, GA, USA",
+        "global_code" : "866Q2C6Q+MG"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJs4hPzt8U9YgRok7KeKtt3tQ",
+      "scope" : "GOOGLE",
+      "types" : [
+        "department_store",
+        "point_of_interest",
+        "clothing_store",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 684,
+      "vicinity" : "425 Barrett Parkway N.W, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0519416,
+            "lng" : -84.5985153
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0532788302915,
+              "lng" : -84.59718381970849
+            },
+            "southwest" : {
+              "lat" : 34.0505808697085,
+              "lng" : -84.5998817802915
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "The Home Depot",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 750,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/113212739351879685026\"\u003eThe Home Depot\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEB7kZJme-etMcBe4imeSjRNe1XBOvH1kEU8QSn73HG5qukb0SzoBRUkdAXs1w5iXZ9zPyIcvLXRZURfAYBDT1Xzg0onWOyY1jClpTTLqZ3pV_q_i1zqXvWUXEMDdD2D06bWkjGjBDgpA7HwDfWRVGYyTzry0E9xx3rsy6YGPMWGo6bv",
+            "width" : 1331
+        }
+      ],
+      "place_id" : "ChIJK8YNhaNq9YgR8ljWpD3rByA",
+      "plus_code" : {
+        "compound_code" : "3C22+QH Kennesaw, GA, USA",
+        "global_code" : "866Q3C22+QH"
+      },
+      "price_level" : 1,
+      "rating" : 4.4,
+      "reference" : "ChIJK8YNhaNq9YgR8ljWpD3rByA",
+      "scope" : "GOOGLE",
+      "types" : [
+        "hardware_store",
+        "furniture_store",
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 1122,
+      "vicinity" : "1655 Shiloh Road Northwest, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0818454,
+            "lng" : -84.53977689999999
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0832589302915,
+              "lng" : -84.53842616970849
+            },
+            "southwest" : {
+              "lat" : 34.0805609697085,
+              "lng" : -84.54112413029149
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Lowe's Home Improvement",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 270,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/111155071155253664654\"\u003eLowe&#39;s Home Improvement\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAY0QqSHfQI9xfwIaxNPXKw9YHyrE9h6VPZ-xLVVzw0yj21fSqcLzwrl64siXFfHbDtTKA65rUm_9Fqg72elX0wFGFE0VKl4YIpv4sn2Vc-VodVBhF-KeUB0gLK-ePhKO2JB3U3bB2Zdpml0u1RIT0hlD6s_5h7BBgkJyNDysASv9Th",
+            "width" : 480
+        }
+      ],
+      "place_id" : "ChIJeXjSpJ9r9YgR2rdcupdtQng",
+      "plus_code" : {
+        "compound_code" : "3FJ6+P3 Woodstock, GA, USA",
+        "global_code" : "866Q3FJ6+P3"
+      },
+      "price_level" : 1,
+      "rating" : 4.2,
+      "reference" : "ChIJeXjSpJ9r9YgR2rdcupdtQng",
+      "scope" : "GOOGLE",
+      "types" : [
+        "hardware_store",
+        "furniture_store",
+        "home_goods_store",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total" : 1327,
+      "vicinity" : "575 Molly Lane, Woodstock"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0417862,
+            "lng" : -84.60183189999999
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0431776802915,
+              "lng" : -84.6005757197085
+            },
+            "southwest" : {
+              "lat" : 34.0404797197085,
+              "lng" : -84.60327368029151
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Kennesaw Promenade Shopping Center",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 2988,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/117863324730476141968\"\u003eBumbum Bamers\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uED5sjasBcTyYLbLu8MdixA3VufF1hbFJnUzyJ6HU1vgemNnwM482QzYt0gDfkKhFZRgiHQ2QGGCCIjGphaTjp-t2ozwZVW96HKs8UMcEAs9iawtxTqbIGGGqb_WFuZXIJsI4pKLFzZUPqAWyLa8OSUQT66_gwnv5pKHZUOHN0OEXUDT",
+            "width" : 5312
+        }
+      ],
+      "place_id" : "ChIJk1ODsqRq9YgR22S6FK1rjVY",
+      "plus_code" : {
+        "compound_code" : "29RX+P7 Kennesaw, GA, USA",
+        "global_code" : "866Q29RX+P7"
+      },
+      "rating" : 4.4,
+      "reference" : "ChIJk1ODsqRq9YgR22S6FK1rjVY",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 150,
+      "vicinity" : "3600 Cherokee Street Northwest suit 113, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.11245,
+            "lng" : -84.56405699999999
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.1142308302915,
+              "lng" : -84.56075415000001
+            },
+            "southwest" : {
+              "lat" : 34.1115328697085,
+              "lng" : -84.56721515000001
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Summit at Towne Lake",
+      "opening_hours" : {
+        "open_now" : true
+      },
+      "photos" : [
+        {
+            "height" : 4128,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/106700720377990135674\"\u003eYehloe The Poet\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAKWSd4_xpf6h8H3rqdu7W_JAg-yjH0bcjeQZRZapdGKfz-x5nk_0Di00irOA7RukeOPMEpqMqvhwTfTHTfoHOOTkH32IE5fI8XOuGzLNjTyhANRnwd_85HTdbK3Z8zyB3wVk4-vrca6etCd5To4YK3ePs4lI8QYSrUsjGWAldbCXwa",
+            "width" : 2322
+        }
+      ],
+      "place_id" : "ChIJW_qYytJr9YgRQiQJEjFa8DE",
+      "plus_code" : {
+        "compound_code" : "4C6P+X9 Woodstock, GA, USA",
+        "global_code" : "866Q4C6P+X9"
+      },
+      "rating" : 4.1,
+      "reference" : "ChIJW_qYytJr9YgRQiQJEjFa8DE",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 134,
+      "vicinity" : "2060 Eagle Drive, Woodstock"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.0099694,
+            "lng" : -84.5734221
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.01554120000001,
+              "lng" : -84.56660345
+            },
+            "southwest" : {
+              "lat" : 34.0027748,
+              "lng" : -84.58117725000002
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Barrett Pavilion",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+            "height" : 2977,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/101592386894931194884\"\u003eKaraLeigh\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEBiyphBBGImhp-nGlFqVwq3Iddqp7cyxM-R64XfxqdDSsPGNcSWybQE3xxqR6vBarJt11-7OAF_R7p3JJq1z7AQSzBW464DCTwmYICKl8ubZT0x4aFYny44_YzT9G66rh6-yoc5ND4OunR_wdJ6m1qQfxDVg9RGiLL8l3AvG2DLSyh9",
+            "width" : 3970
+        }
+      ],
+      "place_id" : "ChIJU-3s8CIV9YgR2wwTrRMukUk",
+      "plus_code" : {
+        "compound_code" : "2C5G+XJ Kennesaw, GA, USA",
+        "global_code" : "866Q2C5G+XJ"
+      },
+      "rating" : 4.3,
+      "reference" : "ChIJU-3s8CIV9YgR2wwTrRMukUk",
+      "scope" : "GOOGLE",
+      "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+      "user_ratings_total" : 2895,
+      "vicinity" : "740 Ernest W Barrett Parkway Northwest, Kennesaw"
+    },
+    {
+      "business_status" : "OPERATIONAL",
+      "geometry" : {
+        "location" : {
+            "lat" : 34.01617289999999,
+            "lng" : -84.55129339999999
+        },
+        "viewport" : {
+            "northeast" : {
+              "lat" : 34.0173878302915,
+              "lng" : -84.5499575197085
+            },
+            "southwest" : {
+              "lat" : 34.0146898697085,
+              "lng" : -84.55265548029152
+            }
+        }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color" : "#4B96F3",
+      "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "name" : "Petco",
+      "opening_hours" : {
+        "open_now" : false
+      },
+      "photos" : [
+        {
+            "height" : 3120,
+            "html_attributions" : [
+              "\u003ca href=\"https://maps.google.com/maps/contrib/104628900113607701469\"\u003eDavid Strain\u003c/a\u003e"
+            ],
+            "photo_reference" : "Aap_uEAy1aJ6wgyiMvm_bArGy78lebmWsC5TXpJdWhVtqe4E2oBL38dmjjGQFO_nzrpXIOm_L7ygBa1pbSf-VbutLD6YAWKW8CMBhvQRmt7Z949VNRAqz9EARZ0XK7DeRdm3jnvHf_IjAkjKWrhybid-sslusht4Ek7tIWziyqsCAV67LlJw",
+            "width" : 4160
+        }
+      ],
+      "place_id" : "ChIJ21Q8gMMU9YgRc35m5FI8twU",
+      "plus_code" : {
+        "compound_code" : "2C8X+FF Marietta, GA, USA",
+        "global_code" : "866Q2C8X+FF"
+      },
+      "price_level" : 2,
+      "rating" : 4.3,
+      "reference" : "ChIJ21Q8gMMU9YgRc35m5FI8twU",
+      "scope" : "GOOGLE",
+      "types" : [ "pet_store", "point_of_interest", "store", "establishment" ],
+      "user_ratings_total" : 393,
+      "vicinity" : "50 Ernest W Barrett Parkway Northwest #500, Marietta"
+    }
+],
+"status" : "OK"
+}

@@ -1,0 +1,1039 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uECEvagWFhtpfEhNbbWB3PpIhheNTG8xGIx5XuR7dNy-wstwE8fUm0yefGkUAFAjEtwOY5nRTbl9ewjXktpxv65o1oA4Eh_okf2pB6jf7moXeJb3XXxZjcYlG0zDfCtAP62MnsKzmVM9qjhPFoyX_4bsxafjIYmupM8PO1C42udi6JDunfuuu1pmvnkaAjEI1w-6ZmlhnsGynjPBYoiY1UurmnQeuZOatJk0uhoT8W-ecTRu8LbFM5NKPvihAfdYbJhEDbZI7ld5oBwagVo6PUi2NhnrHm7BLEBr6PJQRpOmM2zgM9gfGQd0tXgrWkd9hR2Hu7QqQQEVhN6p4yPbutev0jbUzr5jJ6M11yF32snnrWNXgqCt287h713gKOLfpqnJhadUHKNZYEzauOHPdUp41IQUx-xdKJPOW9G-s4Ev52LA65gOeAXLrLo64Xli",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0557124,
+              "lng" : -84.5547045
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.05698153029149,
+                 "lng" : -84.5533790697085
+              },
+              "southwest" : {
+                 "lat" : 34.0542835697085,
+                 "lng" : -84.5560770302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Harbor Freight Tools",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 768,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102712568402486400716\"\u003eHarbor Freight Tools\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECfHOS_e844JzgdqmYEloripxSsFU7LUY640Qv0OokyrS4Xa4jvn6Kggk2QNZnBBhVkjLB6l_vGnZvDOiJIsp1uvUMRaN28_np-T6HqtkC56s3o6YjGHjtI7q432bgIxllqQC6ofrlpjD1nrKtOljtDya-iENKA7qWWIrLBqu9j4Ez1",
+              "width" : 1259
+           }
+        ],
+        "place_id" : "ChIJ2WKnBRhr9YgRKfTp1Ki-FLk",
+        "plus_code" : {
+           "compound_code" : "3C4W+74 Kennesaw, GA, USA",
+           "global_code" : "866Q3C4W+74"
+        },
+        "price_level" : 1,
+        "rating" : 4.3,
+        "reference" : "ChIJ2WKnBRhr9YgRKfTp1Ki-FLk",
+        "scope" : "GOOGLE",
+        "types" : [ "hardware_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 853,
+        "vicinity" : "4290 Bells Ferry Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0866956,
+              "lng" : -84.53887309999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.08783708029149,
+                 "lng" : -84.53742611970848
+              },
+              "southwest" : {
+                 "lat" : 34.08513911970849,
+                 "lng" : -84.54012408029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "The Home Depot",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 960,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/116136744801614661186\"\u003esilvia lucia\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBva0eP8Pp5SW6nxyYrcr2tQggEDKrUYgcZtmhkmRWpZejB3KZ6j5H8tKAGuQx0bS7IUi8xDic1asYmmDhvmQRZj2iyD4_ZP4ZQCv9cU8lafKw5Jq-Jhw77SJu62QAJI3rERNQoqpvihA_CTw2FT9scW4ClwModoOegiXCoVeLlpzKg",
+              "width" : 1280
+           }
+        ],
+        "place_id" : "ChIJeamR9Zlr9YgRX1xOkYh-dDY",
+        "plus_code" : {
+           "compound_code" : "3FP6+MF Woodstock, GA, USA",
+           "global_code" : "866Q3FP6+MF"
+        },
+        "price_level" : 1,
+        "rating" : 4.3,
+        "reference" : "ChIJeamR9Zlr9YgRX1xOkYh-dDY",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "furniture_store",
+           "home_goods_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 1193,
+        "vicinity" : "9037 Highway 92, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1128055,
+              "lng" : -84.58460869999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1140028302915,
+                 "lng" : -84.58275956970849
+              },
+              "southwest" : {
+                 "lat" : 34.1113048697085,
+                 "lng" : -84.58545753029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Walmart Supercenter",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 600,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109046930507285886537\"\u003eWalmart Supercenter\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAdpqXsJXU0BmiJ71hEwfJqis_vlv9kqC5DGRVvrmyPsaiMy7QrhF6Kwwd2UQJtvKE1lkPHypgoiy1jtBA2_gHey-4LesrBbgYwN3HddNXsEgmN4AnOV5M2TtDldOrP-lm__yO-uK2QPTJLQznpSdCYVYp8APKLdGM462FJ3cNlFN3K",
+              "width" : 1067
+           }
+        ],
+        "place_id" : "ChIJrRQluyJq9YgRo6vPSkdyqIs",
+        "plus_code" : {
+           "compound_code" : "4C78+45 Woodstock, GA, USA",
+           "global_code" : "866Q4C78+45"
+        },
+        "price_level" : 1,
+        "rating" : 4,
+        "reference" : "ChIJrRQluyJq9YgRo6vPSkdyqIs",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "hardware_store",
+           "grocery_or_supermarket",
+           "electronics_store",
+           "furniture_store",
+           "home_goods_store",
+           "food",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 3175,
+        "vicinity" : "6435 Bells Ferry Road, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0285659,
+              "lng" : -84.6578842
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0301699302915,
+                 "lng" : -84.65710441970849
+              },
+              "southwest" : {
+                 "lat" : 34.0274719697085,
+                 "lng" : -84.6598023802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Walmart Supercenter",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 600,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/107560501369057724259\"\u003eWalmart Supercenter\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECbtUp51ShBe6dXCDzva9X-9DkHPeAxSe_NdEHzvpCf6gf6CyXbdYXf9OSQVSv8anp9p3mRmGbiaoSeQDfR_Jhk1pIw90arRXXa2QuYei4rzx3zBLZ0CSgjYQqmco0r4UnwAGxV25j7ZMXa9YxUtTGQB_asoRkqOv0w97X6j5VNp_-W",
+              "width" : 1067
+           }
+        ],
+        "place_id" : "ChIJ1Yt6Sto_9YgR3SNBI9gTMuA",
+        "plus_code" : {
+           "compound_code" : "28HR+CR Acworth, GA, USA",
+           "global_code" : "866Q28HR+CR"
+        },
+        "price_level" : 1,
+        "rating" : 4,
+        "reference" : "ChIJ1Yt6Sto_9YgR3SNBI9gTMuA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "hardware_store",
+           "grocery_or_supermarket",
+           "electronics_store",
+           "furniture_store",
+           "home_goods_store",
+           "food",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 2222,
+        "vicinity" : "3105 Cobb Parkway Northwest, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0519416,
+              "lng" : -84.5985153
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0532788302915,
+                 "lng" : -84.59718381970849
+              },
+              "southwest" : {
+                 "lat" : 34.0505808697085,
+                 "lng" : -84.5998817802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "The Home Depot",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 750,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113212739351879685026\"\u003eThe Home Depot\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEB7kZJme-etMcBe4imeSjRNe1XBOvH1kEU8QSn73HG5qukb0SzoBRUkdAXs1w5iXZ9zPyIcvLXRZURfAYBDT1Xzg0onWOyY1jClpTTLqZ3pV_q_i1zqXvWUXEMDdD2D06bWkjGjBDgpA7HwDfWRVGYyTzry0E9xx3rsy6YGPMWGo6bv",
+              "width" : 1331
+           }
+        ],
+        "place_id" : "ChIJK8YNhaNq9YgR8ljWpD3rByA",
+        "plus_code" : {
+           "compound_code" : "3C22+QH Kennesaw, GA, USA",
+           "global_code" : "866Q3C22+QH"
+        },
+        "price_level" : 1,
+        "rating" : 4.4,
+        "reference" : "ChIJK8YNhaNq9YgR8ljWpD3rByA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "furniture_store",
+           "home_goods_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 1122,
+        "vicinity" : "1655 Shiloh Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.019294,
+              "lng" : -84.55710649999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.02081353029151,
+                 "lng" : -84.55534176970849
+              },
+              "southwest" : {
+                 "lat" : 34.01811556970851,
+                 "lng" : -84.5580397302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Walmart Supercenter",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 600,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109095923172984390362\"\u003eWalmart Supercenter\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDU4F10m61PhasIaNp924qRG5Ujen_ykVtKKMZr2Y1IgEo1Asm4T-X_T38ilAuPJGnWmjOY_JYVMKzRAt-O0c65ftBYIWyZENZWKv-1OECUGssH2-BNtEN3izfTV40CKmAGT9D6VTy7maQ0kn65GD4-DXcVXaJmyO3Br5TpQfRt3zdk",
+              "width" : 1067
+           }
+        ],
+        "place_id" : "ChIJAdMFiNoU9YgREwVyqHgZFxI",
+        "plus_code" : {
+           "compound_code" : "2C9V+P5 Marietta, GA, USA",
+           "global_code" : "866Q2C9V+P5"
+        },
+        "price_level" : 1,
+        "rating" : 3.8,
+        "reference" : "ChIJAdMFiNoU9YgREwVyqHgZFxI",
+        "scope" : "GOOGLE",
+        "types" : [
+           "department_store",
+           "hardware_store",
+           "grocery_or_supermarket",
+           "electronics_store",
+           "furniture_store",
+           "home_goods_store",
+           "food",
+           "point_of_interest",
+           "clothing_store",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 3609,
+        "vicinity" : "2795 Chastain Meadows Parkway Northwest, Marietta"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0818454,
+              "lng" : -84.53977689999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0832589302915,
+                 "lng" : -84.53842616970849
+              },
+              "southwest" : {
+                 "lat" : 34.0805609697085,
+                 "lng" : -84.54112413029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Lowe's Home Improvement",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 270,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111155071155253664654\"\u003eLowe&#39;s Home Improvement\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAY0QqSHfQI9xfwIaxNPXKw9YHyrE9h6VPZ-xLVVzw0yj21fSqcLzwrl64siXFfHbDtTKA65rUm_9Fqg72elX0wFGFE0VKl4YIpv4sn2Vc-VodVBhF-KeUB0gLK-ePhKO2JB3U3bB2Zdpml0u1RIT0hlD6s_5h7BBgkJyNDysASv9Th",
+              "width" : 480
+           }
+        ],
+        "place_id" : "ChIJeXjSpJ9r9YgR2rdcupdtQng",
+        "plus_code" : {
+           "compound_code" : "3FJ6+P3 Woodstock, GA, USA",
+           "global_code" : "866Q3FJ6+P3"
+        },
+        "price_level" : 1,
+        "rating" : 4.2,
+        "reference" : "ChIJeXjSpJ9r9YgR2rdcupdtQng",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "furniture_store",
+           "home_goods_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 1327,
+        "vicinity" : "575 Molly Lane, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0072685,
+              "lng" : -84.56318379999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0084999802915,
+                 "lng" : -84.56212666970849
+              },
+              "southwest" : {
+                 "lat" : 34.0058020197085,
+                 "lng" : -84.5648246302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "The Home Depot",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 1632,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/118427722122652704773\"\u003eThe Home Depot\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uED5wYJ4L4ixBf6AsGJXuo-YubTpKJq2R_GpnGzqQNF2REgC3W7KgB4YqJ_wqUzzfnQAubv4YGKWScD9hwU8-uoNNWuBjkw942TZHCzxaY10QGFAoCZU9RcPpI5eTd6j7NHi3wf_iRTK0FxjB5-He4uAEVbP0TqnmXLKUy-CpWFBEjK7",
+              "width" : 1224
+           }
+        ],
+        "place_id" : "ChIJbxlD2uEU9YgRf9kLJqi3NvY",
+        "plus_code" : {
+           "compound_code" : "2C4P+WP Kennesaw, GA, USA",
+           "global_code" : "866Q2C4P+WP"
+        },
+        "price_level" : 1,
+        "rating" : 4.2,
+        "reference" : "ChIJbxlD2uEU9YgRf9kLJqi3NvY",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "furniture_store",
+           "home_goods_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 841,
+        "vicinity" : "449 Roberts Court NW, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0356482,
+              "lng" : -84.6729514
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0367392802915,
+                 "lng" : -84.67153401970849
+              },
+              "southwest" : {
+                 "lat" : 34.0340413197085,
+                 "lng" : -84.67423198029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Lowe's Home Improvement",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 270,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101247720724994243862\"\u003eLowe&#39;s Home Improvement\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAGFM_uvf_UWh4U7cyvgp6PhJD_1KnwQkJhX5SMGDhPdTDwCU2kRbKvVarBg2tf4Kyx0a-vCMHPsPWeIIlTyap_6El1_LIrg6-gxdunEu8MEM_0AhuyG7Iq1SEAscDZMgAu2QY5BcnEHrX5LbtKRzbVNon7PC8SSS3c-38LpWgWPYDE",
+              "width" : 480
+           }
+        ],
+        "place_id" : "ChIJESb8K1k_9YgRPQgxfmViupM",
+        "plus_code" : {
+           "compound_code" : "28PG+7R Kennesaw, GA, USA",
+           "global_code" : "866Q28PG+7R"
+        },
+        "price_level" : 1,
+        "rating" : 4.2,
+        "reference" : "ChIJESb8K1k_9YgRPQgxfmViupM",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "furniture_store",
+           "home_goods_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 1097,
+        "vicinity" : "3250 Cobb Parkway Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.030314,
+              "lng" : -84.5788565
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0314017302915,
+                 "lng" : -84.57732771970849
+              },
+              "southwest" : {
+                 "lat" : 34.0287037697085,
+                 "lng" : -84.5800256802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Rexel",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101831319436277231038\"\u003eRexel\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDR4vXec9pvaxF4GRthA2ZqsGzXjX4s66gcdWwwArBVF-ssHoosqyGqI9t-FYTyLq8wn-Y9vJCBSgRfpltN_cCWhx4JTF9ZHT1HPNaaQH8aiWMnN2rX4VIzrLVliT6ZARbuelZr5S0JrzSFAEr2nRdOL5og4h097P_NOhfHKvhR7Uq-",
+              "width" : 1000
+           }
+        ],
+        "place_id" : "ChIJm-kq-TMV9YgRDJOx1D1AW4o",
+        "plus_code" : {
+           "compound_code" : "2CJC+4F Kennesaw, GA, USA",
+           "global_code" : "866Q2CJC+4F"
+        },
+        "rating" : 5,
+        "reference" : "ChIJm-kq-TMV9YgRDJOx1D1AW4o",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "home_goods_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 6,
+        "vicinity" : "Pkwy NW, 3380 Town Point Drive Northwest #230, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0422454,
+              "lng" : -84.61567989999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0437201302915,
+                 "lng" : -84.61427611970849
+              },
+              "southwest" : {
+                 "lat" : 34.0410221697085,
+                 "lng" : -84.6169740802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Green Building Resources Llc",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJ4_uG7QVA9YgRLf_LUxP6vIU",
+        "plus_code" : {
+           "compound_code" : "29RM+VP Kennesaw, GA, USA",
+           "global_code" : "866Q29RM+VP"
+        },
+        "reference" : "ChIJ4_uG7QVA9YgRLf_LUxP6vIU",
+        "scope" : "GOOGLE",
+        "types" : [ "hardware_store", "point_of_interest", "store", "establishment" ],
+        "vicinity" : "3240 Heritage Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.087929,
+              "lng" : -84.55858099999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.08930713029149,
+                 "lng" : -84.55702791970849
+              },
+              "southwest" : {
+                 "lat" : 34.0866091697085,
+                 "lng" : -84.5597258802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Croft Builders Hardware",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 350,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/113360119626136916676\"\u003eCroft Builders Hardware\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEC1LS9TWsGJ1NIOln3VHd-NsWB3rKRDjAduz3VcpClVyV3W26nD_9g6OXVjAay2g2TSaPIpqxiktA_wA3wxguu3iMWgOppMAy3jfrI_3NvhPG9dBImNQwI1X_f7V13oTagQKoOK9YGulO41MSJGh4Go_mgTO6yqQRlumWCX5Y0ab3hd",
+              "width" : 524
+           }
+        ],
+        "place_id" : "ChIJ1cv6Ba5r9YgRjYew3Orgi1k",
+        "plus_code" : {
+           "compound_code" : "3CQR+5H Woodstock, GA, USA",
+           "global_code" : "866Q3CQR+5H"
+        },
+        "rating" : 5,
+        "reference" : "ChIJ1cv6Ba5r9YgRjYew3Orgi1k",
+        "scope" : "GOOGLE",
+        "types" : [ "hardware_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "515 Industrial Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.01121980000001,
+              "lng" : -84.56219249999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0126117802915,
+                 "lng" : -84.5608816197085
+              },
+              "southwest" : {
+                 "lat" : 34.0099138197085,
+                 "lng" : -84.5635795802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Rockler Woodworking and Hardware - Kennesaw",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 768,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/105945141112997789518\"\u003eTegan C.\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECM0qYtCvjRTctJ2rRcMg1f-q5n7Ub_UxHtuAQO_DEui-bGhRaP-LQ9PDyZHi_mSdX14sgrKqmKkPAvcO3CgSg0qTL8RfNeM34eYeYOc7ulENl_1CuogYfvL1zOqPgWDXc657QH71-fzwsm55qAcYwNMTxoLSGT3h7Iag_jsKYLngRv",
+              "width" : 1024
+           }
+        ],
+        "place_id" : "ChIJd6rX2d8U9YgRXotYmnyIPQ8",
+        "plus_code" : {
+           "compound_code" : "2C6Q+F4 Kennesaw, GA, USA",
+           "global_code" : "866Q2C6Q+F4"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJd6rX2d8U9YgRXotYmnyIPQ8",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "general_contractor",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 101,
+        "vicinity" : "425 Ernest W Barrett Parkway Northwest #1120, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.00499069999999,
+              "lng" : -84.59696409999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.00615283029149,
+                 "lng" : -84.59564966970848
+              },
+              "southwest" : {
+                 "lat" : 34.0034548697085,
+                 "lng" : -84.5983476302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "HomElectrical",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 2048,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/105084685840331909888\"\u003eNicholas Bair\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA0t1ZUmebncrTg9RiN2b2tuvXLq82Yuvc3kD3X3D89hZjl6xZS7G8fLuIlUdGfgh9PBqK9rXdBmtUP1ZmYlXZhLpb97no7zhFrJFppb4JywnN8o09whh-s6RQvsa0RSbafhZOottAht9ijI7iOuWkDtV2BnSpE_lXSfFJheKSOLkqO",
+              "width" : 1536
+           }
+        ],
+        "place_id" : "ChIJ81kKxUgQ9YgR8tTrOmU-W_w",
+        "plus_code" : {
+           "compound_code" : "2C33+X6 Kennesaw, GA, USA",
+           "global_code" : "866Q2C33+X6"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJ81kKxUgQ9YgR8tTrOmU-W_w",
+        "scope" : "GOOGLE",
+        "types" : [ "hardware_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 427,
+        "vicinity" : "1590 North Roberts Road #110, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0167073,
+              "lng" : -84.61261499999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0183600802915,
+                 "lng" : -84.61142101970849
+              },
+              "southwest" : {
+                 "lat" : 34.0156621197085,
+                 "lng" : -84.61411898029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Builders FirstSource",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 675,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110536168155150334108\"\u003eBuilders FirstSource\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAxgGdaDyzOa9gjc5Fl5mWhSiyDOv-ZhChTLPbK6LSz45KXitRT0NNBxWV_uGBht5vDApZQfDfTPjYzoF3UTnaamOgyLxP2QMN88f_4wYsxl0Lv7pycy9zdIOCFP6IPJwXuDrLwviztMkYdrTOsnHtzQr2FaKUS_DxLwNaBKn6bYnhb",
+              "width" : 1200
+           }
+        ],
+        "place_id" : "ChIJVxwhjuY_9YgRyVOoqjm1egA",
+        "plus_code" : {
+           "compound_code" : "298P+MX Kennesaw, GA, USA",
+           "global_code" : "866Q298P+MX"
+        },
+        "rating" : 3.9,
+        "reference" : "ChIJVxwhjuY_9YgRyVOoqjm1egA",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "home_goods_store",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 15,
+        "vicinity" : "2600 Summers Street, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.08141979999999,
+              "lng" : -84.65767719999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.08306088029149,
+                 "lng" : -84.65651046970849
+              },
+              "southwest" : {
+                 "lat" : 34.08036291970849,
+                 "lng" : -84.6592084302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "BMC - Building Materials & Construction Solutions",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 270,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101591330899300712321\"\u003eBMC - Building Materials &amp; Construction Solutions\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECdoBP94krGtKbKSdtjGHbNiSThI2ghuWapSxnDxvt12saIzCQxdkyCX9UNE0OL-N9nE7MHJdlWUs5MfXiW1Jpk78simVhYOTjFfrDK244l7r49rlZ27YthgALBejS-KFi1TVrelOsrvXUjLwR5e-phRyAvhG_5oLTLqlJ4uMDGS09c",
+              "width" : 480
+           }
+        ],
+        "place_id" : "ChIJBReMziFB9YgR24WKHhIVfMs",
+        "plus_code" : {
+           "compound_code" : "38JR+HW Acworth, GA, USA",
+           "global_code" : "866Q38JR+HW"
+        },
+        "rating" : 3.4,
+        "reference" : "ChIJBReMziFB9YgR24WKHhIVfMs",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "general_contractor",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 33,
+        "vicinity" : "399 Northpoint Parkway Southeast, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1115652,
+              "lng" : -84.56232179999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1129621302915,
+                 "lng" : -84.5610905697085
+              },
+              "southwest" : {
+                 "lat" : 34.1102641697085,
+                 "lng" : -84.5637885302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Enhance Scape",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "place_id" : "ChIJ-SaymtJr9YgRAHrun2k6cu8",
+        "plus_code" : {
+           "compound_code" : "4C6Q+J3 Woodstock, GA, USA",
+           "global_code" : "866Q4C6Q+J3"
+        },
+        "reference" : "ChIJ-SaymtJr9YgRAHrun2k6cu8",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "general_contractor",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "vicinity" : "6478 Putnam Ford Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0873002,
+              "lng" : -84.5568699
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0884919802915,
+                 "lng" : -84.5556774197085
+              },
+              "southwest" : {
+                 "lat" : 34.0857940197085,
+                 "lng" : -84.55837538029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Air Staples & Nails",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 949,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110760058579085149145\"\u003eAir Staples Nails\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEA0NoXBBW7KMDbkYalZi2tUrUt1LuRK2fyno-CLw7sck66JDtUsEPactYtJ949Cf0QIrlu_NF6u-BZreZ3jXxAusg-qnlq1mRQBIzVciE7-VJKYBgmFxC2OP7XkSmnLulhKsFQo498yL6lvrznvtDGqLsbELQ_83k87K8N06F4YXRrV",
+              "width" : 1495
+           }
+        ],
+        "place_id" : "ChIJzYu6N65r9YgR_sOLcyDc3UM",
+        "plus_code" : {
+           "compound_code" : "3CPV+W7 Woodstock, GA, USA",
+           "global_code" : "866Q3CPV+W7"
+        },
+        "rating" : 5,
+        "reference" : "ChIJzYu6N65r9YgR_sOLcyDc3UM",
+        "scope" : "GOOGLE",
+        "types" : [
+           "hardware_store",
+           "general_contractor",
+           "point_of_interest",
+           "store",
+           "establishment"
+        ],
+        "user_ratings_total" : 11,
+        "vicinity" : "510 Industrial Drive, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.06500639999999,
+              "lng" : -84.6273533
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0661102302915,
+                 "lng" : -84.6259663197085
+              },
+              "southwest" : {
+                 "lat" : 34.06341226970851,
+                 "lng" : -84.6286642802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "TC Millwork Svc LLC",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1920,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/106858421426925050643\"\u003eAntonio Rosas\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBtk9crg6F62K_NqD6_e_geLPwzmB5l6Zx4TULwd1Z9yKq8TD15j1mIVNszB5xEXRQWQlfhAgFPoKdhiyCsF7LnJYj5VPXRjDztURqg8HJbYwojCDVY_Q4Bv25xKW2fjhq5cbZ_XaHjQukDLjngXoKJ600NZhGP12TOIAYAyRmp6Bbh",
+              "width" : 1080
+           }
+        ],
+        "place_id" : "ChIJn2ScXkdA9YgRp7Fgqk-wdxA",
+        "plus_code" : {
+           "compound_code" : "398F+23 Acworth, GA, USA",
+           "global_code" : "866Q398F+23"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJn2ScXkdA9YgRp7Fgqk-wdxA",
+        "scope" : "GOOGLE",
+        "types" : [ "hardware_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "2700 Hickory Grove Road Northwest # 2C, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0233256,
+              "lng" : -84.6264523
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0245488302915,
+                 "lng" : -84.6251432697085
+              },
+              "southwest" : {
+                 "lat" : 34.0218508697085,
+                 "lng" : -84.62784123029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color" : "#4B96F3",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name" : "Kennsaw liquidation Center",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1734,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104366584640296118673\"\u003eJustin Webb\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECJUvCXuNqlHrMqbshIXx6E3pG2Vfuu1GvoFlsl2R0uKjNwddsuC2ma1Uli97Ulphyv5aKLjV89KaFED29r91kjMGPaaUACoLYowCWQBXCz9u6TXCY9ttCesqoYqa-rRGz3VIsTef6Io0FYzS23lRxxRpIvmLJrnf-a86rtDVwBSuKt",
+              "width" : 2312
+           }
+        ],
+        "place_id" : "ChIJBdNG_SQ_9YgRgWMPkKbYXcM",
+        "plus_code" : {
+           "compound_code" : "29FF+8C Kennesaw, GA, USA",
+           "global_code" : "866Q29FF+8C"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJBdNG_SQ_9YgRgWMPkKbYXcM",
+        "scope" : "GOOGLE",
+        "types" : [ "hardware_store", "point_of_interest", "store", "establishment" ],
+        "user_ratings_total" : 36,
+        "vicinity" : "2790 Cobb Parkway Northwest suit c, Kennesaw"
+     }
+  ],
+  "status" : "OK"
+}

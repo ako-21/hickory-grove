@@ -1,0 +1,519 @@
+{
+  "html_attributions" : [],
+  "next_page_token" : "Aap_uEAZdkYwAxTTqLg8D6pJDauv0J231QVJ0f30Fv1SqtnVWxJshu7hx-QpAAqPc__akOiYPXgqnI9JUZXVA_46FOFcB-W_7-ba1j-tBz3Q2bXVCrUjXKfwf9h8GnkriawGfJ_lIwnZWBom00rYkNsU8gsBvfNN6qkBzZq8OuYn9YwjxCX9nmglAKQScUCYX8UsFp14_JvtzrUb4GVTmOfnWj2CJHNwET9u5rgVtSqV2-kr4bCJXEhWVIQ8pz6DhWCs-v1udd4PgkwqHoZmWPdpfRPsFQmo1uQNDYYkDdUFv73Veu1kmHVj9KbfOnvpcRlhSpAjwudpFlArn4bnPaopotTq7lKsq29ypmpRZ3SLwLFqhWTGtDflK6ZF4mZfB5L3VdL7YOJvmd2q09XMX0YHCXYqg-PdOZwLDvcjRdY-eadyETxyUaw",
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0883971,
+              "lng" : -84.5766914
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0896785802915,
+                 "lng" : -84.5754252697085
+              },
+              "southwest" : {
+                 "lat" : 34.0869806197085,
+                 "lng" : -84.57812323029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "Wells Fargo Bank",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1020,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECWXsfVjwm9IPa-X8WcFLI5E4dh30Q0AbY2C-GniTKU1Ry7bETw-Mr2OhRtpKj4DSPrsCTjEr33uRLgM2uuzXmKfQvmLhiSZ9v0Aul0bsrq_o4iW1r97rhZWrHbraTB0aiWZgj8GyJfrG2kkq6Ls9y3h6UGwIGLyyFDvBcp5nBNK3C5",
+              "width" : 1814
+           }
+        ],
+        "place_id" : "ChIJNdjGx1pq9YgRNOJcNcY8g4U",
+        "plus_code" : {
+           "compound_code" : "3CQF+98 Woodstock, GA, USA",
+           "global_code" : "866Q3CQF+98"
+        },
+        "rating" : 3.2,
+        "reference" : "ChIJNdjGx1pq9YgRNOJcNcY8g4U",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 24,
+        "vicinity" : "6725 Highway 92, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0480246,
+              "lng" : -84.60051609999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0493111302915,
+                 "lng" : -84.59917061970849
+              },
+              "southwest" : {
+                 "lat" : 34.0466131697085,
+                 "lng" : -84.60186858029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "Regions Bank",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1648,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103540299332465061383\"\u003eJeff Martin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDNBmUz4bcqVtlI24J-WOaUU0CkuzVfMW-5lJrbep0-XKjtJ6hxXKFXckMNWfUqTCs-GDRjYsI725jOAvUPDrezwTheEg-3excvJW4ANzoa2frsrK2v4-52TyfA3skoWGWoS8tS4ypywTu1216Fce_NKcSK_MVBBpov7cE2fn4VjXrf",
+              "width" : 2646
+           }
+        ],
+        "place_id" : "ChIJT4Mf2qVq9YgRHpc_tOU7TjA",
+        "plus_code" : {
+           "compound_code" : "29XX+6Q Kennesaw, GA, USA",
+           "global_code" : "866Q29XX+6Q"
+        },
+        "rating" : 3.4,
+        "reference" : "ChIJT4Mf2qVq9YgRHpc_tOU7TjA",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 16,
+        "vicinity" : "4255 Jiles Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1124648,
+              "lng" : -84.58134729999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1137316302915,
+                 "lng" : -84.58005726970849
+              },
+              "southwest" : {
+                 "lat" : 34.1110336697085,
+                 "lng" : -84.58275523029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "PNC Bank",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1192,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109853019116358599491\"\u003ePNC Bank\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAh-MnkZWkMTwnlhhmRvjOWl_fUEWmc03Lzpi2-_1AstI4uORrNSt0vhXd1ojxA425vqTv69mqRXWzvtJXLoOFD-kZKRX3gd1aQafyC5P8p0VqGbKiCo99K5s2p8QdKN-0O0mQWxhPfgmt8bvQZ8DH2Xk1vZpQ5rpiruRhtIf17OY7f",
+              "width" : 2119
+           }
+        ],
+        "place_id" : "ChIJYZHmHCNq9YgR2RvaGwRXado",
+        "plus_code" : {
+           "compound_code" : "4C69+XF Woodstock, GA, USA",
+           "global_code" : "866Q4C69+XF"
+        },
+        "rating" : 3.4,
+        "reference" : "ChIJYZHmHCNq9YgR2RvaGwRXado",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 21,
+        "vicinity" : "6430 Bells Ferry Road, Woodstock"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.036718,
+              "lng" : -84.566878
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0380274302915,
+                 "lng" : -84.56567456970851
+              },
+              "southwest" : {
+                 "lat" : 34.0353294697085,
+                 "lng" : -84.56837253029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "Synovus Bank",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 720,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114463075671733483813\"\u003eSynovus Bank\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECjIu9C5V0oVBWtN3OfyL597Brg63chGpOCX3VzItKTyVreUICLwmfluKD2vnPvxDoIhhIcNOXTM7RBUZVNTJWaQbf_ndbVSeAYMbzFglbBkwfApYBZL5g-DBlx__JEmrtlu25jubYTcqb9ADZLMl4p3xgB5qFy-DGCVknHp11XkpNv",
+              "width" : 1280
+           }
+        ],
+        "place_id" : "ChIJaX8IU9Rq9YgRnd0ZwVq3SSQ",
+        "plus_code" : {
+           "compound_code" : "2CPM+M6 Kennesaw, GA, USA",
+           "global_code" : "866Q2CPM+M6"
+        },
+        "rating" : 4.4,
+        "reference" : "ChIJaX8IU9Rq9YgRnd0ZwVq3SSQ",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 12,
+        "vicinity" : "555 Chastain Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.03155830000001,
+              "lng" : -84.5737168
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0329376302915,
+                 "lng" : -84.57232061970849
+              },
+              "southwest" : {
+                 "lat" : 34.0302396697085,
+                 "lng" : -84.5750185802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Credit Union of Georgia",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 4005,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117088969178673903458\"\u003eCredit Union of Georgia\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECMhsJjPLhwe6lrS4lBBdMjP3ZGL2i9-_QY8Y0-C2-9Nk-IxgiNyvofEc6JyEssRJ8-6JNy664QJAolnLjDmC3blSJJukZV9n8t--OhB-IYQ4OGh80fJAUGVL8Yqhfd8TEmJxXW9tBs-KG7mY1trwHe9bqWRbcWrcjjdSoR8ipZiaG2",
+              "width" : 5999
+           }
+        ],
+        "place_id" : "ChIJewSSEy0V9YgRHYA30j7ib-I",
+        "plus_code" : {
+           "compound_code" : "2CJG+JG Kennesaw, GA, USA",
+           "global_code" : "866Q2CJG+JG"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJewSSEy0V9YgRHYA30j7ib-I",
+        "scope" : "GOOGLE",
+        "types" : [ "atm", "bank", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 29,
+        "vicinity" : "3333 Busbee Drive Northwest # 120, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.06217699999999,
+              "lng" : -84.591927
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.06355413029149,
+                 "lng" : -84.59070451970851
+              },
+              "southwest" : {
+                 "lat" : 34.06085616970849,
+                 "lng" : -84.59340248029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "Chase Bank",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3000,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101244484036085434651\"\u003eThe Hispanic Factor by Daniel Delevin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECadyrR1_ma2oyNtj0YhvJKy14lT7jUTv21tZ9vHZBHiN7dVu3pGlUKNtvWZJIgCgjTgs4AmmBavi2lIPi7K3oJbsI18Vwdtq953cbR9OCpwFrL8B7rAUl7Mr_Q3PxZTD4tW37yDjmxk1OZY1NqtFJjyyuw0u7LstAIaGFdCPNq0J3I",
+              "width" : 3000
+           }
+        ],
+        "place_id" : "ChIJCYid45Zq9YgR7rp05d4Vj7g",
+        "plus_code" : {
+           "compound_code" : "3C65+V6 Kennesaw, GA, USA",
+           "global_code" : "866Q3C65+V6"
+        },
+        "rating" : 2.4,
+        "reference" : "ChIJCYid45Zq9YgR7rp05d4Vj7g",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 35,
+        "vicinity" : "4490 Wade Green Road Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0406452,
+              "lng" : -84.5709411
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0422322802915,
+                 "lng" : -84.5696344697085
+              },
+              "southwest" : {
+                 "lat" : 34.0395343197085,
+                 "lng" : -84.57233243029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name" : "Renasant Mortgage Lending",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 515,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/111932429058950534593\"\u003eRenasant Mortgage Lending\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBSAmL-FVkppnFiG301P199x_KB1KGelR7kinvvyGjhFsc9dg0cz7kqNBi3DLCNoDiI0qNexfJXBRJMTs6bolftrASpWdop4rvrPX_bSOPSZKb18tXg1dh-cK6UmwGNwCH54loLMcEsWNUfwxp482gXl6_xy2GlioXukxdck7W2SUml",
+              "width" : 805
+           }
+        ],
+        "place_id" : "ChIJ5f5VEtFq9YgRyE7lRL2HZ2g",
+        "plus_code" : {
+           "compound_code" : "2CRH+7J Kennesaw, GA, USA",
+           "global_code" : "866Q2CRH+7J"
+        },
+        "reference" : "ChIJ5f5VEtFq9YgRyE7lRL2HZ2g",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+        "vicinity" : "245 Townpark Drive, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0397343,
+              "lng" : -84.570747
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0410227802915,
+                 "lng" : -84.5691623197085
+              },
+              "southwest" : {
+                 "lat" : 34.0383248197085,
+                 "lng" : -84.5718602802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "Ameris Bank Mortgage Office",
+        "photos" : [
+           {
+              "height" : 900,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/118098719473638619965\"\u003eAmeris Bank Mortgage Office\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDUTjdESr8nEPN0uCWZX2bt8Mff31-MhbZoX_IlZQzvBrDdZW1u3jZkUAUSp8oc5gJxb6sofGkdRPQGIIrW2ZhyfGJYOnoMN5JQROpafBsCiBei1q1loYToQD3aiaRDzTjiE0YaX7HxT56apczuRWpM4vjYkb1kGgbc7o6RuTrxUrUc",
+              "width" : 1600
+           }
+        ],
+        "place_id" : "ChIJi9udWdFq9YgRcB93eI3AcJA",
+        "plus_code" : {
+           "compound_code" : "2CQH+VP Kennesaw, GA, USA",
+           "global_code" : "866Q2CQH+VP"
+        },
+        "rating" : 1,
+        "reference" : "ChIJi9udWdFq9YgRcB93eI3AcJA",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 1,
+        "vicinity" : "600 Townpark Ln NW Suite 190, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0369005,
+              "lng" : -84.5710583
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0383008302915,
+                 "lng" : -84.5696448197085
+              },
+              "southwest" : {
+                 "lat" : 34.0356028697085,
+                 "lng" : -84.57234278029152
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "BrandBank",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1536,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/101159238679059374458\"\u003eBrandBank\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBn7l_oWVhbNpar4DkvdNEYPMtDrefxXaJHc4B7orPputuwm6PMVtM8qA3EI4pPbjBguoPMIPin3_g_ONLwo_D7zBi--Iip3SwbIV9yRdr2mLmFbEUjj5DBf47NyM6p6kRte_CyURUBYwosqY8hB8v3nQvc8JcWpvFjs5ALkPJZCStA",
+              "width" : 2048
+           }
+        ],
+        "place_id" : "ChIJvZd8pNNq9YgRVJ6dm2i9XqQ",
+        "plus_code" : {
+           "compound_code" : "2CPH+QH Kennesaw, GA, USA",
+           "global_code" : "866Q2CPH+QH"
+        },
+        "rating" : 3.7,
+        "reference" : "ChIJvZd8pNNq9YgRVJ6dm2i9XqQ",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 3,
+        "vicinity" : "3415 George Busbee Parkway Northwest #100, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0602057,
+              "lng" : -84.59203459999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0616466802915,
+                 "lng" : -84.5908227697085
+              },
+              "southwest" : {
+                 "lat" : 34.0589487197085,
+                 "lng" : -84.5935207302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "Bank of America (with Drive-thru ATM)",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 980,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/104812989292393184574\"\u003eBank of America (with Drive-thru ATM)\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBG0vVzn6mx94fkLtuV_jb08hU2YLmE-OmlPJeFt6aC7kLWtLYJEDFshP5gGoezfSz30TbFGalx05h8d7NEjiYgnftL1JS55X57NeNALrr7BWWR_VrLIai4q44juWT4W_YZsek61IUF7D8EsdHS6r4MDujyaxBEzasKa4lO5Z5ua7Nx",
+              "width" : 1742
+           }
+        ],
+        "place_id" : "ChIJK2LeVpZq9YgRNMhUGUdn5LM",
+        "plus_code" : {
+           "compound_code" : "3C65+35 Kennesaw, GA, USA",
+           "global_code" : "866Q3C65+35"
+        },
+        "rating" : 3.1,
+        "reference" : "ChIJK2LeVpZq9YgRNMhUGUdn5LM",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 53,
+        "vicinity" : "4400 Wade Green Road, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0486008,
+              "lng" : -84.60304459999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0499474802915,
+                 "lng" : -84.60162401970848
+              },
+              "southwest" : {
+                 "lat" : 34.0472495197085,
+                 "lng" : -84.6043219802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bank-71.png",
+        "icon_background_color" : "#909CE1",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bank-intl_pinlet",
+        "name" : "Fifth Third Bank & ATM",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 311,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/114205047338499247443\"\u003eFifth Third Bank &amp; ATM\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAwPd3_w01D5Cha1lU5VKbfuL-arKJJ8dOYjEHLp7iJKr_hYyazvjmY4sNLARgcThvnawpEhh6SJinHz1LyFKxo39pg_JM2U4DUitTUklDPtxsR6NAjx60SUahn9-IGk6IDMIO4nKslwtUGUdm4ohvAoUDWhqqQMR4f01SxQyX0TWJH",
+              "width" : 554
+           }
+        ],
+        "place_id" : "ChIJa0o0saVq9YgRZM8N2e6UbhI",
+        "plus_code" : {
+           "compound_code" : "29XW+CQ Kennesaw, GA, USA",
+           "global_code" : "866Q29XW+CQ"
+        },
+        "rating" : 3.5,
+        "reference" : "ChIJa0o0saVq9YgRZM8N2e6UbhI",
+        "scope" : "GOOGLE",
+        "types" : [ "bank", "atm", "finance", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 11,
+        "vicinity" : "3895 Cherokee Street Northwest, Kennesaw"
+     }
+  ],
+  "status" : "OK"
+}

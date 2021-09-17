@@ -1,0 +1,395 @@
+{
+  "html_attributions" : [],
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0242119,
+              "lng" : -84.614238
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0253307802915,
+                 "lng" : -84.6130646197085
+              },
+              "southwest" : {
+                 "lat" : 34.02263281970851,
+                 "lng" : -84.6157625802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "Southern Museum of Civil War and Locomotive History",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117498849598181011052\"\u003eRaymond Dusch\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEDkPS0Q1ioerDRPXbmiaYu21O6WJbBw3u057teMIxZK6uvJKqENFKZRBwRd61nqq47QJ2B-1ZNn27Y3mKQm1oXt7Qx2phJe-Ox9EPXREwpNpUWxRjzqjM3dTwECh2W1cSbA8dPHz2dQN4hOV5QWGlo0wrQHZRZP4GSO2fc-a_5hITOH",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJxZ0MK-U_9YgRigZb5thsLvM",
+        "plus_code" : {
+           "compound_code" : "29FP+M8 Kennesaw, GA, USA",
+           "global_code" : "866Q29FP+M8"
+        },
+        "rating" : 4.7,
+        "reference" : "ChIJxZ0MK-U_9YgRigZb5thsLvM",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 704,
+        "vicinity" : "2829 Cherokee Street Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0410308,
+              "lng" : -84.58342740000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0425692802915,
+                 "lng" : -84.5817028197085
+              },
+              "southwest" : {
+                 "lat" : 34.0398713197085,
+                 "lng" : -84.5844007802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "Zuckerman Museum of Art",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 1277,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/103565524380562123003\"\u003eZuckerman Museum of Art\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEBQhjaIadnqVzAowFhvYpjLG9NyKphYZoRbM69CsqJRo5OLUpL39ictN8oMC56fhm8hAu4HNfohMpBLRIV5TvU7nAYggb5Dpv9g82I0t__nwJeFPkg5rLYSuC1FVJvKquY1oEA6LpK4TpF1G25DCXM6o9VcStq2wlIg3Z_JIYOch70K",
+              "width" : 1920
+           }
+        ],
+        "place_id" : "ChIJf7P3vclq9YgRcr-pDv-ne3w",
+        "plus_code" : {
+           "compound_code" : "2CR8+CJ Kennesaw, GA, USA",
+           "global_code" : "866Q2CR8+CJ"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJf7P3vclq9YgRcr-pDv-ne3w",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 56,
+        "vicinity" : "492 Prillaman Way, Kennesaw"
+     },
+     {
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0310561,
+              "lng" : -84.5738877
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0326420802915,
+                 "lng" : -84.57235936970848
+              },
+              "southwest" : {
+                 "lat" : 34.0299441197085,
+                 "lng" : -84.5750573302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+        "icon_background_color" : "#7B9EB0",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+        "name" : "KSU Center",
+        "place_id" : "ChIJrav1eC0V9YgRVgu57bf4YtA",
+        "reference" : "ChIJrav1eC0V9YgRVgu57bf4YtA",
+        "scope" : "GOOGLE",
+        "types" : [ "premise", "museum", "point_of_interest", "establishment" ],
+        "vicinity" : "Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0310561,
+              "lng" : -84.5738877
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.03264093029149,
+                 "lng" : -84.57229536970848
+              },
+              "southwest" : {
+                 "lat" : 34.0299429697085,
+                 "lng" : -84.57499333029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "KSU's Civil War Center",
+        "place_id" : "ChIJ5wWSEy0V9YgROqYZAOIKufc",
+        "plus_code" : {
+           "compound_code" : "2CJG+CC Kennesaw, GA, USA",
+           "global_code" : "866Q2CJG+CC"
+        },
+        "rating" : 3.6,
+        "reference" : "ChIJ5wWSEy0V9YgROqYZAOIKufc",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 7,
+        "vicinity" : "3333 Busbee Drive Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0310818,
+              "lng" : -84.5741785
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0326721302915,
+                 "lng" : -84.57252281970848
+              },
+              "southwest" : {
+                 "lat" : 34.0299741697085,
+                 "lng" : -84.5752207802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "Museum of History and Holocaust Education",
+        "opening_hours" : {
+           "open_now" : false
+        },
+        "photos" : [
+           {
+              "height" : 3264,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/117016030057434949930\"\u003eM Austin\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAQKjgMuqQo23z3VIZ1lkTZaiC3t_tS4v1leodKYDKBjYduVrhHMjrDHslaWF_MC-ha2q9wiAzIhxRBUgmvuFAr8m6lm8tOqvUs3UJZj_62ZcIz0SkNEx1syrx6rUn2iWgTwuhRpA-hybfbjl9rS-mSruyX22o1dHq_mc3w4j35DV_-",
+              "width" : 2448
+           }
+        ],
+        "place_id" : "ChIJewSSEy0V9YgRV-LqtCLjfS8",
+        "plus_code" : {
+           "compound_code" : "2CJG+C8 Kennesaw, GA, USA",
+           "global_code" : "866Q2CJG+C8"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJewSSEy0V9YgRV-LqtCLjfS8",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 111,
+        "vicinity" : "3333 Busbee Drive Northwest, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0213952,
+              "lng" : -84.60465579999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0227443802915,
+                 "lng" : -84.60304286970847
+              },
+              "southwest" : {
+                 "lat" : 34.0200464197085,
+                 "lng" : -84.6057408302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "Son-Ray Gardens II",
+        "place_id" : "ChIJqQSiNv4V9YgRcZFQdO7FTdM",
+        "plus_code" : {
+           "compound_code" : "29CW+H4 Kennesaw, GA, USA",
+           "global_code" : "866Q29CW+H4"
+        },
+        "reference" : "ChIJqQSiNv4V9YgRcZFQdO7FTdM",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "point_of_interest", "establishment" ],
+        "vicinity" : "Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0227742,
+              "lng" : -84.61506279999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0241796802915,
+                 "lng" : -84.61378926970849
+              },
+              "southwest" : {
+                 "lat" : 34.0214817197085,
+                 "lng" : -84.6164872302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "The Depot Park Underpass",
+        "opening_hours" : {
+           "open_now" : true
+        },
+        "photos" : [
+           {
+              "height" : 4032,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/102433588781231543485\"\u003eJhon Osorio\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uEAYU3eYPkSdbU509BGxuBhZDsAg681q0S9JzfUYb7f05URzfLDKK-BZnOUiSxp2i2M21BJZSb-5vP3xbVT467acykqg0bUlVpDpOxFOapjilQSEk5EbZO7xG6mDC_ttR_1HauZ3zRkgosAGwYn92xetwwvjBqRgOXyi3baHVSQS1H8b",
+              "width" : 3024
+           }
+        ],
+        "place_id" : "ChIJZZFkG-U_9YgRF4tNbPzpVlk",
+        "plus_code" : {
+           "compound_code" : "29FM+4X Kennesaw, GA, USA",
+           "global_code" : "866Q29FM+4X"
+        },
+        "rating" : 4.5,
+        "reference" : "ChIJZZFkG-U_9YgRF4tNbPzpVlk",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 4,
+        "vicinity" : "2840 South Main Street, Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0219001,
+              "lng" : -84.61693799999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.02325718029149,
+                 "lng" : -84.61540876970849
+              },
+              "southwest" : {
+                 "lat" : 34.0205592197085,
+                 "lng" : -84.6181067302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "Big Shanty Spring",
+        "place_id" : "ChIJw4cYCMk_9YgR9Z7teoY5za4",
+        "plus_code" : {
+           "compound_code" : "29CM+Q6 Kennesaw, GA, USA",
+           "global_code" : "866Q29CM+Q6"
+        },
+        "reference" : "ChIJw4cYCMk_9YgR9Z7teoY5za4",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "point_of_interest", "establishment" ],
+        "vicinity" : "Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.02152299999999,
+              "lng" : -84.61744709999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0230173802915,
+                 "lng" : -84.61633976970849
+              },
+              "southwest" : {
+                 "lat" : 34.0203194197085,
+                 "lng" : -84.6190377302915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "Camp McDonald Park",
+        "place_id" : "ChIJq_sDolk_9YgRP8h243VecXM",
+        "plus_code" : {
+           "compound_code" : "29CM+J2 Kennesaw, GA, USA",
+           "global_code" : "866Q29CM+J2"
+        },
+        "reference" : "ChIJq_sDolk_9YgRP8h243VecXM",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "point_of_interest", "establishment" ],
+        "vicinity" : "Kennesaw"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0657088,
+              "lng" : -84.67639629999999
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.0670115302915,
+                 "lng" : -84.67507631970848
+              },
+              "southwest" : {
+                 "lat" : 34.0643135697085,
+                 "lng" : -84.6777742802915
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color" : "#13B5C7",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "name" : "Depot Park History Center",
+        "photos" : [
+           {
+              "height" : 3024,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/110141075736256388336\"\u003eReginald Thomas\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECIgmCOlvbRSr2uisFMCYfomptgEncCl0cN98YjIAd4VuUm-xpaYEHKIFjP28iEfWP1gd1FZ5eodv4G29evb0YAXnMzsSKKl_9NnUw963zu_Dhy7_lY60JtLX6cc2iR3ov4j4p3BspRckFsI1Vsj2Qn4yNYzrlz1abkDgerckjy_dWU",
+              "width" : 4032
+           }
+        ],
+        "place_id" : "ChIJuUoZdCtB9YgR9wl_xn5Fjfo",
+        "plus_code" : {
+           "compound_code" : "388F+7C Acworth, GA, USA",
+           "global_code" : "866Q388F+7C"
+        },
+        "rating" : 4.8,
+        "reference" : "ChIJuUoZdCtB9YgR9wl_xn5Fjfo",
+        "scope" : "GOOGLE",
+        "types" : [ "museum", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 5,
+        "vicinity" : "Acworth"
+     }
+  ],
+  "status" : "OK"
+}

@@ -1,0 +1,82 @@
+{
+  "html_attributions" : [],
+  "results" : [
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.1225782,
+              "lng" : -84.6210428
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.1242022802915,
+                 "lng" : -84.62005651970848
+              },
+              "southwest" : {
+                 "lat" : 34.1215043197085,
+                 "lng" : -84.62275448029149
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+        "icon_background_color" : "#4DB546",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+        "name" : "Payne Campground",
+        "photos" : [
+           {
+              "height" : 2448,
+              "html_attributions" : [
+                 "\u003ca href=\"https://maps.google.com/maps/contrib/109828928938121817733\"\u003eZach Oswald\u003c/a\u003e"
+              ],
+              "photo_reference" : "Aap_uECLgglAM-wtoMdJg3Q9Lf36hWrho4xlVnaqlLEH0nSZU5AQ9HaYMpSfZFzA7rGVVswIgB1omGytn6g6yD89ZcrieN_6S3OhFqBr_CPa8226WOZgaAYKlRd6zlfUeuiPveItE8kMQKCnaycE2EH4qo_SlafLWDTwc10N9CZKeckgg8d0",
+              "width" : 3264
+           }
+        ],
+        "place_id" : "ChIJuX1PZPZB9YgRADbPzn8uk48",
+        "plus_code" : {
+           "compound_code" : "49FH+2H Acworth, GA, USA",
+           "global_code" : "866Q49FH+2H"
+        },
+        "rating" : 4.3,
+        "reference" : "ChIJuX1PZPZB9YgRADbPzn8uk48",
+        "scope" : "GOOGLE",
+        "types" : [ "campground", "lodging", "park", "point_of_interest", "establishment" ],
+        "user_ratings_total" : 265,
+        "vicinity" : "2495 Kellogg Creek Road, Acworth"
+     },
+     {
+        "business_status" : "OPERATIONAL",
+        "geometry" : {
+           "location" : {
+              "lat" : 34.0667491,
+              "lng" : -84.68301030000001
+           },
+           "viewport" : {
+              "northeast" : {
+                 "lat" : 34.06827798029151,
+                 "lng" : -84.6816071697085
+              },
+              "southwest" : {
+                 "lat" : 34.06558001970851,
+                 "lng" : -84.68430513029151
+              }
+           }
+        },
+        "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/camping-71.png",
+        "icon_background_color" : "#4DB546",
+        "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/camping_pinlet",
+        "name" : "Glamp & Chill",
+        "place_id" : "ChIJBcFFMGZB9YgRL0JmpNnoApE",
+        "plus_code" : {
+           "compound_code" : "3888+MQ Acworth, GA, USA",
+           "global_code" : "866Q3888+MQ"
+        },
+        "reference" : "ChIJBcFFMGZB9YgRL0JmpNnoApE",
+        "scope" : "GOOGLE",
+        "types" : [ "campground", "lodging", "park", "point_of_interest", "establishment" ],
+        "vicinity" : "5001 North Main Street, Acworth"
+     }
+  ],
+  "status" : "OK"
+}
