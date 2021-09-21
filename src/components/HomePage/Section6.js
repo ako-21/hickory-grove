@@ -85,25 +85,27 @@ class Section6Render extends React.Component {
 
   render () {
     return (
-      <Container>
-        <h1 className="font3 mt-5 mb-5" style={{ color: '#214d67', fontWeight: 'bold' }}>See What&apos;s Around</h1>
-        <div className="row no-gutters mb-5" style={{ width: 'auto', height: '518.09px' }}>
-          <div className="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-xs-12">
-            <MapTabs onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut} clickedTab={this.clickedTab} {...this.state}></MapTabs>
+      <div id="section6">
+        <Container>
+          <h1 className="font3 mt-5 mb-5" style={{ color: '#214d67', fontWeight: 'bold' }}>See What&apos;s Around</h1>
+          <div className="row no-gutters mb-5" style={{ width: 'auto', height: '518.09px' }}>
+            <div className="col-xl-7 col-lg-7 col-md-12 col-sm-12 col-xs-12">
+              <MapTabs onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut} clickedTab={this.clickedTab} {...this.state}></MapTabs>
+            </div>
+            <div className="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12" style={{ height: '100%' }}>
+              <Section6
+                {...this.state}
+                onMouseOver={this.onMouseOver}
+                onMouseOut={this.onMouseOut}
+                googleMapURL={'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places'}
+                loadingElement={<div style={{ height: '100%' }} />}
+                containerElement={<div style={{ height: '100%', width: '100%' }} />}
+                mapElement={<div style={{ height: '100%' }} />}
+              />
+            </div>
           </div>
-          <div className="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-xs-12" style={{ height: '100%' }}>
-            <Section6
-              {...this.state}
-              onMouseOver={this.onMouseOver}
-              onMouseOut={this.onMouseOut}
-              googleMapURL={'https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places'}
-              loadingElement={<div style={{ height: '100%' }} />}
-              containerElement={<div style={{ height: '100%', width: '100%' }} />}
-              mapElement={<div style={{ height: '100%' }} />}
-            />
-          </div>
-        </div>
-      </Container>
+        </Container>
+      </div>
     )
   }
 }

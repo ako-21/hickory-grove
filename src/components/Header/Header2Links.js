@@ -9,7 +9,21 @@ import { IoIosArrowUp } from 'react-icons/io'
 
 class Header2Links extends React.Component {
     state = {
-      links: [ 'link1', 'link2', 'link3', 'link4' ]
+      anchor: null,
+      links: [
+        { name: 'Floor Plans', anchor: 'section3' },
+        { name: 'Gallery', anchor: '' },
+        { name: 'Area', anchor: 'section6' },
+        { name: 'Contact', anchor: '' }
+      ],
+      selectedNav: null
+    }
+    scrollNav = (event) => {
+      event.preventDefault()
+      // this.setState({ selectedNav: event.target.dataset.anchor })
+      const id = event.target.dataset.anchor
+      const element = document.getElementById(id)
+      element.scrollIntoView({ behavior: 'smooth', block: 'end' })
     }
 
     scrollTop = () => {
@@ -21,7 +35,7 @@ class Header2Links extends React.Component {
           <IoIosArrowUp onClick={this.scrollTop} size={40} type="button" className="ml-3 nav2-text-style col-1 scroll-to-top"></IoIosArrowUp>
           <div className="extra-nav-links">
             {this.state.links.map(link =>
-              <Nav.Link key={link} className="nav2-text-style">{link}</Nav.Link>
+              <Nav.Link key={link.name} data-anchor={link.anchor} onClick={this.scrollNav} className="nav2-text-style">{link.name}</Nav.Link>
             )}
           </div>
         </Container>

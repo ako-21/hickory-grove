@@ -44,7 +44,7 @@ class Section3 extends React.Component {
       arrayToMap = this.AvailabilityArray
     }
     return (
-      <Container className="mb-5">
+      <Container id="section3" className="mb-5">
         <Container className="pt-5">
           <h1 className="font3" style={{ color: '#214d67', fontWeight: 'bold' }}>Leasing Options</h1>
           <p className="mt-3 mb-2 font2" style={{ color: '#214d67', fontWeight: 'bold', letterSpacing: '3px' }}>Subject to Availability</p>
