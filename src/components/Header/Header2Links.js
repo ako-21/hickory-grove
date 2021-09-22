@@ -12,8 +12,8 @@ class Header2Links extends React.Component {
       anchor: null,
       links: [
         { name: 'Floor Plans', anchor: 'section3' },
-        { name: 'Gallery', anchor: '' },
         { name: 'Area', anchor: 'section6' },
+        { name: 'Gallery', anchor: 'section7' },
         { name: 'Contact', anchor: '' }
       ],
       selectedNav: null
