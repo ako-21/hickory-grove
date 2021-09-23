@@ -72,6 +72,11 @@ ul {
   height: 650px;
 }
 
+.visualize {
+  margin-top: 0;
+  margin-bottom: 2rem;
+}
+
 #imgsect5 {
   width: 350px;
   height:155px;
@@ -139,11 +144,11 @@ ul {
 }
 
 .section6-height {
-  height: 1000px;
+  height: 580px;
 }
 
 .map-height {
-  height: 50%;
+  height: 65%;
 }
 
 .nav-tabs .nav-link {
@@ -256,12 +261,23 @@ ul {
   .nav-tabs .nav-link.active {
     padding: 2.3375rem 1rem;
   }
+  .section6-height {
+    height: 700px;
+  }
+  .map-height {
+    height: 65%;
+  }
 }
 
 @media (min-width: 500px) {
 
   .section7 {
     margin-top: 1rem;
+  }
+
+  .visualize {
+    margin-top: 0;
+    margin-bottom: 3rem;
   }
 
   .humburger-button {
@@ -284,6 +300,15 @@ ul {
   .map-list {
     margin-top: 0;
     text-align: center;
+  }
+  .section6-height {
+    height: 900px;
+  }
+  .map-height {
+    height: 50%;
+  }
+  .tabs-height {
+    height: 50%;
   }
 }
 
@@ -322,12 +347,27 @@ ul {
     background-color: white !important;
     justify-content: start;
   } 
+
+  .section6-height {
+    height: 900px;
+  }
+  .map-height {
+    height: 50%;
+  }
+  .tabs-height {
+    height: 50%
+  }
 }
 
 @media (min-width: 576px) {
 
   .section7 {
     margin-top: 1rem;
+  }
+
+  .visualize {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
   }
 
   .list-area-margins-top {

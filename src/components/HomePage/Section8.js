@@ -14,7 +14,7 @@ class Section8 extends React.Component {
   render () {
     return (
       <Container id="section7" className="mb-5">
-        <h1 className="font3 mt-5 mb-5" style={{ color: '#214d67', fontWeight: 'bold' }}>Visualize It</h1>
+        <h1 className="font3 visualize" style={{ color: '#214d67', fontWeight: 'bold' }}>Visualize It</h1>
         <Container style={{ height: '50%' }}>
           <Carousel fade>
             <Carousel.Item>
